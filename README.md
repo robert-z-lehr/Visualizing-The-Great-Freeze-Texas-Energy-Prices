@@ -4,7 +4,7 @@ Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Project 3
 ## Proposed Steps:
 - Create a shared GitHub Repo
 - Create branches:
-  - main U+2611:
+  - [x] main
   - API
   - Database
   - Interactive-Visualizations
