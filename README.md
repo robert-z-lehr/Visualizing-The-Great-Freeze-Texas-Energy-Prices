@@ -6,11 +6,11 @@ Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Project 3
 - Create branches:
   - main
   - API
-  - Javascript
-  - Interactive-Visualizations
-  - Webscraping
-  - Maps
   - Database
+  - Interactive-Visualizations
+  - Javascript
+  - Maps
+  - Webscraping
 - Schedule days and times to meet:
   - We can use the shared Zoom link here in Slack/study-groups
 - Break Project 3 into tasks:
