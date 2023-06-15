@@ -5,12 +5,12 @@ Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Project 3
 - Create a shared GitHub Repo
 - Create branches:
   - [x] main
-  - API
-  - Database
-  - Interactive-Visualizations
-  - Javascript
-  - Maps
-  - Webscraping
+  - [x] API
+  - [x] Database
+  - [x] Interactive-Visualizations
+  - [x] Javascript
+  - [x] Maps
+  - [x] Webscraping
 - Schedule days and times to meet:
   - We can use the shared Zoom link here in Slack/study-groups
 - Break Project 3 into tasks:
