@@ -2,6 +2,13 @@
 Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Project 3
 
 ## Proposed Steps:
+  - Identify the problem
+  - Generate the questions
+  - Decide which visualizations to show
+  - Pull the data
+  - Format the data 
+
+## Completed:
 - Create a shared GitHub Repo
 - Create branches:
   - [x] main
@@ -14,7 +21,6 @@ Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Project 3
   - [x] Webscraping
 - Schedule days and times to meet:
   - We can use the shared Zoom link here in Slack/study-groups
-- Break Project 3 into tasks:
 - Choose a topic(s):
   - Patent
   - Music
