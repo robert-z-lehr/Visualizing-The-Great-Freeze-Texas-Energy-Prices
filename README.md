@@ -6,6 +6,7 @@ Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Project 3
 - Create branches:
   - [x] main
   - [x] API
+  - [x] Data 
   - [x] Database
   - [x] Interactive-Visualizations
   - [x] Javascript
