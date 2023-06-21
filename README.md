@@ -1,6 +1,14 @@
 # Project-3-Visualizing-Data
 Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Project 3
 
+## TO-DO:
+- You will need to create a one-page proposal that includes:
+● A brief articulation of your chosen topic and rationale
+● A link to your dataset(s) and a screenshot of the metadata, if it exists.
+● Three or four screenshots of relevant, “inspiring” visualizations that show your creative ideas
+● A sketch of the final design
+● A link to the primary GitHub repository where you’ll be housing your work
+
 ## Proposed Steps:
   - Identify the problem
   - Generate the questions
