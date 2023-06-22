@@ -1,0 +1,1822 @@
+,period,stateid,sector,entityid,plantid,generatorid,technology,energy_source_code,prime_mover_code,status,latitude,longitude
+0,2023-01,TX,electric-utility,1015,3548,GT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.3033,-97.6128
+1,2023-01,TX,electric-utility,1015,3548,GT2,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.3033,-97.6128
+2,2023-01,TX,electric-utility,1015,3548,GT3,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.3033,-97.6128
+3,2023-01,TX,industrial-chp,1182,55311,GEN1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.002,-95.394
+4,2023-01,TX,industrial-chp,1182,55311,GEN2,All Other,WH,ST,OP,29.002,-95.394
+5,2023-01,TX,electric-utility,1015,3548,GT4,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.3033,-97.6128
+6,2023-01,TX,electric-utility,1015,7900,5A,Natural Gas Fired Combined Cycle,NG,CT,OP,30.2098,-97.6129
+7,2023-01,TX,electric-utility,1015,7900,5C,Natural Gas Fired Combined Cycle,NG,CA,OP,30.2098,-97.6129
+8,2023-01,TX,electric-utility,1015,7900,SH1,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.2098,-97.6129
+9,2023-01,TX,electric-utility,1015,7900,SH2,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.2098,-97.6129
+10,2023-01,TX,electric-utility,1015,7900,SH3,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.2098,-97.6129
+11,2023-01,TX,electric-utility,1015,7900,SH4,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.2098,-97.6129
+12,2023-01,TX,electric-utility,1015,7900,SH6,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.2098,-97.6129
+13,2023-01,TX,electric-utility,1015,7900,SH7,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.2098,-97.6129
+14,2023-01,TX,electric-utility,1015,55708,STG4,Wood/Wood Waste Biomass,WDS,ST,OP,31.832132,-94.90064
+15,2023-01,TX,electric-utility,1015,56374,CT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.304994,-97.707675
+16,2023-01,TX,electric-utility,1015,56374,DG1,Petroleum Liquids,DFO,IC,SB,30.304994,-97.707675
+17,2023-01,TX,industrial-chp,429,52122,GEN1,Natural Gas Fired Combustion Turbine,NG,GT,OP,33.009944,-102.756945
+18,2023-01,TX,industrial-chp,1357,55122,UN1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.954321,-93.883592
+19,2023-01,TX,industrial-chp,1357,55122,UN2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.954321,-93.883592
+20,2023-01,TX,electric-utility,2172,55230,CT3,Natural Gas Fired Combined Cycle,NG,CT,OP,33.101,-97.9574
+21,2023-01,TX,electric-utility,2172,55230,CT4,Natural Gas Fired Combined Cycle,NG,CT,OP,33.101,-97.9574
+22,2023-01,TX,electric-utility,2172,55230,ST1,Natural Gas Fired Combined Cycle,NG,CA,OP,33.101,-97.9574
+23,2023-01,TX,electric-utility,2172,55230,ST2,Natural Gas Fired Combined Cycle,NG,CA,OP,33.101,-97.9574
+24,2023-01,TX,electric-utility,2172,3628,1,Natural Gas Steam Turbine,NG,ST,OS,32.6581,-98.3103
+25,2023-01,TX,ipp-non-chp,2171,55357,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.4731,-95.6244
+26,2023-01,TX,ipp-non-chp,2171,55357,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.4731,-95.6244
+27,2023-01,TX,ipp-non-chp,2171,55357,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,29.4731,-95.6244
+28,2023-01,TX,electric-utility,2172,3628,2,Natural Gas Steam Turbine,NG,ST,OP,32.6581,-98.3103
+29,2023-01,TX,electric-utility,2172,3628,3,Natural Gas Steam Turbine,NG,ST,OP,32.6581,-98.3103
+30,2023-01,TX,electric-utility,2172,3628,4,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.6581,-98.3103
+31,2023-01,TX,electric-utility,2172,3628,5,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.6581,-98.3103
+32,2023-01,TX,electric-utility,2172,54817,GT-1,Natural Gas Fired Combined Cycle,NG,CT,OP,32.3994,-97.4078
+33,2023-01,TX,electric-utility,2172,54817,ST-1,Natural Gas Fired Combined Cycle,NG,CA,OP,32.3994,-97.4078
+34,2023-01,TX,electric-utility,2172,55230,CT1,Natural Gas Fired Combined Cycle,NG,CT,OP,33.101,-97.9574
+35,2023-01,TX,electric-utility,2172,55230,CT2,Natural Gas Fired Combined Cycle,NG,CT,OP,33.101,-97.9574
+36,2023-01,TX,industrial-chp,914,10568,GEN1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.964938,-93.891283
+37,2023-01,TX,electric-utility,1015,61741,KBESS,Batteries,MWH,BA,OP,30.266028,-97.686139
+38,2023-01,TX,electric-utility,1015,61742,GEN1,Flywheels,MWH,FW,SB,30.219946,-97.708808
+39,2023-01,TX,electric-utility,1015,61742,GEN2,Flywheels,MWH,FW,SB,30.219946,-97.708808
+40,2023-01,TX,ipp-non-chp,1074,55144,U4,Natural Gas Fired Combined Cycle,NG,CS,OP,29.7806,-97.9894
+41,2023-01,TX,ipp-non-chp,1074,55144,U1,Natural Gas Fired Combined Cycle,NG,CS,OP,29.7806,-97.9894
+42,2023-01,TX,ipp-non-chp,1074,55144,U2,Natural Gas Fired Combined Cycle,NG,CS,OP,29.7806,-97.9894
+43,2023-01,TX,ipp-non-chp,1074,55144,U3,Natural Gas Fired Combined Cycle,NG,CS,OP,29.7806,-97.9894
+44,2023-01,TX,industrial-chp,327,10298,GT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.6225,-95.0458
+45,2023-01,TX,industrial-chp,327,10298,GT2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.6225,-95.0458
+46,2023-01,TX,industrial-chp,327,10298,GT3,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.6225,-95.0458
+47,2023-01,TX,industrial-chp,327,10298,GT4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.6225,-95.0458
+48,2023-01,TX,industrial-chp,327,54748,G1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.97876,-93.952294
+49,2023-01,TX,ipp-non-chp,313,55139,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,32.33422,-97.731686
+50,2023-01,TX,ipp-non-chp,313,55139,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,32.33422,-97.731686
+51,2023-01,TX,ipp-non-chp,313,55139,ST,Natural Gas Fired Combined Cycle,NG,CA,OP,32.33422,-97.731686
+52,2023-01,TX,industrial-chp,5338,56152,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,28.988761,-95.395417
+53,2023-01,TX,industrial-chp,5338,56152,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,28.988761,-95.395417
+54,2023-01,TX,ipp-chp,5374,54676,G81,Natural Gas Fired Combined Cycle,NG,CT,OP,28.9802,-95.342
+55,2023-01,TX,ipp-chp,5374,54676,G82,Natural Gas Fired Combined Cycle,NG,CT,OP,28.9802,-95.342
+56,2023-01,TX,ipp-chp,5374,54676,G83,Natural Gas Fired Combined Cycle,NG,CT,OP,28.9802,-95.342
+57,2023-01,TX,ipp-chp,5374,54676,G84,Natural Gas Fired Combined Cycle,NG,CA,OP,28.9802,-95.342
+58,2023-01,TX,industrial-chp,3432,10243,GEN5,Natural Gas Fired Combustion Turbine,NG,GT,OP,27.5697,-97.8228
+59,2023-01,TX,ipp-chp,3370,55299,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.7189,-95.2319
+60,2023-01,TX,ipp-chp,3370,55299,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.7189,-95.2319
+61,2023-01,TX,ipp-chp,3370,55299,CTG3,Natural Gas Fired Combined Cycle,NG,CT,OP,29.7189,-95.2319
+62,2023-01,TX,ipp-chp,3370,55299,ST-1,Natural Gas Fired Combined Cycle,NG,CA,OP,29.7189,-95.2319
+63,2023-01,TX,electric-utility,5063,61643,DEC2,Natural Gas Internal Combustion Engine,NG,IC,OP,33.214869,-97.209692
+64,2023-01,TX,electric-utility,5063,61643,DEC3,Natural Gas Internal Combustion Engine,NG,IC,OP,33.214869,-97.209692
+65,2023-01,TX,electric-utility,5063,61643,DEC4,Natural Gas Internal Combustion Engine,NG,IC,OP,33.214869,-97.209692
+66,2023-01,TX,electric-utility,5063,61643,DEC5,Natural Gas Internal Combustion Engine,NG,IC,OP,33.214869,-97.209692
+67,2023-01,TX,electric-utility,5063,61643,DEC6,Natural Gas Internal Combustion Engine,NG,IC,OP,33.214869,-97.209692
+68,2023-01,TX,electric-utility,5063,61643,DEC7,Natural Gas Internal Combustion Engine,NG,IC,OP,33.214869,-97.209692
+69,2023-01,TX,electric-utility,5063,61643,DEC8,Natural Gas Internal Combustion Engine,NG,IC,OP,33.214869,-97.209692
+70,2023-01,TX,electric-utility,5063,61643,DEC9,Natural Gas Internal Combustion Engine,NG,IC,OP,33.214869,-97.209692
+71,2023-01,TX,ipp-chp,4994,55464,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.713414,-95.134508
+72,2023-01,TX,ipp-chp,4994,55464,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.713414,-95.134508
+73,2023-01,TX,ipp-chp,4994,55464,CTG3,Natural Gas Fired Combined Cycle,NG,CT,OP,29.713414,-95.134508
+74,2023-01,TX,ipp-chp,4994,55464,CTG4,Natural Gas Fired Combined Cycle,NG,CT,OP,29.713414,-95.134508
+75,2023-01,TX,ipp-chp,4994,55464,CTG6,Natural Gas Fired Combined Cycle,NG,CT,OP,29.713414,-95.134508
+76,2023-01,TX,ipp-chp,4994,55464,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,29.713414,-95.134508
+77,2023-01,TX,electric-utility,5063,61643,DEC12,Natural Gas Internal Combustion Engine,NG,IC,OP,33.214869,-97.209692
+78,2023-01,TX,electric-utility,5063,61643,DEC11,Natural Gas Internal Combustion Engine,NG,IC,OP,33.214869,-97.209692
+79,2023-01,TX,electric-utility,5063,61643,DEC1,Natural Gas Internal Combustion Engine,NG,IC,OP,33.214869,-97.209692
+80,2023-01,TX,electric-utility,5063,61643,DEC10,Natural Gas Internal Combustion Engine,NG,IC,OP,33.214869,-97.209692
+81,2023-01,TX,industrial-chp,5065,50475,GEN1,Natural Gas Fired Combustion Turbine,NG,GT,OP,27.811083,-97.595813
+82,2023-01,TX,ipp-chp,4383,55206,CT1,Natural Gas Fired Combined Cycle,NG,CT,OP,27.8139,-97.4283
+83,2023-01,TX,ipp-chp,4383,55206,CT2,Natural Gas Fired Combined Cycle,NG,CT,OP,27.8139,-97.4283
+84,2023-01,TX,ipp-chp,4383,55206,ST1,Natural Gas Fired Combined Cycle,NG,CA,OP,27.8139,-97.4283
+85,2023-01,TX,ipp-non-chp,4405,55358,CT4,Natural Gas Fired Combined Cycle,NG,CT,OP,30.2588,-93.7353
+86,2023-01,TX,ipp-non-chp,4405,55358,CT1,Natural Gas Fired Combined Cycle,NG,CT,OP,30.2588,-93.7353
+87,2023-01,TX,ipp-non-chp,4405,55358,CT2,Natural Gas Fired Combined Cycle,NG,CT,OP,30.2588,-93.7353
+88,2023-01,TX,ipp-non-chp,4405,55358,CT3,Natural Gas Fired Combined Cycle,NG,CT,OP,30.2588,-93.7353
+89,2023-01,TX,ipp-non-chp,4405,55358,ST4,Natural Gas Fired Combined Cycle,NG,CA,OP,30.2588,-93.7353
+90,2023-01,TX,ipp-non-chp,4405,55358,ST1,Natural Gas Fired Combined Cycle,NG,CA,OP,30.2588,-93.7353
+91,2023-01,TX,ipp-non-chp,4405,55358,ST2,Natural Gas Fired Combined Cycle,NG,CA,OP,30.2588,-93.7353
+92,2023-01,TX,ipp-non-chp,4405,55358,ST3,Natural Gas Fired Combined Cycle,NG,CA,OP,30.2588,-93.7353
+93,2023-01,TX,ipp-non-chp,2770,54979,WIND,Onshore Wind Turbine,WND,WT,OP,32.2075,-101.388333
+94,2023-01,TX,ipp-non-chp,2934,55545,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,26.34172,-98.175759
+95,2023-01,TX,ipp-non-chp,2934,55545,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,26.34172,-98.175759
+96,2023-01,TX,ipp-non-chp,2934,55545,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,26.34172,-98.175759
+97,2023-01,TX,electric-utility,2409,3559,DG-4,Petroleum Liquids,DFO,IC,SB,25.9131,-97.5214
+98,2023-01,TX,electric-utility,2409,3559,DG-6a,Petroleum Liquids,DFO,IC,SB,25.9131,-97.5214
+99,2023-01,TX,electric-utility,2409,3559,DG-6b,Petroleum Liquids,DFO,IC,SB,25.9131,-97.5214
+100,2023-01,TX,electric-utility,2442,3561,7,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.64741,-96.372316
+101,2023-01,TX,electric-utility,2442,6243,1,Natural Gas Steam Turbine,NG,ST,OP,30.7217,-96.4608
+102,2023-01,TX,electric-utility,2442,6243,2,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.7217,-96.4608
+103,2023-01,TX,electric-utility,2442,6243,3,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.7217,-96.4608
+104,2023-01,TX,electric-utility,2409,3559,10,Natural Gas Fired Combustion Turbine,NG,GT,OP,25.9131,-97.5214
+105,2023-01,TX,electric-utility,2409,3559,6,Natural Gas Fired Combined Cycle,NG,CA,OP,25.9131,-97.5214
+106,2023-01,TX,electric-utility,2409,3559,9,Natural Gas Fired Combined Cycle,NG,CT,OP,25.9131,-97.5214
+107,2023-01,TX,electric-utility,2409,3559,DG-3a,Petroleum Liquids,DFO,IC,SB,25.9131,-97.5214
+108,2023-01,TX,electric-utility,2409,3559,DG-3b,Petroleum Liquids,DFO,IC,SB,25.9131,-97.5214
+109,2023-01,TX,ipp-non-chp,2877,55123,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,26.3403,-98.19
+110,2023-01,TX,ipp-non-chp,2877,55123,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,26.3403,-98.19
+111,2023-01,TX,ipp-non-chp,2877,55123,STG,Natural Gas Fired Combined Cycle,NG,CA,OP,26.3403,-98.19
+112,2023-01,TX,ipp-chp,2838,55327,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.7731,-94.9019
+113,2023-01,TX,ipp-chp,2838,55327,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.7731,-94.9019
+114,2023-01,TX,ipp-chp,2838,55327,CTG3,Natural Gas Fired Combined Cycle,NG,CT,OP,29.7731,-94.9019
+115,2023-01,TX,ipp-chp,2838,55327,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,29.7731,-94.9019
+116,2023-01,TX,electric-utility,6958,3576,4,Natural Gas Fired Combustion Turbine,NG,GT,OP,33.068055,-96.452481
+117,2023-01,TX,electric-utility,6958,4266,4,Natural Gas Steam Turbine,NG,ST,OP,33.1975,-97.1061
+118,2023-01,TX,electric-utility,6958,4266,5,Natural Gas Steam Turbine,NG,ST,OP,33.1975,-97.1061
+119,2023-01,TX,electric-utility,7349,56326,GEN1,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.974554,-102.743607
+120,2023-01,TX,electric-utility,7349,55065,GEN1,Natural Gas Fired Combined Cycle,NG,CT,OP,32.9728,-102.7417
+121,2023-01,TX,electric-utility,7349,55065,GEN2,Natural Gas Fired Combined Cycle,NG,CT,OP,32.9728,-102.7417
+122,2023-01,TX,electric-utility,7349,55065,GEN3,Natural Gas Fired Combined Cycle,NG,CA,OP,32.9728,-102.7417
+123,2023-01,TX,electric-utility,7349,56326,GEN2,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.974554,-102.743607
+124,2023-01,TX,electric-utility,7349,56326,GEN3,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.974554,-102.743607
+125,2023-01,TX,electric-utility,7349,58835,ELK2,Natural Gas Fired Combustion Turbine,NG,GT,OP,33.865,-101.843333
+126,2023-01,TX,electric-utility,7349,58835,ELK3,Natural Gas Fired Combustion Turbine,NG,GT,OP,33.865,-101.843333
+127,2023-01,TX,electric-utility,7634,4195,EP,Natural Gas Internal Combustion Engine,NG,IC,OP,33.1707,-96.1264
+128,2023-01,TX,electric-utility,7634,4195,EP2,Natural Gas Internal Combustion Engine,NG,IC,OP,33.1707,-96.1264
+129,2023-01,TX,electric-utility,7634,4195,EP3,Natural Gas Internal Combustion Engine,NG,IC,OP,33.1707,-96.1264
+130,2023-01,TX,electric-utility,7751,3582,2,Conventional Hydroelectric,WAT,HY,OS,29.640187,-98.045934
+131,2023-01,TX,electric-utility,7751,3583,1,Conventional Hydroelectric,WAT,HY,OS,29.495193,-97.624948
+132,2023-01,TX,electric-utility,7349,57865,E08,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+133,2023-01,TX,electric-utility,7349,57865,E09,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+134,2023-01,TX,electric-utility,7349,57865,E10,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+135,2023-01,TX,electric-utility,7349,57865,E11,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+136,2023-01,TX,industrial-chp,6541,10554,BO3,Natural Gas Fired Combined Cycle,NG,CT,OP,28.6917,-96.5417
+137,2023-01,TX,electric-utility,7349,57865,E04,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+138,2023-01,TX,electric-utility,7349,57865,E01,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+139,2023-01,TX,electric-utility,7349,57865,E02,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+140,2023-01,TX,electric-utility,7349,57865,E03,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+141,2023-01,TX,electric-utility,7349,57865,E05,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+142,2023-01,TX,electric-utility,7349,57865,E06,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+143,2023-01,TX,electric-utility,7349,57865,E07,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+144,2023-01,TX,industrial-chp,7375,54321,N803,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.9728,-94.2142
+145,2023-01,TX,electric-utility,7634,4195,ST1,Natural Gas Steam Turbine,NG,ST,OP,33.1707,-96.1264
+146,2023-01,TX,electric-utility,7634,4195,ST2,Natural Gas Steam Turbine,NG,ST,OP,33.1707,-96.1264
+147,2023-01,TX,electric-utility,7634,4195,ST3,Natural Gas Steam Turbine,NG,ST,OP,33.1707,-96.1264
+148,2023-01,TX,ipp-non-chp,7667,55086,GT1A,Natural Gas Fired Combined Cycle,NG,CT,OP,27.88929,-97.258417
+149,2023-01,TX,ipp-non-chp,7667,55086,GT1B,Natural Gas Fired Combined Cycle,NG,CT,OP,27.88929,-97.258417
+150,2023-01,TX,ipp-non-chp,7667,55086,STG,Natural Gas Fired Combined Cycle,NG,CA,OP,27.88929,-97.258417
+151,2023-01,TX,industrial-chp,7375,54321,2N80,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.9728,-94.2142
+152,2023-01,TX,industrial-chp,7375,54321,3N80,Natural Gas Steam Turbine,NG,ST,OP,29.9728,-94.2142
+153,2023-01,TX,industrial-chp,7375,54321,N802,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.9728,-94.2142
+154,2023-01,TX,industrial-chp,7375,54321,N804,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.9728,-94.2142
+155,2023-01,TX,commercial-chp,6831,54520,TG2,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.775093,-97.14209
+156,2023-01,TX,commercial-chp,6831,54520,SD1,Natural Gas Internal Combustion Engine,NG,IC,SB,32.775093,-97.14209
+157,2023-01,TX,commercial-chp,6831,54520,SD2,Natural Gas Internal Combustion Engine,NG,IC,SB,32.775093,-97.14209
+158,2023-01,TX,commercial-chp,6831,54520,TG1,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.775093,-97.14209
+159,2023-01,TX,industrial-chp,6541,10554,3ST1,Natural Gas Fired Combined Cycle,NG,CA,OP,28.6917,-96.5417
+160,2023-01,TX,industrial-chp,6541,10554,3TBG1,Natural Gas Fired Combined Cycle,NG,CT,OP,28.6917,-96.5417
+161,2023-01,TX,industrial-chp,6541,10554,3TBG2,Natural Gas Fired Combined Cycle,NG,CT,OP,28.6917,-96.5417
+162,2023-01,TX,industrial-chp,6541,10554,ST1,Natural Gas Fired Combined Cycle,NG,CA,OP,28.6917,-96.5417
+163,2023-01,TX,industrial-chp,6541,10554,ST2,Natural Gas Fired Combined Cycle,NG,CA,OP,28.6917,-96.5417
+164,2023-01,TX,industrial-chp,6541,10554,ST3,Natural Gas Fired Combined Cycle,NG,CA,OP,28.6917,-96.5417
+165,2023-01,TX,industrial-chp,6541,10554,TBG1,Natural Gas Fired Combined Cycle,NG,CT,OP,28.6917,-96.5417
+166,2023-01,TX,industrial-chp,6541,10554,TBG2,Natural Gas Fired Combined Cycle,NG,CT,OP,28.6917,-96.5417
+167,2023-01,TX,industrial-chp,6541,10554,TBG3,Natural Gas Fired Combined Cycle,NG,CT,OP,28.6917,-96.5417
+168,2023-01,TX,industrial-chp,6541,10554,TBG4,Natural Gas Fired Combined Cycle,NG,CT,OP,28.6917,-96.5417
+169,2023-01,TX,industrial-chp,6541,10554,TBG5,Natural Gas Fired Combined Cycle,NG,CT,OP,28.6917,-96.5417
+170,2023-01,TX,industrial-chp,6541,10554,TBG6,Natural Gas Fired Combined Cycle,NG,CT,OP,28.6917,-96.5417
+171,2023-01,TX,industrial-non-chp,6541,56708,G2101,Natural Gas Steam Turbine,NG,ST,OP,28.650278,-96.539722
+172,2023-01,TX,industrial-non-chp,6541,56708,G2201,Natural Gas Steam Turbine,NG,ST,OP,28.650278,-96.539722
+173,2023-01,TX,ipp-non-chp,6763,55226,GT4,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8907,-96.1131
+174,2023-01,TX,ipp-non-chp,6763,55226,GT1,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8907,-96.1131
+175,2023-01,TX,ipp-non-chp,6763,55226,GT2,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8907,-96.1131
+176,2023-01,TX,ipp-non-chp,6763,55226,GT3,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8907,-96.1131
+177,2023-01,TX,ipp-non-chp,6763,55226,ST3,Natural Gas Fired Combined Cycle,NG,CA,OP,31.8907,-96.1131
+178,2023-01,TX,ipp-non-chp,6763,55226,ST6,Natural Gas Fired Combined Cycle,NG,CA,OP,31.8907,-96.1131
+179,2023-01,TX,electric-utility,7349,57865,E12,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+180,2023-01,TX,electric-utility,7349,57865,E13,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+181,2023-01,TX,electric-utility,7349,57865,E14,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+182,2023-01,TX,electric-utility,7349,57865,E15,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+183,2023-01,TX,electric-utility,7349,57865,E16,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+184,2023-01,TX,electric-utility,7349,57865,E17,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+185,2023-01,TX,electric-utility,7349,57865,E18,Natural Gas Internal Combustion Engine,NG,IC,OP,33.865,-101.843333
+186,2023-01,TX,electric-utility,7349,57866,PWR,Onshore Wind Turbine,WND,WT,OP,35.243611,-102.21
+187,2023-01,TX,electric-utility,7349,58835,ELK1,Natural Gas Fired Combustion Turbine,NG,GT,OP,33.865,-101.843333
+188,2023-01,TX,electric-utility,7751,791,1,Conventional Hydroelectric,WAT,HY,OP,29.87056,-98.194733
+189,2023-01,TX,electric-utility,7751,791,2,Conventional Hydroelectric,WAT,HY,OP,29.87056,-98.194733
+190,2023-01,TX,electric-utility,7751,3581,1,Conventional Hydroelectric,WAT,HY,OP,29.593951,-98.040734
+191,2023-01,TX,electric-utility,7751,3581,2,Conventional Hydroelectric,WAT,HY,OP,29.593951,-98.040734
+192,2023-01,TX,electric-utility,7751,3582,1,Conventional Hydroelectric,WAT,HY,OS,29.640187,-98.045934
+193,2023-01,TX,electric-utility,7751,3585,1,Conventional Hydroelectric,WAT,HY,OP,29.537565,-97.932106
+194,2023-01,TX,electric-utility,6958,794,1,Conventional Hydroelectric,WAT,HY,OP,33.068473,-96.963806
+195,2023-01,TX,electric-utility,6958,3576,1,Natural Gas Steam Turbine,NG,ST,OP,33.068055,-96.452481
+196,2023-01,TX,electric-utility,6958,3576,2,Natural Gas Steam Turbine,NG,ST,OP,33.068055,-96.452481
+197,2023-01,TX,electric-utility,6958,3576,3,Natural Gas Steam Turbine,NG,ST,OP,33.068055,-96.452481
+198,2023-01,TX,electric-utility,7751,3584,1,Conventional Hydroelectric,WAT,HY,OS,29.4681,-97.4919
+199,2023-01,TX,electric-utility,7751,3585,2,Conventional Hydroelectric,WAT,HY,OP,29.537565,-97.932106
+200,2023-01,TX,electric-utility,7751,3586,1,Conventional Hydroelectric,WAT,HY,OS,29.548136,-97.999587
+201,2023-01,TX,electric-utility,5701,9,1,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.7569,-106.375
+202,2023-01,TX,ipp-non-chp,5761,55223,GT1,Natural Gas Fired Combined Cycle,NG,CT,OP,32.32,-96.675
+203,2023-01,TX,ipp-non-chp,5761,55223,ST1,Natural Gas Fired Combined Cycle,NG,CA,OP,32.32,-96.675
+204,2023-01,TX,electric-utility,5701,3456,1,Natural Gas Steam Turbine,NG,ST,OP,31.983587,-106.431777
+205,2023-01,TX,electric-utility,5701,3456,2,Natural Gas Steam Turbine,NG,ST,OP,31.983587,-106.431777
+206,2023-01,TX,electric-utility,5701,3456,3,Natural Gas Steam Turbine,NG,ST,OP,31.983587,-106.431777
+207,2023-01,TX,electric-utility,5701,3456,4,Natural Gas Fired Combined Cycle,NG,CA,OP,31.983587,-106.431777
+208,2023-01,TX,electric-utility,5701,3456,5CA1,Natural Gas Fired Combined Cycle,NG,CA,OP,31.983587,-106.431777
+209,2023-01,TX,electric-utility,5701,3456,5CT1,Natural Gas Fired Combined Cycle,NG,CT,OP,31.983587,-106.431777
+210,2023-01,TX,electric-utility,5701,3456,5CT2,Natural Gas Fired Combined Cycle,NG,CT,OP,31.983587,-106.431777
+211,2023-01,TX,electric-utility,5701,3456,CT1,Natural Gas Fired Combined Cycle,NG,CT,OP,31.983587,-106.431777
+212,2023-01,TX,electric-utility,5701,3456,CT2,Natural Gas Fired Combined Cycle,NG,CT,OP,31.983587,-106.431777
+213,2023-01,TX,electric-utility,5701,58562,GT-1,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.823889,-106.211944
+214,2023-01,TX,electric-utility,5701,58562,GT-2,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.823889,-106.211944
+215,2023-01,TX,electric-utility,5701,58562,GT-3,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.823889,-106.211944
+216,2023-01,TX,electric-utility,5701,58562,GT-4,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.823889,-106.211944
+217,2023-01,TX,electric-utility,5701,60300,IMPV1,Solar Photovoltaic,SUN,PV,OP,31.813061,-106.218892
+218,2023-01,TX,ipp-non-chp,6035,59812,CGT4,Natural Gas Fired Combined Cycle,NG,CT,OP,32.337679,-97.734612
+219,2023-01,TX,ipp-non-chp,6035,59812,CGT5,Natural Gas Fired Combined Cycle,NG,CT,OP,32.337679,-97.734612
+220,2023-01,TX,ipp-non-chp,6035,59812,STG6,Natural Gas Fired Combined Cycle,NG,CA,OP,32.337679,-97.734612
+221,2023-01,TX,industrial-chp,6091,10692,GEN1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.759124,-95.009648
+222,2023-01,TX,industrial-chp,6091,10692,GEN2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.759124,-95.009648
+223,2023-01,TX,ipp-non-chp,6354,55581,EXIS,Onshore Wind Turbine,WND,WT,OP,31.2092,-102.2417
+224,2023-01,TX,industrial-chp,6090,50625,TG34,Natural Gas Steam Turbine,NG,ST,OP,30.0636,-94.0753
+225,2023-01,TX,industrial-chp,6090,50625,TG41,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.0636,-94.0753
+226,2023-01,TX,industrial-chp,6090,50625,TG42,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.0636,-94.0753
+227,2023-01,TX,industrial-chp,6426,50026,FR6,Natural Gas Fired Combustion Turbine,NG,GT,OP,27.8322,-97.5281
+228,2023-01,TX,ipp-non-chp,6035,3491,3,Natural Gas Steam Turbine,NG,ST,OP,32.7283,-97.2192
+229,2023-01,TX,ipp-non-chp,6035,3491,4,Natural Gas Steam Turbine,NG,ST,OP,32.7283,-97.2192
+230,2023-01,TX,ipp-non-chp,6035,3491,5,Natural Gas Steam Turbine,NG,ST,OP,32.7283,-97.2192
+231,2023-01,TX,industrial-chp,6090,50625,TG43,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.0636,-94.0753
+232,2023-01,TX,industrial-chp,6091,10436,GT38,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.753517,-94.997277
+233,2023-01,TX,industrial-chp,6091,10436,GT41,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.753517,-94.997277
+234,2023-01,TX,industrial-chp,6091,10436,GT42,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.753517,-94.997277
+235,2023-01,TX,industrial-chp,6091,10436,GT43,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.753517,-94.997277
+236,2023-01,TX,industrial-chp,6091,10692,GEN5,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.759124,-95.009648
+237,2023-01,TX,industrial-chp,6091,10436,GT44,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.753517,-94.997277
+238,2023-01,TX,industrial-chp,6091,10436,GT45,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.753517,-94.997277
+239,2023-01,TX,industrial-chp,6091,10436,ST34,All Other,WH,ST,OP,29.753517,-94.997277
+240,2023-01,TX,ipp-non-chp,6035,60122,CT7,Natural Gas Fired Combined Cycle,NG,CT,OP,29.289415,-96.065399
+241,2023-01,TX,ipp-non-chp,6035,60122,CT8,Natural Gas Fired Combined Cycle,NG,CT,OP,29.289415,-96.065399
+242,2023-01,TX,ipp-non-chp,6035,60122,STG9,Natural Gas Fired Combined Cycle,NG,CA,OP,29.289415,-96.065399
+243,2023-01,TX,industrial-chp,6090,50625,ETG,Other Gases,OG,OT,OP,30.0636,-94.0753
+244,2023-01,TX,industrial-chp,6090,50625,TG22,Natural Gas Steam Turbine,NG,ST,OP,30.0636,-94.0753
+245,2023-01,TX,industrial-chp,6090,50625,TG23,Natural Gas Steam Turbine,NG,ST,OP,30.0636,-94.0753
+246,2023-01,TX,industrial-chp,6090,50625,TG24,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.0636,-94.0753
+247,2023-01,TX,industrial-chp,6090,50625,TG32,Natural Gas Steam Turbine,NG,ST,OP,30.0636,-94.0753
+248,2023-01,TX,industrial-chp,6090,50625,TG33,Natural Gas Steam Turbine,NG,ST,OP,30.0636,-94.0753
+249,2023-01,TX,industrial-chp,6091,10692,GEN3,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.759124,-95.009648
+250,2023-01,TX,industrial-chp,6091,10692,GEN4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.759124,-95.009648
+251,2023-01,TX,electric-utility,16604,3609,CGT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.3525,-98.5761
+252,2023-01,TX,electric-utility,16604,3609,CGT2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.3525,-98.5761
+253,2023-01,TX,electric-utility,16604,3609,CGT3,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.3525,-98.5761
+254,2023-01,TX,electric-utility,16604,3609,CGT4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.3525,-98.5761
+255,2023-01,TX,electric-utility,16604,3611,1,Natural Gas Steam Turbine,NG,ST,OP,29.308056,-98.3242
+256,2023-01,TX,electric-utility,16604,3611,2,Natural Gas Steam Turbine,NG,ST,OP,29.308056,-98.3242
+257,2023-01,TX,electric-utility,16604,3612,3,Natural Gas Steam Turbine,NG,ST,OP,29.2567,-98.3825
+258,2023-01,TX,electric-utility,16604,3612,1,Natural Gas Steam Turbine,NG,ST,OP,29.2567,-98.3825
+259,2023-01,TX,electric-utility,16604,3612,2,Natural Gas Steam Turbine,NG,ST,OP,29.2567,-98.3825
+260,2023-01,TX,electric-utility,16604,3612,5,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.2567,-98.3825
+261,2023-01,TX,electric-utility,16604,3612,6,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.2567,-98.3825
+262,2023-01,TX,electric-utility,16604,3612,7,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.2567,-98.3825
+263,2023-01,TX,electric-utility,16604,3612,8,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.2567,-98.3825
+264,2023-01,TX,electric-utility,16604,7097,1,Conventional Steam Coal,SUB,ST,OP,29.309722,-98.3203
+265,2023-01,TX,electric-utility,16604,7097,2,Conventional Steam Coal,SUB,ST,OP,29.309722,-98.3203
+266,2023-01,TX,electric-utility,16604,7512,1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.257046,-98.384045
+267,2023-01,TX,electric-utility,16604,7512,2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.257046,-98.384045
+268,2023-01,TX,electric-utility,16604,7512,3,Natural Gas Fired Combined Cycle,NG,CA,OP,29.257046,-98.384045
+269,2023-01,TX,electric-utility,16604,55137,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.593056,-97.973215
+270,2023-01,TX,electric-utility,16604,55137,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.593056,-97.973215
+271,2023-01,TX,electric-utility,16604,55137,CTG3,Natural Gas Fired Combined Cycle,NG,CT,OP,29.593056,-97.973215
+272,2023-01,TX,electric-utility,16604,55137,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,29.593056,-97.973215
+273,2023-01,TX,electric-utility,16604,60472,CPS1,Solar Photovoltaic,SUN,PV,OP,29.377966,-98.26922
+274,2023-01,TX,electric-utility,16604,62609,BA1,Batteries,MWH,BA,OP,29.43445,-98.61765
+275,2023-01,TX,electric-utility,16604,62610,PV1,Solar Photovoltaic,SUN,PV,OP,29.43445,-98.61765
+276,2023-01,TX,electric-utility,16624,6183,1,Conventional Steam Coal,LIG,ST,OP,28.7044,-98.4775
+277,2023-01,TX,ipp-non-chp,15399,61343,WT1,Onshore Wind Turbine,WND,WT,OP,28.170179,-97.817507
+278,2023-01,TX,ipp-non-chp,15399,56795,1,Onshore Wind Turbine,WND,WT,OP,27.022112,-97.498478
+279,2023-01,TX,ipp-non-chp,15399,57095,1,Onshore Wind Turbine,WND,WT,OP,27.122529,-97.557372
+280,2023-01,TX,industrial-chp,14925,54628,2607,Natural Gas Fired Combustion Turbine,NG,GT,OS,31.764458,-106.391314
+281,2023-01,TX,industrial-chp,14925,54628,2608,Natural Gas Fired Combustion Turbine,NG,GT,OS,31.764458,-106.391314
+282,2023-01,TX,industrial-chp,14925,54628,3001,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.764458,-106.391314
+283,2023-01,TX,industrial-chp,14925,54628,3002,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.764458,-106.391314
+284,2023-01,TX,industrial-chp,14925,54628,3003,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.764458,-106.391314
+285,2023-01,TX,ipp-non-chp,15399,57156,BC,Onshore Wind Turbine,WND,WT,OP,33.052226,-98.328415
+286,2023-01,TX,ipp-non-chp,15399,57927,1,Onshore Wind Turbine,WND,WT,OP,27.184652,-97.59818
+287,2023-01,TX,ipp-non-chp,14628,55796,1,Onshore Wind Turbine,WND,WT,OP,30.9514,-102.414067
+288,2023-01,TX,ipp-non-chp,14629,55795,1,Onshore Wind Turbine,WND,WT,OP,30.9514,-102.414067
+289,2023-01,TX,commercial-chp,15941,50054,GEN1,Natural Gas Fired Combustion Turbine,NG,GT,SB,29.721048,-95.39536
+290,2023-01,TX,commercial-chp,15941,50054,GEN2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.721048,-95.39536
+291,2023-01,TX,industrial-chp,14254,50043,ST,Natural Gas Fired Combined Cycle,NG,CA,OP,29.7314,-95.0839
+292,2023-01,TX,industrial-chp,14254,50043,GT1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.7314,-95.0839
+293,2023-01,TX,industrial-chp,14254,50043,GT2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.7314,-95.0839
+294,2023-01,TX,industrial-chp,14254,50043,GT3,Natural Gas Fired Combined Cycle,NG,CT,OP,29.7314,-95.0839
+295,2023-01,TX,industrial-chp,16098,54338,GENC,Other Waste Biomass,AB,ST,OP,26.269683,-97.867012
+296,2023-01,TX,industrial-chp,16098,54338,GEND,Other Waste Biomass,AB,ST,OP,26.269683,-97.867012
+297,2023-01,TX,industrial-chp,16098,54338,GENE,Petroleum Liquids,DFO,IC,OP,26.269683,-97.867012
+298,2023-01,TX,ipp-chp,55879,50815,GEN5,Natural Gas Fired Combined Cycle,NG,CT,OP,29.8161,-95.10773
+299,2023-01,TX,ipp-chp,55879,50815,GEN6,Natural Gas Fired Combined Cycle,NG,CA,OP,29.8161,-95.10773
+300,2023-01,TX,ipp-chp,55879,50815,GEN7,Natural Gas Fired Combined Cycle,NG,CT,OP,29.8161,-95.10773
+301,2023-01,TX,ipp-non-chp,54888,3469,41,Natural Gas Fired Combined Cycle,NG,CT,OP,29.9417,-95.5306
+302,2023-01,TX,ipp-non-chp,54888,3469,42,Natural Gas Fired Combined Cycle,NG,CT,OP,29.9417,-95.5306
+303,2023-01,TX,ipp-non-chp,54888,3469,43,Natural Gas Fired Combined Cycle,NG,CT,OP,29.9417,-95.5306
+304,2023-01,TX,ipp-non-chp,54888,3469,44,Natural Gas Fired Combined Cycle,NG,CT,OP,29.9417,-95.5306
+305,2023-01,TX,ipp-non-chp,54888,3469,51,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.9417,-95.5306
+306,2023-01,TX,ipp-non-chp,54888,3469,52,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.9417,-95.5306
+307,2023-01,TX,ipp-non-chp,54888,3469,53,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.9417,-95.5306
+308,2023-01,TX,ipp-non-chp,54888,3469,54,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.9417,-95.5306
+309,2023-01,TX,ipp-non-chp,54888,3469,55,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.9417,-95.5306
+310,2023-01,TX,ipp-non-chp,54888,3469,56,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.9417,-95.5306
+311,2023-01,TX,ipp-non-chp,54888,3469,GT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.9417,-95.5306
+312,2023-01,TX,ipp-non-chp,54888,3470,1,Natural Gas Steam Turbine,NG,ST,OP,29.4828,-95.6311
+313,2023-01,TX,ipp-non-chp,54888,3470,2,Natural Gas Steam Turbine,NG,ST,OP,29.4828,-95.6311
+314,2023-01,TX,ipp-non-chp,54888,3470,3,Natural Gas Steam Turbine,NG,ST,OP,29.4828,-95.6311
+315,2023-01,TX,ipp-non-chp,54888,3470,4,Natural Gas Steam Turbine,NG,ST,OP,29.4828,-95.6311
+316,2023-01,TX,ipp-non-chp,54888,3470,5,Conventional Steam Coal,SUB,ST,OP,29.4828,-95.6311
+317,2023-01,TX,ipp-non-chp,54888,3470,6,Conventional Steam Coal,SUB,ST,OP,29.4828,-95.6311
+318,2023-01,TX,ipp-non-chp,54888,3470,7,Conventional Steam Coal,SUB,ST,OP,29.4828,-95.6311
+319,2023-01,TX,ipp-non-chp,54888,3470,8,Conventional Steam Coal,SUB,ST,OP,29.4828,-95.6311
+320,2023-01,TX,ipp-non-chp,54888,3470,GT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.4828,-95.6311
+321,2023-01,TX,ipp-non-chp,54888,7325,1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.694838,-95.040622
+322,2023-01,TX,ipp-non-chp,54888,7325,2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.694838,-95.040622
+323,2023-01,TX,ipp-non-chp,54888,61362,ECBS,Batteries,MWH,BA,OP,32.167575,-101.479217
+324,2023-01,TX,ipp-non-chp,56772,55556,GEN5,Landfill Gas,LFG,IC,OP,30.3225,-95.2681
+325,2023-01,TX,ipp-non-chp,56772,55556,UNT2,Landfill Gas,LFG,IC,OP,30.3225,-95.2681
+326,2023-01,TX,ipp-non-chp,55899,55172,GT-1,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8594,-97.3586
+327,2023-01,TX,ipp-non-chp,55899,55172,GT-2,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8594,-97.3586
+328,2023-01,TX,ipp-non-chp,55899,55172,GT-3,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8594,-97.3586
+329,2023-01,TX,ipp-non-chp,55899,55172,ST-4,Natural Gas Fired Combined Cycle,NG,CA,OP,31.8594,-97.3586
+330,2023-01,TX,ipp-non-chp,55899,55172,ST-5,Natural Gas Fired Combined Cycle,NG,CA,OP,31.8594,-97.3586
+331,2023-01,TX,ipp-non-chp,57170,58774,GEN1,Onshore Wind Turbine,WND,WT,OP,35.276944,-102.682778
+332,2023-01,TX,ipp-non-chp,56215,56983,1,Onshore Wind Turbine,WND,WT,OP,27.9386,-97.4586
+333,2023-01,TX,ipp-non-chp,56790,57474,1,Onshore Wind Turbine,WND,WT,OP,33.661111,-101.39
+334,2023-01,TX,ipp-chp,56380,55187,GT1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.836952,-95.121744
+335,2023-01,TX,ipp-chp,56380,55187,GT2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.836952,-95.121744
+336,2023-01,TX,ipp-chp,56380,55187,GT3,Natural Gas Fired Combined Cycle,NG,CT,OP,29.836952,-95.121744
+337,2023-01,TX,ipp-chp,56380,55187,GT4,Natural Gas Fired Combined Cycle,NG,CT,OP,29.836952,-95.121744
+338,2023-01,TX,ipp-chp,56380,55187,ST1,Natural Gas Fired Combined Cycle,NG,CA,OP,29.836952,-95.121744
+339,2023-01,TX,ipp-non-chp,55922,56673,WEC,Onshore Wind Turbine,WND,WT,OP,34.105,-101.0986
+340,2023-01,TX,electric-utility,55937,3457,1,Natural Gas Steam Turbine,NG,ST,OP,30.4356,-95.5214
+341,2023-01,TX,electric-utility,55937,3457,2,Natural Gas Steam Turbine,NG,ST,OP,30.4356,-95.5214
+342,2023-01,TX,electric-utility,55937,3459,1,Natural Gas Steam Turbine,NG,ST,OP,30.0242,-93.878
+343,2023-01,TX,electric-utility,55937,3459,3,Natural Gas Steam Turbine,NG,ST,OP,30.0242,-93.878
+344,2023-01,TX,electric-utility,55937,3459,4,Natural Gas Steam Turbine,NG,ST,OP,30.0242,-93.878
+345,2023-01,TX,electric-utility,55937,3459,5,Natural Gas Steam Turbine,NG,ST,OP,30.0242,-93.878
+346,2023-01,TX,electric-utility,55937,6595,1,Conventional Hydroelectric,WAT,HY,OP,31.173484,-93.565877
+347,2023-01,TX,electric-utility,55937,6595,2,Conventional Hydroelectric,WAT,HY,OP,31.173484,-93.565877
+348,2023-01,TX,electric-utility,55937,56604,HC1,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.3038,-94.2526
+349,2023-01,TX,electric-utility,55937,56604,HC2,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.3038,-94.2526
+350,2023-01,TX,electric-utility,55937,60925,1A,Natural Gas Fired Combined Cycle,NG,CT,OP,30.44083,-95.5275
+351,2023-01,TX,ipp-non-chp,57170,58775,GEN1,Onshore Wind Turbine,WND,WT,OP,35.295,-102.721111
+352,2023-01,TX,ipp-non-chp,57170,59238,WND2,Onshore Wind Turbine,WND,WT,OP,33.495278,-98.5
+353,2023-01,TX,ipp-non-chp,56215,56984,1,Onshore Wind Turbine,WND,WT,OP,32.4969,-100.5797
+354,2023-01,TX,ipp-non-chp,56215,56984,INABT,Batteries,MWH,BA,OP,32.4969,-100.5797
+355,2023-01,TX,ipp-non-chp,56215,57212,1,Onshore Wind Turbine,WND,WT,OP,27.9958,-97.2967
+356,2023-01,TX,ipp-non-chp,56215,57802,MV1,Onshore Wind Turbine,WND,WT,OP,26.475278,-97.691111
+357,2023-01,TX,ipp-non-chp,56215,58000,ANA,Onshore Wind Turbine,WND,WT,OP,29.234722,-100.209167
+358,2023-01,TX,ipp-non-chp,56215,58596,GRVWI,Onshore Wind Turbine,WND,WT,OP,35.238333,-101.310833
+359,2023-01,TX,ipp-non-chp,56215,59063,WT1,Onshore Wind Turbine,WND,WT,OP,26.941667,-97.6425
+360,2023-01,TX,ipp-non-chp,56215,59066,MVII,Onshore Wind Turbine,WND,WT,OP,26.522222,-97.691111
+361,2023-01,TX,ipp-non-chp,56215,59068,GVII,Onshore Wind Turbine,WND,WT,OP,35.254184,-101.186622
+362,2023-01,TX,ipp-non-chp,56215,60270,WT1,Onshore Wind Turbine,WND,WT,OP,34.03821,-102.665242
+363,2023-01,TX,ipp-non-chp,56215,62416,WT1,Onshore Wind Turbine,WND,WT,OP,28.197778,-97.444953
+364,2023-01,TX,ipp-non-chp,56215,62417,WT1,Onshore Wind Turbine,WND,WT,OP,28.8433,-95.8631
+365,2023-01,TX,ipp-non-chp,56215,62855,WRAYM,Onshore Wind Turbine,WND,WT,OP,26.376651,-97.993045
+366,2023-01,TX,ipp-non-chp,56215,62909,ERAYM,Onshore Wind Turbine,WND,WT,OP,26.364153,-97.780439
+367,2023-01,TX,ipp-non-chp,56222,56956,1,Onshore Wind Turbine,WND,WT,OP,32.929014,-101.578617
+368,2023-01,TX,commercial-chp,56826,57504,CHP1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.703454,-95.398317
+369,2023-01,TX,industrial-chp,57160,10789,GEN1,Natural Gas Fired Combined Cycle,NG,CT,OP,30.0552,-93.7579
+370,2023-01,TX,industrial-chp,57160,10789,GEN3,Natural Gas Fired Combined Cycle,NG,CA,OS,30.0552,-93.7579
+371,2023-01,TX,industrial-chp,57160,10789,GT1A,Natural Gas Fired Combined Cycle,NG,CT,OP,30.0552,-93.7579
+372,2023-01,TX,industrial-chp,57160,10789,GT1B,Natural Gas Fired Combined Cycle,NG,CT,OP,30.0552,-93.7579
+373,2023-01,TX,industrial-chp,57160,10789,ST1A,Natural Gas Fired Combined Cycle,NG,CA,OP,30.0552,-93.7579
+374,2023-01,TX,ipp-chp,15300,52176,GEN3,Natural Gas Fired Combined Cycle,NG,CA,OP,32.273178,-101.422386
+375,2023-01,TX,electric-utility,55937,60925,1B,Natural Gas Fired Combined Cycle,NG,CT,OP,30.44083,-95.5275
+376,2023-01,TX,electric-utility,55937,60925,1C,Natural Gas Fired Combined Cycle,NG,CA,OP,30.44083,-95.5275
+377,2023-01,TX,ipp-non-chp,55397,56649,1,Onshore Wind Turbine,WND,WT,OP,32.4081,-100.1286
+378,2023-01,TX,ipp-non-chp,56272,56961,BATT,Batteries,MWH,BA,OP,31.995,-102.828333
+379,2023-01,TX,ipp-non-chp,56272,56961,GE,Onshore Wind Turbine,WND,WT,OP,31.995,-102.828333
+380,2023-01,TX,ipp-non-chp,56272,56961,VESTA,Onshore Wind Turbine,WND,WT,OP,31.995,-102.828333
+381,2023-01,TX,ipp-non-chp,56273,56959,OWF,Onshore Wind Turbine,WND,WT,OP,32.1217,-101.3853
+382,2023-01,TX,ipp-non-chp,57170,57973,GEN1,Onshore Wind Turbine,WND,WT,OP,35.2375,-102.203056
+383,2023-01,TX,ipp-non-chp,57170,57974,GEN1,Onshore Wind Turbine,WND,WT,OP,33.493056,-98.581944
+384,2023-01,TX,ipp-non-chp,57170,58772,GEN1,Onshore Wind Turbine,WND,WT,OP,34.311111,-101.251111
+385,2023-01,TX,ipp-non-chp,57170,58773,GEN1,Onshore Wind Turbine,WND,WT,OP,34.748056,-102.174444
+386,2023-01,TX,ipp-chp,15300,52176,GEN1,Natural Gas Fired Combined Cycle,NG,CT,OP,32.273178,-101.422386
+387,2023-01,TX,ipp-chp,15300,52176,GEN2,Natural Gas Fired Combined Cycle,NG,CT,OP,32.273178,-101.422386
+388,2023-01,TX,ipp-non-chp,54777,50127,GTC,Natural Gas Fired Combined Cycle,NG,CT,OP,33.8625,-98.5894
+389,2023-01,TX,ipp-non-chp,54777,50127,STD,Natural Gas Fired Combined Cycle,NG,CA,OP,33.8625,-98.5894
+390,2023-01,TX,industrial-non-chp,55727,10072,GEN1,Other Gases,OG,ST,OP,35.66704,-101.432004
+391,2023-01,TX,ipp-non-chp,57063,57751,1,Onshore Wind Turbine,WND,WT,OP,26.33072,-97.5857
+392,2023-01,TX,ipp-non-chp,57064,57752,1,Onshore Wind Turbine,WND,WT,OP,26.34892,-97.6668
+393,2023-01,TX,commercial-chp,58113,58151,GTG01,Natural Gas Fired Combined Cycle,NG,CT,OP,30.617778,-96.343333
+394,2023-01,TX,commercial-chp,58113,58151,STG02,Natural Gas Fired Combined Cycle,NG,CA,OP,30.617778,-96.343333
+395,2023-01,TX,ipp-non-chp,55847,56602,SNY1,Onshore Wind Turbine,WND,WT,OP,32.739294,-100.738949
+396,2023-01,TX,ipp-non-chp,55981,56783,1,Onshore Wind Turbine,WND,WT,OP,32.1408,-101.3986
+397,2023-01,TX,ipp-non-chp,55983,3452,1,Natural Gas Steam Turbine,NG,ST,OP,32.8358,-96.5458
+398,2023-01,TX,ipp-non-chp,55983,3452,2,Natural Gas Steam Turbine,NG,ST,OP,32.8358,-96.5458
+399,2023-01,TX,ipp-non-chp,55983,3490,1,Natural Gas Steam Turbine,NG,ST,OP,33.1344,-98.6117
+400,2023-01,TX,ipp-non-chp,55983,3490,2,Natural Gas Steam Turbine,NG,ST,OP,33.1344,-98.6117
+401,2023-01,TX,ipp-non-chp,55983,3492,CT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.3358,-100.9156
+402,2023-01,TX,ipp-non-chp,55983,3492,CT2,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.3358,-100.9156
+403,2023-01,TX,ipp-non-chp,55983,3492,CT3,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.3358,-100.9156
+404,2023-01,TX,ipp-non-chp,55983,3492,CT4,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.3358,-100.9156
+405,2023-01,TX,ipp-non-chp,55983,3492,CT5,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.3358,-100.9156
+406,2023-01,TX,ipp-non-chp,55983,3492,CT6,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.3358,-100.9156
+407,2023-01,TX,ipp-non-chp,55983,3494,CT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.5839,-102.9633
+408,2023-01,TX,ipp-non-chp,55983,3494,CT2,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.5839,-102.9633
+409,2023-01,TX,ipp-non-chp,55983,3494,CT3,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.5839,-102.9633
+410,2023-01,TX,ipp-non-chp,55983,3494,CT4,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.5839,-102.9633
+411,2023-01,TX,ipp-non-chp,55983,3494,CT5,Natural Gas Fired Combustion Turbine,NG,GT,OP,31.5839,-102.9633
+412,2023-01,TX,ipp-non-chp,55983,3504,D1,Petroleum Liquids,DFO,IC,OP,31.93985,-94.989834
+413,2023-01,TX,ipp-non-chp,13866,55747,NWP2,Onshore Wind Turbine,WND,WT,OP,30.931467,-102.201433
+414,2023-01,TX,industrial-non-chp,54837,50404,TG3,All Other,WH,ST,OP,28.5707,-96.8333
+415,2023-01,TX,industrial-non-chp,54837,50404,TG2,All Other,WH,ST,OP,28.5707,-96.8333
+416,2023-01,TX,ipp-non-chp,55858,56864,1,Landfill Gas,LFG,IC,OP,29.3467,-98.6536
+417,2023-01,TX,ipp-non-chp,55858,56864,2,Landfill Gas,LFG,IC,OP,29.3467,-98.6536
+418,2023-01,TX,ipp-non-chp,55858,56864,3,Landfill Gas,LFG,IC,OP,29.3467,-98.6536
+419,2023-01,TX,ipp-non-chp,55983,3504,D2,Petroleum Liquids,DFO,IC,OP,31.93985,-94.989834
+420,2023-01,TX,ipp-non-chp,55983,3504,D3,Petroleum Liquids,DFO,IC,OP,31.93985,-94.989834
+421,2023-01,TX,ipp-non-chp,55983,3504,D4,Petroleum Liquids,DFO,IC,OP,31.93985,-94.989834
+422,2023-01,TX,ipp-non-chp,55983,3504,D5,Petroleum Liquids,DFO,IC,OP,31.93985,-94.989834
+423,2023-01,TX,ipp-non-chp,55983,3504,ST1,Natural Gas Steam Turbine,NG,ST,OP,31.93985,-94.989834
+424,2023-01,TX,ipp-non-chp,55983,3504,ST2,Natural Gas Steam Turbine,NG,ST,OP,31.93985,-94.989834
+425,2023-01,TX,ipp-non-chp,55983,3507,6,Natural Gas Steam Turbine,NG,ST,OP,32.124519,-96.101277
+426,2023-01,TX,ipp-non-chp,55983,3507,D1,Petroleum Liquids,DFO,IC,OP,32.124519,-96.101277
+427,2023-01,TX,ipp-non-chp,55983,3507,D2,Petroleum Liquids,DFO,IC,OP,32.124519,-96.101277
+428,2023-01,TX,ipp-non-chp,55983,6145,1,Nuclear,NUC,ST,OP,32.298365,-97.785515
+429,2023-01,TX,ipp-non-chp,55983,6145,2,Nuclear,NUC,ST,OP,32.298365,-97.785515
+430,2023-01,TX,ipp-non-chp,55983,6146,1,Conventional Steam Coal,SUB,ST,OP,32.2606,-94.5706
+431,2023-01,TX,ipp-non-chp,55983,6146,2,Conventional Steam Coal,SUB,ST,OP,32.2606,-94.5706
+432,2023-01,TX,ipp-non-chp,55983,6146,3,Conventional Steam Coal,SUB,ST,OP,32.2606,-94.5706
+433,2023-01,TX,ipp-non-chp,55983,6180,OG1,Conventional Steam Coal,RC,ST,OP,31.1803,-96.4866
+434,2023-01,TX,ipp-non-chp,55983,6180,OG2,Conventional Steam Coal,RC,ST,OP,31.1803,-96.4866
+435,2023-01,TX,ipp-non-chp,55983,8063,BESS,Batteries,MWH,BA,OP,32.403056,-97.700556
+436,2023-01,TX,ipp-non-chp,55983,8063,CT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.403056,-97.700556
+437,2023-01,TX,ipp-non-chp,55983,8063,CT2,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.403056,-97.700556
+438,2023-01,TX,ipp-non-chp,55983,8063,CT3,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.403056,-97.700556
+439,2023-01,TX,ipp-non-chp,55983,8063,CT4,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.403056,-97.700556
+440,2023-01,TX,ipp-non-chp,55983,63223,UNIT1,Solar Photovoltaic,SUN,PV,OP,28.430988,-97.889555
+441,2023-01,TX,ipp-non-chp,49768,55168,1,Natural Gas Fired Combined Cycle,NG,CT,OP,30.1458,-97.55
+442,2023-01,TX,ipp-non-chp,49768,55168,2,Natural Gas Fired Combined Cycle,NG,CT,OP,30.1458,-97.55
+443,2023-01,TX,ipp-non-chp,49768,55168,3,Natural Gas Fired Combined Cycle,NG,CA,OP,30.1458,-97.55
+444,2023-01,TX,ipp-chp,49791,55176,GEN1,Natural Gas Fired Combined Cycle,NG,CT,OP,32.4481,-94.6903
+445,2023-01,TX,ipp-chp,49791,55176,GEN2,Natural Gas Fired Combined Cycle,NG,CT,OP,32.4481,-94.6903
+446,2023-01,TX,ipp-chp,49791,55176,GEN3,Natural Gas Fired Combined Cycle,NG,CA,OP,32.4481,-94.6903
+447,2023-01,TX,ipp-non-chp,49796,55992,1,Onshore Wind Turbine,WND,WT,OP,30.9178,-102.0867
+448,2023-01,TX,ipp-non-chp,56987,57659,PSF,Solar Photovoltaic,SUN,PV,OP,30.4214,-97.4614
+449,2023-01,TX,ipp-non-chp,56020,56806,4,Natural Gas Fired Combined Cycle,NG,CA,OP,29.751645,-94.92312
+450,2023-01,TX,ipp-non-chp,56020,56806,41,Natural Gas Fired Combined Cycle,NG,CT,OP,29.751645,-94.92312
+451,2023-01,TX,ipp-non-chp,56020,56806,42,Natural Gas Fired Combined Cycle,NG,CT,OP,29.751645,-94.92312
+452,2023-01,TX,ipp-non-chp,55858,56864,4,Landfill Gas,LFG,IC,OP,29.3467,-98.6536
+453,2023-01,TX,ipp-non-chp,55858,56864,5,Landfill Gas,LFG,IC,OP,29.3467,-98.6536
+454,2023-01,TX,ipp-non-chp,55858,56864,6,Landfill Gas,LFG,IC,OP,29.3467,-98.6536
+455,2023-01,TX,ipp-non-chp,55861,56611,S01,Conventional Steam Coal,SUB,ST,OP,31.474378,-96.957149
+456,2023-01,TX,ipp-chp,55879,50815,GEN1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.8161,-95.10773
+457,2023-01,TX,ipp-chp,55879,50815,GEN2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.8161,-95.10773
+458,2023-01,TX,ipp-non-chp,57170,63655,COY,Onshore Wind Turbine,WND,WT,OP,32.84879,-100.866458
+459,2023-01,TX,ipp-non-chp,54842,56524,GEN1,Landfill Gas,LFG,IC,OP,30.3344,-97.6217
+460,2023-01,TX,ipp-non-chp,54842,56524,GEN2,Landfill Gas,LFG,IC,OP,30.3344,-97.6217
+461,2023-01,TX,ipp-non-chp,54842,56524,GEN3,Landfill Gas,LFG,IC,OP,30.3344,-97.6217
+462,2023-01,TX,ipp-chp,55879,50815,GEN3,Natural Gas Fired Combined Cycle,NG,CT,OP,29.8161,-95.10773
+463,2023-01,TX,ipp-chp,55879,50815,GEN4,Natural Gas Fired Combined Cycle,NG,CT,OP,29.8161,-95.10773
+464,2023-01,TX,ipp-non-chp,56946,57617,GEN1,Onshore Wind Turbine,WND,WT,OP,26.465556,-98.411111
+465,2023-01,TX,ipp-non-chp,57045,55153,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.6244,-98.1419
+466,2023-01,TX,ipp-non-chp,57045,55153,CTG3,Natural Gas Fired Combined Cycle,NG,CT,OP,29.6244,-98.1419
+467,2023-01,TX,ipp-non-chp,57045,55153,CTG4,Natural Gas Fired Combined Cycle,NG,CT,OP,29.6244,-98.1419
+468,2023-01,TX,ipp-non-chp,57045,55153,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,29.6244,-98.1419
+469,2023-01,TX,ipp-non-chp,57045,55153,STG2,Natural Gas Fired Combined Cycle,NG,CA,OP,29.6244,-98.1419
+470,2023-01,TX,ipp-non-chp,15399,58614,PAT1,Onshore Wind Turbine,WND,WT,OP,27.580489,-97.640077
+471,2023-01,TX,electric-utility,13670,55664,GT-1,Natural Gas Fired Combined Cycle,NG,CT,OP,32.3958,-94.4367
+472,2023-01,TX,electric-utility,13670,55664,GT-2,Natural Gas Fired Combined Cycle,NG,CT,OP,32.3958,-94.4367
+473,2023-01,TX,electric-utility,13670,55664,ST-1,Natural Gas Fired Combined Cycle,NG,CA,OP,32.3958,-94.4367
+474,2023-01,TX,ipp-non-chp,54842,57020,GEN1,Landfill Gas,LFG,IC,OP,32.724553,-97.537118
+475,2023-01,TX,ipp-non-chp,54842,57020,GEN2,Landfill Gas,LFG,IC,OP,32.724553,-97.537118
+476,2023-01,TX,ipp-non-chp,54842,57165,GEN1,Landfill Gas,LFG,IC,OP,33.031111,-96.957222
+477,2023-01,TX,ipp-non-chp,54842,57165,GEN2,Landfill Gas,LFG,IC,OP,33.031111,-96.957222
+478,2023-01,TX,ipp-non-chp,54842,57167,GEN1,Landfill Gas,LFG,IC,OP,29.7372,-98.0228
+479,2023-01,TX,ipp-non-chp,54842,57167,GEN2,Landfill Gas,LFG,IC,OP,29.7372,-98.0228
+480,2023-01,TX,ipp-non-chp,57021,57699,AES1,Solar Photovoltaic,SUN,PV,OP,30.238492,-97.508812
+481,2023-01,TX,ipp-non-chp,56201,61782,WTGS,Onshore Wind Turbine,WND,WT,OP,31.048557,-100.623114
+482,2023-01,TX,ipp-non-chp,57045,55153,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.6244,-98.1419
+483,2023-01,TX,ipp-non-chp,56201,62227,WTGS,Onshore Wind Turbine,WND,WT,OP,33.57824,-99.1921
+484,2023-01,TX,ipp-non-chp,56201,62630,WTGS1,Onshore Wind Turbine,WND,WT,OP,32.386,-102.949
+485,2023-01,TX,ipp-non-chp,56201,62845,SP1,Solar Photovoltaic,SUN,PV,OP,32.741383,-101.621793
+486,2023-01,TX,ipp-non-chp,56201,63100,WTG,Onshore Wind Turbine,WND,WT,OP,31.549868,-96.904072
+487,2023-01,TX,ipp-non-chp,56201,63101,WTG,Onshore Wind Turbine,WND,WT,OP,26.69842,-99.05745
+488,2023-01,TX,ipp-non-chp,56201,64026,SF1,Solar Photovoltaic,SUN,PV,OP,32.811041,-99.91749
+489,2023-01,TX,ipp-non-chp,56201,64165,WTG1,Onshore Wind Turbine,WND,WT,OP,31.5481,-98.49491
+490,2023-01,TX,ipp-non-chp,55958,56763,1,Onshore Wind Turbine,WND,WT,OP,31.951958,-101.018936
+491,2023-01,TX,ipp-non-chp,55958,56763,2,Onshore Wind Turbine,WND,WT,OP,31.951958,-101.018936
+492,2023-01,TX,ipp-non-chp,55958,56763,3,Onshore Wind Turbine,WND,WT,OP,31.951958,-101.018936
+493,2023-01,TX,ipp-non-chp,55958,56763,4,Onshore Wind Turbine,WND,WT,OP,31.951958,-101.018936
+494,2023-01,TX,ipp-non-chp,56215,56394,1,Onshore Wind Turbine,WND,WT,OP,32.039,-101.22
+495,2023-01,TX,ipp-non-chp,56215,56592,CH1,Onshore Wind Turbine,WND,WT,OP,32.3983,-100.6481
+496,2023-01,TX,ipp-non-chp,56215,56593,RO1,Onshore Wind Turbine,WND,WT,OP,32.4694,-100.6664
+497,2023-01,TX,ipp-non-chp,56215,56479,2,Onshore Wind Turbine,WND,WT,OP,31.991442,-101.302637
+498,2023-01,TX,ipp-non-chp,56215,56920,1,Onshore Wind Turbine,WND,WT,OP,32.100823,-101.451385
+499,2023-01,TX,ipp-non-chp,56215,56921,1,Onshore Wind Turbine,WND,WT,OP,31.9361,-101.2983
+500,2023-01,TX,ipp-non-chp,56215,56979,1,Onshore Wind Turbine,WND,WT,OP,31.9925,-101.1167
+501,2023-01,TX,ipp-non-chp,56769,60581,UCTX,Solar Photovoltaic,SUN,PV,OP,31.241808,-102.29027
+502,2023-01,TX,industrial-chp,56304,55309,GEN 5,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.866497,-93.96515
+503,2023-01,TX,industrial-chp,56304,55309,GEN1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.866497,-93.96515
+504,2023-01,TX,industrial-chp,56304,55309,GEN3,Natural Gas Steam Turbine,NG,ST,OP,29.866497,-93.96515
+505,2023-01,TX,industrial-chp,56304,55309,GEN4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.866497,-93.96515
+506,2023-01,TX,industrial-chp,16098,54338,GENA,Other Waste Biomass,AB,ST,OP,26.269683,-97.867012
+507,2023-01,TX,industrial-chp,16098,54338,GENB,Other Waste Biomass,AB,ST,OP,26.269683,-97.867012
+508,2023-01,TX,ipp-non-chp,56033,56823,HWFG1,Onshore Wind Turbine,WND,WT,OP,32.7683,-99.4228
+509,2023-01,TX,ipp-non-chp,54870,56457,1,Onshore Wind Turbine,WND,WT,OP,32.92544,-101.219397
+510,2023-01,TX,ipp-non-chp,54888,3460,1,Natural Gas Steam Turbine,NG,ST,OP,29.75,-94.9256
+511,2023-01,TX,ipp-non-chp,54888,3460,2,Natural Gas Steam Turbine,NG,ST,OP,29.75,-94.9256
+512,2023-01,TX,ipp-non-chp,54888,3464,73,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.822201,-95.219429
+513,2023-01,TX,ipp-non-chp,54888,3464,74,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.822201,-95.219429
+514,2023-01,TX,ipp-non-chp,54888,3464,82,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.822201,-95.219429
+515,2023-01,TX,ipp-non-chp,54888,298,1,Conventional Steam Coal,SUB,ST,OP,31.4219,-96.2525
+516,2023-01,TX,ipp-non-chp,54888,298,2,Conventional Steam Coal,SUB,ST,OP,31.4219,-96.2525
+517,2023-01,TX,ipp-non-chp,54888,3464,81,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.822201,-95.219429
+518,2023-01,TX,ipp-non-chp,54888,3464,83,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.822201,-95.219429
+519,2023-01,TX,ipp-non-chp,54888,3464,84,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.822201,-95.219429
+520,2023-01,TX,ipp-non-chp,54888,3469,3,Natural Gas Fired Combined Cycle,NG,CA,OP,29.9417,-95.5306
+521,2023-01,TX,ipp-non-chp,54888,3469,31,Natural Gas Fired Combined Cycle,NG,CT,OP,29.9417,-95.5306
+522,2023-01,TX,ipp-non-chp,54888,3469,32,Natural Gas Fired Combined Cycle,NG,CT,OP,29.9417,-95.5306
+523,2023-01,TX,ipp-non-chp,54888,3469,33,Natural Gas Fired Combined Cycle,NG,CT,OP,29.9417,-95.5306
+524,2023-01,TX,ipp-non-chp,54888,3469,34,Natural Gas Fired Combined Cycle,NG,CT,OP,29.9417,-95.5306
+525,2023-01,TX,ipp-non-chp,54888,3469,4,Natural Gas Fired Combined Cycle,NG,CA,OP,29.9417,-95.5306
+526,2023-01,TX,ipp-non-chp,56215,56981,1,Onshore Wind Turbine,WND,WT,OP,32.5886,-100.6728
+527,2023-01,TX,ipp-non-chp,56215,56981,PYRBT,Batteries,MWH,BA,OP,32.5886,-100.6728
+528,2023-01,TX,ipp-chp,22652,52088,GEN1,Natural Gas Fired Combined Cycle,NG,CA,OP,29.378697,-94.943829
+529,2023-01,TX,ipp-chp,22652,52088,GEN2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.378697,-94.943829
+530,2023-01,TX,ipp-chp,22652,52088,GEN3,Natural Gas Fired Combined Cycle,NG,CT,OP,29.378697,-94.943829
+531,2023-01,TX,ipp-chp,22652,52088,GEN4,Natural Gas Fired Combined Cycle,NG,CT,OP,29.378697,-94.943829
+532,2023-01,TX,ipp-chp,22214,55015,GEN1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.0728,-95.745
+533,2023-01,TX,ipp-chp,22214,55015,GEN2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.0728,-95.745
+534,2023-01,TX,ipp-chp,22214,55015,GEN3,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.0728,-95.745
+535,2023-01,TX,ipp-chp,22214,55015,GEN4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.0728,-95.745
+536,2023-01,TX,ipp-chp,23913,55064,UNT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,35.6957,-101.36
+537,2023-01,TX,ipp-chp,23913,55064,UNT2B,Natural Gas Fired Combustion Turbine,NG,GT,OP,35.6957,-101.36
+538,2023-01,TX,industrial-chp,56488,10418,GEN1,Natural Gas Steam Turbine,NG,ST,OP,29.2558,-95.2103
+539,2023-01,TX,industrial-chp,56488,10418,GEN4,Natural Gas Steam Turbine,NG,ST,OP,29.2558,-95.2103
+540,2023-01,TX,industrial-chp,29925,10261,GEN3,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.8247,-94.9197
+541,2023-01,TX,industrial-chp,29925,10261,GEN4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.8247,-94.9197
+542,2023-01,TX,industrial-chp,29925,10261,GEN5,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.8247,-94.9197
+543,2023-01,TX,industrial-chp,29925,10261,GEN6,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.8247,-94.9197
+544,2023-01,TX,industrial-chp,29925,10261,GEN7,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.8247,-94.9197
+545,2023-01,TX,industrial-chp,29925,10261,GEN8,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.8247,-94.9197
+546,2023-01,TX,ipp-non-chp,57355,57983,1,Onshore Wind Turbine,WND,WT,OP,32.926389,-101.647778
+547,2023-01,TX,ipp-non-chp,57355,57983,2,Onshore Wind Turbine,WND,WT,OP,32.926389,-101.647778
+548,2023-01,TX,ipp-non-chp,18518,55132,GTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,32.017826,-94.619743
+549,2023-01,TX,ipp-non-chp,18518,55132,GTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,32.017826,-94.619743
+550,2023-01,TX,ipp-non-chp,18518,55132,GTG3,Natural Gas Fired Combined Cycle,NG,CT,OP,32.017826,-94.619743
+551,2023-01,TX,ipp-non-chp,18518,55132,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,32.017826,-94.619743
+552,2023-01,TX,industrial-non-chp,19685,50121,TG2,Petroleum Coke,PC,ST,OP,27.8175,-97.4814
+553,2023-01,TX,industrial-non-chp,19685,50121,PRU,All Other,WH,ST,OP,27.8175,-97.4814
+554,2023-01,TX,industrial-non-chp,19685,50121,TG1,Petroleum Coke,PC,ST,OP,27.8175,-97.4814
+555,2023-01,TX,industrial-chp,26469,55313,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,27.882778,-97.242778
+556,2023-01,TX,industrial-chp,26469,55313,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,27.882778,-97.242778
+557,2023-01,TX,industrial-chp,26469,55313,STG,Other Gases,OG,CA,OP,27.882778,-97.242778
+558,2023-01,TX,ipp-non-chp,34623,60468,GT-1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.647267,-95.451516
+559,2023-01,TX,ipp-non-chp,18611,55062,GTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,30.5924,-95.9178
+560,2023-01,TX,ipp-non-chp,18611,55062,GTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,30.5924,-95.9178
+561,2023-01,TX,ipp-non-chp,18611,55062,GTG3,Natural Gas Fired Combined Cycle,NG,CT,OP,30.5924,-95.9178
+562,2023-01,TX,ipp-non-chp,18611,55062,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,30.5924,-95.9178
+563,2023-01,TX,electric-utility,19449,6413,1,Conventional Hydroelectric,WAT,HY,OP,31.060893,-94.1062
+564,2023-01,TX,electric-utility,19449,6413,2,Conventional Hydroelectric,WAT,HY,OP,31.060893,-94.1062
+565,2023-01,TX,electric-utility,19449,6414,1,Conventional Hydroelectric,WAT,HY,OP,31.8694,-97.3667
+566,2023-01,TX,electric-utility,19449,6414,2,Conventional Hydroelectric,WAT,HY,OP,31.8694,-97.3667
+567,2023-01,TX,electric-utility,19449,7200,1,Conventional Hydroelectric,WAT,HY,OA,30.7975,-94.1756
+568,2023-01,TX,electric-utility,19449,7200,2,Conventional Hydroelectric,WAT,HY,OA,30.7975,-94.1756
+569,2023-01,TX,industrial-chp,19450,50150,GE10,Natural Gas Steam Turbine,NG,ST,OP,28.5105,-96.7706
+570,2023-01,TX,industrial-chp,19450,50150,GE11,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.5105,-96.7706
+571,2023-01,TX,industrial-chp,19450,50150,GEN5,Natural Gas Steam Turbine,NG,ST,OP,28.5105,-96.7706
+572,2023-01,TX,industrial-chp,19450,50150,GEN6,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.5105,-96.7706
+573,2023-01,TX,industrial-chp,19450,50150,GEN7,Natural Gas Steam Turbine,NG,ST,OA,28.5105,-96.7706
+574,2023-01,TX,industrial-chp,19450,50150,GEN8,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.5105,-96.7706
+575,2023-01,TX,industrial-chp,19450,50150,GEN9,Natural Gas Steam Turbine,NG,ST,OP,28.5105,-96.7706
+576,2023-01,TX,industrial-chp,19450,50150,IGT,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.5105,-96.7706
+577,2023-01,TX,commercial-chp,19537,50118,GEN10,Natural Gas Fired Combined Cycle,NG,CT,OP,30.2867,-97.7356
+578,2023-01,TX,commercial-chp,19537,50118,GEN4,Natural Gas Fired Combined Cycle,NG,CA,SB,30.2867,-97.7356
+579,2023-01,TX,commercial-chp,19537,50118,GEN7,Natural Gas Fired Combined Cycle,NG,CA,SB,30.2867,-97.7356
+580,2023-01,TX,commercial-chp,19537,50118,GEN8,Natural Gas Fired Combined Cycle,NG,CT,OP,30.2867,-97.7356
+581,2023-01,TX,commercial-chp,19537,50118,GEN9,Natural Gas Fired Combined Cycle,NG,CA,OP,30.2867,-97.7356
+582,2023-01,TX,industrial-chp,27211,50141,WGN1,Wood/Wood Waste Biomass,WDS,ST,OP,32.574722,-94.373889
+583,2023-01,TX,commercial-chp,27378,50241,9541,Natural Gas Internal Combustion Engine,NG,IC,OP,31.7697,-106.5014
+584,2023-01,TX,commercial-chp,27378,50241,9542,Natural Gas Internal Combustion Engine,NG,IC,OP,31.7697,-106.5014
+585,2023-01,TX,ipp-non-chp,19171,55968,WTG1,Onshore Wind Turbine,WND,WT,OP,32.4301,-100.235652
+586,2023-01,TX,commercial-chp,19537,50118,GEN5,Natural Gas Fired Combined Cycle,NG,CA,SB,30.2867,-97.7356
+587,2023-01,TX,ipp-non-chp,21668,55320,GT1,Natural Gas Fired Combined Cycle,NG,CT,OP,33.0583,-97.9103
+588,2023-01,TX,ipp-non-chp,21668,55320,GT2,Natural Gas Fired Combined Cycle,NG,CT,OP,33.0583,-97.9103
+589,2023-01,TX,ipp-non-chp,21668,55320,ST1,Natural Gas Fired Combined Cycle,NG,CA,OP,33.0583,-97.9103
+590,2023-01,TX,industrial-chp,17145,50067,GEN1,Natural Gas Steam Turbine,NG,ST,OP,35.6647,-101.4354
+591,2023-01,TX,industrial-chp,18760,50229,TG2,Natural Gas Steam Turbine,NG,ST,OP,29.6981,-95.2547
+592,2023-01,TX,ipp-non-chp,21535,6251,1,Nuclear,NUC,ST,OP,28.795,-96.0481
+593,2023-01,TX,ipp-non-chp,21535,6251,2,Nuclear,NUC,ST,OP,28.795,-96.0481
+594,2023-01,TX,industrial-non-chp,50114,55052,620,Natural Gas Internal Combustion Engine,NG,IC,OP,32.05,-100.6917
+595,2023-01,TX,industrial-non-chp,50114,55052,621,Natural Gas Internal Combustion Engine,NG,IC,OP,32.05,-100.6917
+596,2023-01,TX,industrial-non-chp,50114,55052,622,Natural Gas Internal Combustion Engine,NG,IC,OP,32.05,-100.6917
+597,2023-01,TX,industrial-non-chp,50114,55052,GN410,Natural Gas Internal Combustion Engine,NG,IC,OP,32.05,-100.6917
+598,2023-01,TX,ipp-non-chp,50123,56211,SW1,Onshore Wind Turbine,WND,WT,OP,32.3606,-100.3389
+599,2023-01,TX,ipp-non-chp,50123,56212,SW2,Onshore Wind Turbine,WND,WT,OP,32.3472,-100.3703
+600,2023-01,TX,ipp-non-chp,50123,56311,SW3,Onshore Wind Turbine,WND,WT,OP,32.290833,-100.4219
+601,2023-01,TX,ipp-non-chp,49893,56506,SCW,Onshore Wind Turbine,WND,WT,OP,32.7204,-100.9952
+602,2023-01,TX,ipp-non-chp,49893,56644,1,Onshore Wind Turbine,WND,WT,OP,32.2353,-101.8367
+603,2023-01,TX,ipp-non-chp,49893,56773,1,Onshore Wind Turbine,WND,WT,OP,33.752201,-100.967402
+604,2023-01,TX,ipp-non-chp,49893,56774,1,Onshore Wind Turbine,WND,WT,OP,32.1981,-100.2686
+605,2023-01,TX,ipp-non-chp,49893,56775,1,Onshore Wind Turbine,WND,WT,OP,32.718056,-100.793333
+606,2023-01,TX,ipp-non-chp,49893,56776,1,Onshore Wind Turbine,WND,WT,OP,32.240278,-101.473611
+607,2023-01,TX,ipp-non-chp,49893,58321,1,Onshore Wind Turbine,WND,WT,OP,31.383333,-98.466667
+608,2023-01,TX,industrial-chp,39066,50153,STG,All Other,PUR,ST,OP,29.37612,-94.946477
+609,2023-01,TX,ipp-non-chp,49903,56225,V90,Onshore Wind Turbine,WND,WT,OP,36.4725,-101.3278
+610,2023-01,TX,industrial-non-chp,49949,56233,CT02,Natural Gas Fired Combined Cycle,NG,CT,OP,32.747058,-100.954661
+611,2023-01,TX,industrial-non-chp,49949,56233,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,32.747058,-100.954661
+612,2023-01,TX,industrial-non-chp,49949,56233,STG,Natural Gas Fired Combined Cycle,NG,CA,OP,32.747058,-100.954661
+613,2023-01,TX,ipp-non-chp,49979,3439,4,Natural Gas Fired Combustion Turbine,NG,GT,OP,27.5667,-99.5089
+614,2023-01,TX,ipp-non-chp,49979,3439,5,Natural Gas Fired Combustion Turbine,NG,GT,OP,27.5667,-99.5089
+615,2023-01,TX,ipp-non-chp,49979,3441,7,Natural Gas Fired Combined Cycle,NG,CA,OP,27.819412,-97.419203
+616,2023-01,TX,ipp-non-chp,49979,3441,8,Natural Gas Fired Combined Cycle,NG,CT,OP,27.819412,-97.419203
+617,2023-01,TX,ipp-non-chp,49979,3441,9,Natural Gas Fired Combined Cycle,NG,CT,OP,27.819412,-97.419203
+618,2023-01,TX,ipp-non-chp,49979,4939,1,Natural Gas Steam Turbine,NG,ST,OP,27.6064,-97.3117
+619,2023-01,TX,ipp-non-chp,49979,4939,2,Natural Gas Fired Combined Cycle,NG,CA,OP,27.6064,-97.3117
+620,2023-01,TX,ipp-non-chp,49979,4939,3,Natural Gas Fired Combined Cycle,NG,CT,OP,27.6064,-97.3117
+621,2023-01,TX,ipp-non-chp,56769,58717,1,Solar Photovoltaic,SUN,PV,OP,29.328889,-100.383889
+622,2023-01,TX,ipp-non-chp,56769,59204,OCIA3,Solar Photovoltaic,SUN,PV,OP,29.479167,-98.297222
+623,2023-01,TX,ipp-non-chp,56769,59205,OCIA5,Solar Photovoltaic,SUN,PV,OP,29.216667,-99.716111
+624,2023-01,TX,ipp-non-chp,56769,59207,OCIA7,Solar Photovoltaic,SUN,PV,OP,33.04,-99.5525
+625,2023-01,TX,ipp-non-chp,50012,56270,1,Onshore Wind Turbine,WND,WT,OP,32.303889,-100.021667
+626,2023-01,TX,ipp-non-chp,50063,56291,1,Onshore Wind Turbine,WND,WT,OP,32.214024,-100.05712
+627,2023-01,TX,ipp-non-chp,50063,56291,2,Onshore Wind Turbine,WND,WT,OP,32.214024,-100.05712
+628,2023-01,TX,ipp-non-chp,50063,56291,3,Onshore Wind Turbine,WND,WT,OP,32.214024,-100.05712
+629,2023-01,TX,ipp-non-chp,56545,56661,1,Onshore Wind Turbine,WND,WT,OP,27.0011,-97.5994
+630,2023-01,TX,electric-utility,17698,3478,3,Natural Gas Steam Turbine,NG,ST,OP,32.848163,-94.547986
+631,2023-01,TX,electric-utility,17698,6139,1,Conventional Steam Coal,SUB,ST,OP,33.05522,-94.839993
+632,2023-01,TX,electric-utility,17698,6139,3,Conventional Steam Coal,SUB,ST,OP,33.05522,-94.839993
+633,2023-01,TX,electric-utility,17698,7902,1,Conventional Steam Coal,LIG,ST,OP,32.4607,-94.4852
+634,2023-01,TX,electric-utility,27470,6416,1,Conventional Hydroelectric,WAT,HY,OP,33.8181,-96.5692
+635,2023-01,TX,electric-utility,27470,6416,2,Conventional Hydroelectric,WAT,HY,OA,33.8181,-96.5692
+636,2023-01,TX,industrial-chp,30052,54637,GCG1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.963502,-93.929737
+637,2023-01,TX,industrial-chp,30052,54637,GCG2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.963502,-93.929737
+638,2023-01,TX,industrial-chp,17566,52132,GEN2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.378164,-94.92195
+639,2023-01,TX,industrial-chp,17566,52132,GEN3,Natural Gas Fired Combined Cycle,NG,CA,OS,29.378164,-94.92195
+640,2023-01,TX,industrial-chp,17566,55470,ST1,Natural Gas Fired Combined Cycle,NG,CA,OP,29.378097,-94.932773
+641,2023-01,TX,industrial-chp,17566,55470,ST805,Natural Gas Fired Combined Cycle,NG,CA,OS,29.378097,-94.932773
+642,2023-01,TX,industrial-chp,17566,55470,TR1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.378097,-94.932773
+643,2023-01,TX,industrial-chp,17566,55470,TR2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.378097,-94.932773
+644,2023-01,TX,industrial-chp,17566,55470,TR3,Natural Gas Fired Combined Cycle,NG,CT,OP,29.378097,-94.932773
+645,2023-01,TX,ipp-non-chp,56565,57197,1,Solar Photovoltaic,SUN,PV,OP,29.304177,-98.400339
+646,2023-01,TX,ipp-non-chp,56570,6178,1,Conventional Steam Coal,RC,ST,OP,28.7128,-97.214167
+647,2023-01,TX,ipp-non-chp,56598,7030,1,Conventional Steam Coal,LIG,ST,OP,31.091925,-96.69503
+648,2023-01,TX,ipp-non-chp,56598,7030,2,Conventional Steam Coal,LIG,ST,OP,31.091925,-96.69503
+649,2023-01,TX,ipp-non-chp,56545,58242,1,Onshore Wind Turbine,WND,WT,OP,35.4275,-101.253056
+650,2023-01,TX,ipp-non-chp,56545,58720,1,Onshore Wind Turbine,WND,WT,OP,35.442778,-101.372778
+651,2023-01,TX,ipp-non-chp,56545,59442,1,Onshore Wind Turbine,WND,WT,OP,31.8225,-98.690556
+652,2023-01,TX,ipp-non-chp,57377,58001,CTG-1,Natural Gas Fired Combined Cycle,NG,CT,OP,31.055833,-97.317222
+653,2023-01,TX,ipp-non-chp,57377,58001,CTG-2,Natural Gas Fired Combined Cycle,NG,CT,OP,31.055833,-97.317222
+654,2023-01,TX,ipp-non-chp,57377,58001,CTG-3,Natural Gas Fired Combined Cycle,NG,CT,OP,31.055833,-97.317222
+655,2023-01,TX,commercial-non-chp,57389,62152,570,Solar Photovoltaic,SUN,PV,OP,29.48,-98.25
+656,2023-01,TX,ipp-non-chp,50123,56337,SW4,Onshore Wind Turbine,WND,WT,OP,32.3122,-100.5303
+657,2023-01,TX,ipp-non-chp,50123,56372,SW5,Onshore Wind Turbine,WND,WT,OP,32.236944,-100.4833
+658,2023-01,TX,electric-utility,17583,3630,12A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+659,2023-01,TX,commercial-non-chp,18050,55390,3B,Petroleum Liquids,DFO,IC,SB,32.9192,-96.9894
+660,2023-01,TX,commercial-non-chp,18050,55390,2A,Petroleum Liquids,DFO,IC,SB,32.9192,-96.9894
+661,2023-01,TX,commercial-non-chp,18050,55390,2B,Petroleum Liquids,DFO,IC,SB,32.9192,-96.9894
+662,2023-01,TX,commercial-non-chp,18050,55390,3A,Petroleum Liquids,DFO,IC,SB,32.9192,-96.9894
+663,2023-01,TX,commercial-non-chp,18050,55390,4A,Petroleum Liquids,DFO,IC,SB,32.9192,-96.9894
+664,2023-01,TX,commercial-non-chp,18050,55390,4B,Petroleum Liquids,DFO,IC,SB,32.9192,-96.9894
+665,2023-01,TX,ipp-non-chp,50123,58710,BRLA,Solar Photovoltaic,SUN,PV,OP,30.96,-103.35
+666,2023-01,TX,ipp-non-chp,57377,58001,CTG-4,Natural Gas Fired Combined Cycle,NG,CT,OP,31.055833,-97.317222
+667,2023-01,TX,ipp-non-chp,57377,58001,STG-1,Natural Gas Fired Combined Cycle,NG,CA,OP,31.055833,-97.317222
+668,2023-01,TX,ipp-non-chp,57377,58001,STG-2,Natural Gas Fired Combined Cycle,NG,CA,OP,31.055833,-97.317222
+669,2023-01,TX,ipp-non-chp,57379,58005,CTG-1,Natural Gas Fired Combined Cycle,NG,CT,OP,33.582573,-96.617893
+670,2023-01,TX,ipp-non-chp,57379,58005,CTG-2,Natural Gas Fired Combined Cycle,NG,CT,OP,33.582573,-96.617893
+671,2023-01,TX,ipp-non-chp,57379,58005,STG-1,Natural Gas Fired Combined Cycle,NG,CA,OP,33.582573,-96.617893
+672,2023-01,TX,ipp-non-chp,57386,58009,1,Solar Photovoltaic,SUN,PV,OP,29.221944,-98.669167
+673,2023-01,TX,ipp-non-chp,57386,58009,2,Solar Photovoltaic,SUN,PV,OP,29.221944,-98.669167
+674,2023-01,TX,commercial-non-chp,57389,58013,PV,Solar Photovoltaic,SUN,PV,OP,30.557044,-97.690286
+675,2023-01,TX,ipp-non-chp,57389,61309,PV1,Solar Photovoltaic,SUN,PV,OP,32.82,-97.05
+676,2023-01,TX,ipp-non-chp,57398,58021,1,Onshore Wind Turbine,WND,WT,OP,27.488056,-99.005278
+677,2023-01,TX,ipp-non-chp,57403,58027,1,Solar Photovoltaic,SUN,PV,OP,29.245,-98.418333
+678,2023-01,TX,ipp-non-chp,57416,59712,SRWI,Onshore Wind Turbine,WND,WT,OP,26.125979,-97.377599
+679,2023-01,TX,ipp-non-chp,57416,61773,PW,Onshore Wind Turbine,WND,WT,OP,26.288889,-97.496389
+680,2023-01,TX,ipp-non-chp,57416,63624,LC,Onshore Wind Turbine,WND,WT,OP,26.249888,-97.511842
+681,2023-01,TX,ipp-non-chp,57419,58068,1,Solar Photovoltaic,SUN,PV,OP,29.245,-98.418333
+682,2023-01,TX,ipp-non-chp,57421,58048,1,Onshore Wind Turbine,WND,WT,OP,32.969722,-100.524167
+683,2023-01,TX,electric-utility,17718,3482,1,Natural Gas Steam Turbine,NG,ST,OP,33.5239,-101.7392
+684,2023-01,TX,electric-utility,17718,3482,2,Natural Gas Steam Turbine,NG,ST,OP,33.5239,-101.7392
+685,2023-01,TX,electric-utility,17718,3482,3,Natural Gas Fired Combustion Turbine,NG,GT,OP,33.5239,-101.7392
+686,2023-01,TX,electric-utility,17718,3484,2,Natural Gas Steam Turbine,NG,ST,OP,35.283357,-101.746423
+687,2023-01,TX,electric-utility,17718,3484,3,Natural Gas Steam Turbine,NG,ST,OP,35.283357,-101.746423
+688,2023-01,TX,electric-utility,17718,3485,1,Natural Gas Steam Turbine,NG,ST,OP,34.1661,-102.4114
+689,2023-01,TX,electric-utility,17718,3485,2,Natural Gas Steam Turbine,NG,ST,OP,34.1661,-102.4114
+690,2023-01,TX,electric-utility,17718,3485,4,Natural Gas Steam Turbine,NG,ST,OP,34.1661,-102.4114
+691,2023-01,TX,electric-utility,17718,6193,1,Conventional Steam Coal,SUB,ST,OP,35.29816,-101.747187
+692,2023-01,TX,electric-utility,17718,6193,2,Conventional Steam Coal,SUB,ST,OP,35.29816,-101.747187
+693,2023-01,TX,electric-utility,17718,6193,3,Conventional Steam Coal,SUB,ST,OP,35.29816,-101.747187
+694,2023-01,TX,electric-utility,17718,6194,1,Conventional Steam Coal,SUB,ST,OP,34.186494,-102.56999
+695,2023-01,TX,electric-utility,17583,3630,10A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+696,2023-01,TX,electric-utility,17583,3630,11A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+697,2023-01,TX,ipp-non-chp,17650,60436,1,Solar Photovoltaic,SUN,PV,OP,31.000883,-102.281744
+698,2023-01,TX,ipp-non-chp,17650,60502,GEN1,Onshore Wind Turbine,WND,WT,OP,33.703851,-97.372009
+699,2023-01,TX,ipp-non-chp,17650,60657,GEN1,Onshore Wind Turbine,WND,WT,OP,35.18172,-100.934408
+700,2023-01,TX,ipp-non-chp,17650,61001,WT1,Onshore Wind Turbine,WND,WT,OP,31.112474,-100.028142
+701,2023-01,TX,electric-utility,17698,3476,5,Natural Gas Steam Turbine,NG,ST,OP,32.3766,-94.6415
+702,2023-01,TX,electric-utility,17698,3478,1,Natural Gas Steam Turbine,NG,ST,OP,32.848163,-94.547986
+703,2023-01,TX,electric-utility,17718,6194,2,Conventional Steam Coal,SUB,ST,OP,34.186494,-102.56999
+704,2023-01,TX,electric-utility,17718,3482,4,Natural Gas Fired Combustion Turbine,NG,GT,OP,33.5239,-101.7392
+705,2023-01,TX,electric-utility,17718,3484,1,Natural Gas Steam Turbine,NG,ST,OP,35.283357,-101.746423
+706,2023-01,TX,ipp-non-chp,56627,57263,LP1,Onshore Wind Turbine,WND,WT,OS,35.964272,-101.540238
+707,2023-01,TX,ipp-non-chp,56627,57264,LP2,Onshore Wind Turbine,WND,WT,OS,35.924858,-101.541363
+708,2023-01,TX,ipp-non-chp,56627,57517,FRISC,Onshore Wind Turbine,WND,WT,OS,36.498514,-101.605278
+709,2023-01,TX,electric-utility,17698,3478,2,Natural Gas Steam Turbine,NG,ST,OP,32.848163,-94.547986
+710,2023-01,TX,ipp-non-chp,17650,60372,LSPV1,Solar Photovoltaic,SUN,PV,OP,32.715611,-101.926522
+711,2023-01,TX,ipp-non-chp,17650,58766,1,Onshore Wind Turbine,WND,WT,OP,33.825,-101.099722
+712,2023-01,TX,industrial-chp,17566,52132,GEN1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.378164,-94.92195
+713,2023-01,TX,ipp-non-chp,56667,57303,LWG1,Onshore Wind Turbine,WND,WT,OP,32.4375,-100.7444
+714,2023-01,TX,ipp-non-chp,56667,57303,LWG2,Onshore Wind Turbine,WND,WT,OP,32.4375,-100.7444
+715,2023-01,TX,industrial-chp,56672,57322,GT01,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.838138,-94.900661
+716,2023-01,TX,ipp-non-chp,56680,57326,WND1,Onshore Wind Turbine,WND,WT,OP,35.9454,-101.9005
+717,2023-01,TX,electric-utility,39347,56603,SJC1,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.4193,-95.0118
+718,2023-01,TX,electric-utility,39347,56603,SJC2,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.4193,-95.0118
+719,2023-01,TX,electric-utility,39347,58645,RCT1,Conventional Hydroelectric,WAT,HY,OP,30.632222,-95.01
+720,2023-01,TX,electric-utility,39347,58645,RCT2,Conventional Hydroelectric,WAT,HY,OP,30.632222,-95.01
+721,2023-01,TX,electric-utility,39347,58645,RCT3,Conventional Hydroelectric,WAT,HY,OP,30.632222,-95.01
+722,2023-01,TX,electric-utility,39347,58944,G1,Wood/Wood Waste Biomass,WDS,ST,OS,30.748333,-94.4375
+723,2023-01,TX,industrial-chp,57445,58069,55M1,Petroleum Coke,PC,ST,OS,29.723333,-95.210278
+724,2023-01,TX,ipp-non-chp,17650,59994,ROSEK,Solar Photovoltaic,SUN,PV,OP,30.960209,-103.306662
+725,2023-01,TX,industrial-chp,17052,54330,1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.726017,-95.638249
+726,2023-01,TX,ipp-non-chp,17058,56111,GEN1,Onshore Wind Turbine,WND,WT,OP,32.94793,-101.147784
+727,2023-01,TX,ipp-non-chp,57460,58080,1,Onshore Wind Turbine,WND,WT,OP,33.733006,-97.428406
+728,2023-01,TX,electric-utility,17583,59391,ENG06,Natural Gas Internal Combustion Engine,NG,IC,OP,26.451111,-98.1775
+729,2023-01,TX,electric-utility,17583,59391,ENG07,Natural Gas Internal Combustion Engine,NG,IC,OP,26.451111,-98.1775
+730,2023-01,TX,electric-utility,17583,59391,ENG08,Natural Gas Internal Combustion Engine,NG,IC,OP,26.451111,-98.1775
+731,2023-01,TX,electric-utility,17583,59391,ENG09,Natural Gas Internal Combustion Engine,NG,IC,OP,26.451111,-98.1775
+732,2023-01,TX,electric-utility,17583,59391,ENG10,Natural Gas Internal Combustion Engine,NG,IC,OP,26.451111,-98.1775
+733,2023-01,TX,electric-utility,17583,59391,ENG11,Natural Gas Internal Combustion Engine,NG,IC,OP,26.451111,-98.1775
+734,2023-01,TX,electric-utility,17583,59391,ENG12,Natural Gas Internal Combustion Engine,NG,IC,OP,26.451111,-98.1775
+735,2023-01,TX,ipp-non-chp,17718,59247,HALE1,Onshore Wind Turbine,WND,WT,OP,33.927778,-101.742222
+736,2023-01,TX,electric-utility,17583,3630,6A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+737,2023-01,TX,electric-utility,17583,3630,7A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+738,2023-01,TX,electric-utility,17583,3631,4,Petroleum Liquids,DFO,IC,OP,28.8947,-97.135
+739,2023-01,TX,electric-utility,17583,3630,8A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+740,2023-01,TX,electric-utility,17583,3630,9A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+741,2023-01,TX,electric-utility,17583,3631,10,Natural Gas Fired Combined Cycle,NG,CA,OP,28.8947,-97.135
+742,2023-01,TX,electric-utility,17583,3631,5,Petroleum Liquids,DFO,IC,OP,28.8947,-97.135
+743,2023-01,TX,electric-utility,17583,3631,7,Natural Gas Fired Combined Cycle,NG,CT,OP,28.8947,-97.135
+744,2023-01,TX,electric-utility,17583,3631,8,Natural Gas Fired Combined Cycle,NG,CT,OP,28.8947,-97.135
+745,2023-01,TX,ipp-non-chp,49893,58765,1,Onshore Wind Turbine,WND,WT,OP,35.653889,-100.538611
+746,2023-01,TX,electric-utility,17583,3631,9,Natural Gas Fired Combined Cycle,NG,CT,OP,28.8947,-97.135
+747,2023-01,TX,electric-utility,17583,59391,ENG01,Natural Gas Internal Combustion Engine,NG,IC,OP,26.451111,-98.1775
+748,2023-01,TX,electric-utility,17583,59391,ENG02,Natural Gas Internal Combustion Engine,NG,IC,OP,26.451111,-98.1775
+749,2023-01,TX,electric-utility,17583,59391,ENG03,Natural Gas Internal Combustion Engine,NG,IC,OP,26.451111,-98.1775
+750,2023-01,TX,electric-utility,17583,59391,ENG04,Natural Gas Internal Combustion Engine,NG,IC,OP,26.451111,-98.1775
+751,2023-01,TX,electric-utility,17583,59391,ENG05,Natural Gas Internal Combustion Engine,NG,IC,OP,26.451111,-98.1775
+752,2023-01,TX,electric-utility,17583,3630,13A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+753,2023-01,TX,electric-utility,17583,3630,14A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+754,2023-01,TX,electric-utility,17583,3630,15A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+755,2023-01,TX,electric-utility,17583,3630,16A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+756,2023-01,TX,ipp-non-chp,49893,62038,STRAE,Onshore Wind Turbine,WND,WT,OP,31.207988,-101.110787
+757,2023-01,TX,ipp-non-chp,49893,63211,GEN1,Solar Photovoltaic,SUN,PV,OP,33.25102,-95.193426
+758,2023-01,TX,ipp-non-chp,49893,63883,GEN1,Solar Photovoltaic,SUN,PV,OP,33.426498,-95.357449
+759,2023-01,TX,electric-utility,17583,3630,17A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+760,2023-01,TX,electric-utility,17583,3630,18A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+761,2023-01,TX,electric-utility,17583,3630,19A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+762,2023-01,TX,electric-utility,17583,3630,1A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+763,2023-01,TX,electric-utility,17583,3630,20A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+764,2023-01,TX,electric-utility,17583,3630,21A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+765,2023-01,TX,electric-utility,17583,3630,22A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+766,2023-01,TX,electric-utility,17583,3630,23A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+767,2023-01,TX,electric-utility,17583,3630,24A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+768,2023-01,TX,electric-utility,17583,3630,2A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+769,2023-01,TX,electric-utility,17583,3630,3A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+770,2023-01,TX,electric-utility,17583,3630,4A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+771,2023-01,TX,electric-utility,17583,3630,5A,Natural Gas Internal Combustion Engine,NG,IC,OP,28.9275,-99.0919
+772,2023-01,TX,electric-utility,50174,60506,BOB,Batteries,MWH,BA,OP,29.566263,-104.35535
+773,2023-01,TX,ipp-non-chp,54683,3437,1,Conventional Hydroelectric,WAT,HY,OP,28.829535,-100.552234
+774,2023-01,TX,ipp-non-chp,54683,3437,2,Conventional Hydroelectric,WAT,HY,OP,28.829535,-100.552234
+775,2023-01,TX,ipp-non-chp,54683,3437,3,Conventional Hydroelectric,WAT,HY,OP,28.829535,-100.552234
+776,2023-01,TX,ipp-non-chp,54700,50109,GEN1,Natural Gas Fired Combined Cycle,NG,CT,OP,33.6968,-95.5577
+777,2023-01,TX,industrial-chp,54745,10425,TG,Wood/Wood Waste Biomass,BLQ,ST,OP,30.2178,-93.7422
+778,2023-01,TX,ipp-non-chp,54759,56395,1,Onshore Wind Turbine,WND,WT,OP,32.6256,-99.4928
+779,2023-01,TX,ipp-non-chp,54759,56483,1,Onshore Wind Turbine,WND,WT,OP,32.5144,-99.6564
+780,2023-01,TX,industrial-chp,54769,10154,GEN1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.2293,-95.1952
+781,2023-01,TX,industrial-chp,54769,10154,GEN2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.2293,-95.1952
+782,2023-01,TX,industrial-chp,54769,10154,GEN3,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.2293,-95.1952
+783,2023-01,TX,ipp-non-chp,54700,50109,GEN2,Natural Gas Fired Combined Cycle,NG,CT,OP,33.6968,-95.5577
+784,2023-01,TX,ipp-non-chp,54700,50109,GEN3,Natural Gas Fired Combined Cycle,NG,CA,OP,33.6968,-95.5577
+785,2023-01,TX,industrial-chp,54705,10167,GEN1,Petroleum Coke,PC,ST,OP,28.513929,-96.794154
+786,2023-01,TX,ipp-non-chp,54777,50127,GTA,Natural Gas Fired Combined Cycle,NG,CT,OP,33.8625,-98.5894
+787,2023-01,TX,ipp-non-chp,54777,50127,GTB,Natural Gas Fired Combined Cycle,NG,CT,OP,33.8625,-98.5894
+788,2023-01,TX,ipp-non-chp,56765,56350,CT1A,Natural Gas Fired Combined Cycle,NG,CT,OP,29.2878,-96.0683
+789,2023-01,TX,ipp-non-chp,56765,56350,CT1B,Natural Gas Fired Combined Cycle,NG,CT,OP,29.2878,-96.0683
+790,2023-01,TX,ipp-non-chp,56765,56350,CT2A,Natural Gas Fired Combined Cycle,NG,CT,OP,29.2878,-96.0683
+791,2023-01,TX,ipp-non-chp,56765,56350,CT2B,Natural Gas Fired Combined Cycle,NG,CT,OP,29.2878,-96.0683
+792,2023-01,TX,ipp-non-chp,56765,56350,ST1,Natural Gas Fired Combined Cycle,NG,CA,OP,29.2878,-96.0683
+793,2023-01,TX,ipp-non-chp,56765,56350,ST2,Natural Gas Fired Combined Cycle,NG,CA,OP,29.2878,-96.0683
+794,2023-01,TX,ipp-non-chp,56766,56349,CT1A,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8414,-102.315
+795,2023-01,TX,ipp-non-chp,56766,56349,CT1B,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8414,-102.315
+796,2023-01,TX,ipp-non-chp,56766,56349,CT2A,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8414,-102.315
+797,2023-01,TX,ipp-non-chp,56766,56349,CT2B,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8414,-102.315
+798,2023-01,TX,ipp-non-chp,56506,57153,1,Onshore Wind Turbine,WND,WT,OP,31.085435,-100.67882
+799,2023-01,TX,ipp-non-chp,49979,4939,4,Natural Gas Fired Combined Cycle,NG,CT,OP,27.6064,-97.3117
+800,2023-01,TX,industrial-chp,50006,10790,GEN1,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.675088,-96.956014
+801,2023-01,TX,ipp-non-chp,56766,56349,ST1,Natural Gas Fired Combined Cycle,NG,CA,OP,31.8414,-102.315
+802,2023-01,TX,ipp-non-chp,56766,56349,ST2,Natural Gas Fired Combined Cycle,NG,CA,OP,31.8414,-102.315
+803,2023-01,TX,ipp-non-chp,17650,60414,GEN1,Onshore Wind Turbine,WND,WT,OP,34.575311,-102.474698
+804,2023-01,TX,electric-utility,11292,3604,6A,Natural Gas Fired Combined Cycle,NG,CA,OP,33.6039,-101.8408
+805,2023-01,TX,electric-utility,11292,3604,7,Natural Gas Fired Combined Cycle,NG,CA,OP,33.6039,-101.8408
+806,2023-01,TX,electric-utility,11292,3604,8,Natural Gas Fired Combined Cycle,NG,CT,OP,33.6039,-101.8408
+807,2023-01,TX,electric-utility,11292,7131,1,Natural Gas Fired Combustion Turbine,NG,GT,OP,33.585257,-101.886093
+808,2023-01,TX,electric-utility,9339,6128,1,Conventional Hydroelectric,WAT,HY,OP,29.449827,-101.06011
+809,2023-01,TX,electric-utility,9339,6128,2,Conventional Hydroelectric,WAT,HY,OP,29.449827,-101.06011
+810,2023-01,TX,electric-utility,9339,6410,1,Conventional Hydroelectric,WAT,HY,OP,26.5575,-99.1642
+811,2023-01,TX,electric-utility,9339,6410,2,Conventional Hydroelectric,WAT,HY,OP,26.5575,-99.1642
+812,2023-01,TX,electric-utility,9339,6410,3,Conventional Hydroelectric,WAT,HY,OP,26.5575,-99.1642
+813,2023-01,TX,electric-utility,11269,3594,1,Conventional Hydroelectric,WAT,HY,OP,30.293424,-97.784408
+814,2023-01,TX,electric-utility,11269,3594,2,Conventional Hydroelectric,WAT,HY,OP,30.293424,-97.784408
+815,2023-01,TX,electric-utility,11269,3595,1,Conventional Hydroelectric,WAT,HY,OP,30.7507,-98.4176
+816,2023-01,TX,electric-utility,11269,3595,2,Conventional Hydroelectric,WAT,HY,OP,30.7507,-98.4176
+817,2023-01,TX,electric-utility,11269,3595,3,Conventional Hydroelectric,WAT,HY,OP,30.7507,-98.4176
+818,2023-01,TX,electric-utility,11269,3597,1,Conventional Hydroelectric,WAT,HY,OP,30.556,-98.3384
+819,2023-01,TX,electric-utility,11269,3599,2,Conventional Hydroelectric,WAT,HY,OP,30.555288,-98.257593
+820,2023-01,TX,electric-utility,11269,3597,2,Conventional Hydroelectric,WAT,HY,OP,30.556,-98.3384
+821,2023-01,TX,electric-utility,11269,3598,1,Conventional Hydroelectric,WAT,HY,OP,30.731599,-98.385422
+822,2023-01,TX,electric-utility,11269,3599,1,Conventional Hydroelectric,WAT,HY,OP,30.555288,-98.257593
+823,2023-01,TX,electric-utility,11269,3600,1,Conventional Hydroelectric,WAT,HY,OP,30.3899,-97.9073
+824,2023-01,TX,electric-utility,11269,3600,2,Conventional Hydroelectric,WAT,HY,OP,30.3899,-97.9073
+825,2023-01,TX,electric-utility,11269,3600,3,Conventional Hydroelectric,WAT,HY,OP,30.3899,-97.9073
+826,2023-01,TX,electric-utility,11269,3601,1,Natural Gas Steam Turbine,NG,ST,OP,30.1456,-97.2708
+827,2023-01,TX,electric-utility,11269,3601,2,Natural Gas Steam Turbine,NG,ST,OP,30.1456,-97.2708
+828,2023-01,TX,electric-utility,11269,3601,3,Natural Gas Steam Turbine,NG,ST,OP,30.1456,-97.2708
+829,2023-01,TX,electric-utility,11269,4937,CT-1,Natural Gas Fired Combined Cycle,NG,CT,OP,30.558,-98.3721
+830,2023-01,TX,electric-utility,11269,4937,CT-2,Natural Gas Fired Combined Cycle,NG,CT,OP,30.558,-98.3721
+831,2023-01,TX,electric-utility,11269,4937,STG,Natural Gas Fired Combined Cycle,NG,CA,OP,30.558,-98.3721
+832,2023-01,TX,electric-utility,11269,6179,1,Conventional Steam Coal,RC,ST,OP,29.9172,-96.7506
+833,2023-01,TX,electric-utility,11269,6179,2,Conventional Steam Coal,RC,ST,OP,29.9172,-96.7506
+834,2023-01,TX,electric-utility,11269,6179,3,Conventional Steam Coal,RC,ST,OP,29.9172,-96.7506
+835,2023-01,TX,electric-utility,11269,55154,CTA,Natural Gas Fired Combined Cycle,NG,CT,OP,30.1478,-97.2714
+836,2023-01,TX,electric-utility,11269,55154,CTB,Natural Gas Fired Combined Cycle,NG,CT,OP,30.1478,-97.2714
+837,2023-01,TX,ipp-chp,11059,55047,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,29.72475,-95.176479
+838,2023-01,TX,ipp-chp,11059,55047,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,29.72475,-95.176479
+839,2023-01,TX,ipp-chp,11059,55047,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,29.72475,-95.176479
+840,2023-01,TX,ipp-chp,11059,55047,CTG3,Natural Gas Fired Combined Cycle,NG,CT,OP,29.72475,-95.176479
+841,2023-01,TX,ipp-chp,11059,55047,STG2,Natural Gas Fired Combined Cycle,NG,CA,OP,29.72475,-95.176479
+842,2023-01,TX,electric-utility,11269,55154,ST,Natural Gas Fired Combined Cycle,NG,CA,OP,30.1478,-97.2714
+843,2023-01,TX,electric-utility,11269,56674,CGT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.0381,-96.9875
+844,2023-01,TX,electric-utility,11269,56674,CGT2,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.0381,-96.9875
+845,2023-01,TX,electric-utility,11269,56674,CGT3,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.0381,-96.9875
+846,2023-01,TX,electric-utility,11269,56674,CGT4,Natural Gas Fired Combustion Turbine,NG,GT,OP,30.0381,-96.9875
+847,2023-01,TX,electric-utility,11292,3602,1,Natural Gas Steam Turbine,NG,ST,OA,33.5211,-101.7906
+848,2023-01,TX,electric-utility,11292,3602,2,Natural Gas Steam Turbine,NG,ST,OA,33.5211,-101.7906
+849,2023-01,TX,electric-utility,11292,3602,GT2,Natural Gas Fired Combustion Turbine,NG,GT,OP,33.5211,-101.7906
+850,2023-01,TX,electric-utility,11292,3602,GT3,Natural Gas Fired Combustion Turbine,NG,GT,OP,33.5211,-101.7906
+851,2023-01,TX,industrial-chp,12981,50973,GN42,Natural Gas Fired Combined Cycle,NG,CT,OP,29.888462,-93.950984
+852,2023-01,TX,industrial-chp,12981,50973,GN43,Natural Gas Fired Combined Cycle,NG,CT,OP,29.888462,-93.950984
+853,2023-01,TX,industrial-chp,12981,50973,GN44,Natural Gas Fired Combined Cycle,NG,CT,OP,29.888462,-93.950984
+854,2023-01,TX,industrial-chp,12307,50101,GEN1,Wood/Wood Waste Biomass,BLQ,ST,OP,30.3419,-94.0656
+855,2023-01,TX,industrial-chp,12307,50101,GEN2,Wood/Wood Waste Biomass,BLQ,ST,OP,30.3419,-94.0656
+856,2023-01,TX,industrial-chp,12307,50101,GEN3,Wood/Wood Waste Biomass,BLQ,ST,OP,30.3419,-94.0656
+857,2023-01,TX,industrial-chp,12981,50973,GN31,Natural Gas Fired Combined Cycle,NG,CA,OP,29.888462,-93.950984
+858,2023-01,TX,industrial-chp,12981,50973,GN32,Natural Gas Fired Combined Cycle,NG,CA,OP,29.888462,-93.950984
+859,2023-01,TX,industrial-chp,12981,50973,GN33,Natural Gas Fired Combined Cycle,NG,CA,OP,29.888462,-93.950984
+860,2023-01,TX,industrial-chp,12981,50973,GN34,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.888462,-93.950984
+861,2023-01,TX,industrial-chp,12981,50973,GN35,Natural Gas Fired Combined Cycle,NG,CT,OP,29.888462,-93.950984
+862,2023-01,TX,industrial-chp,12981,50973,GN41,Natural Gas Fired Combined Cycle,NG,CT,OP,29.888462,-93.950984
+863,2023-01,TX,ipp-non-chp,58872,59034,SHAN1,Onshore Wind Turbine,WND,WT,OP,33.509722,-98.360833
+864,2023-01,TX,ipp-non-chp,61677,62953,1080,Solar Photovoltaic,SUN,PV,OP,31.474114,-97.141218
+865,2023-01,TX,ipp-non-chp,61677,63027,20,Solar Photovoltaic,SUN,PV,OP,27.421553,-98.834962
+866,2023-01,TX,ipp-non-chp,58811,58946,ENG1,Landfill Gas,LFG,IC,OP,32.648611,-96.644444
+867,2023-01,TX,ipp-non-chp,58811,58946,ENG2,Landfill Gas,LFG,IC,OP,32.648611,-96.644444
+868,2023-01,TX,ipp-non-chp,58811,58946,ENG3,Landfill Gas,LFG,IC,OP,32.648611,-96.644444
+869,2023-01,TX,ipp-non-chp,61219,62755,PROSP,Solar Photovoltaic,SUN,PV,OP,32.287873,-102.840399
+870,2023-01,TX,ipp-non-chp,61219,62765,CAMPO,Onshore Wind Turbine,WND,WT,OP,33.732181,-99.726392
+871,2023-01,TX,ipp-non-chp,61219,64325,PROSP,Solar Photovoltaic,SUN,PV,OP,32.275814,-102.844806
+872,2023-01,TX,ipp-non-chp,63116,63351,BBS2,Solar Photovoltaic,SUN,PV,OP,31.888,-100.825
+873,2023-01,TX,commercial-non-chp,61188,61589,MT-1,Onshore Wind Turbine,WND,WT,OP,34.966012,-101.78412
+874,2023-01,TX,commercial-non-chp,61188,61589,UT-1,Onshore Wind Turbine,WND,WT,OP,34.966012,-101.78412
+875,2023-01,TX,commercial-non-chp,64315,64813,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.877618,-95.651482
+876,2023-01,TX,commercial-non-chp,64315,64814,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.551973,-95.159125
+877,2023-01,TX,commercial-non-chp,64315,64814,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.551973,-95.159125
+878,2023-01,TX,commercial-non-chp,64315,64814,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.551973,-95.159125
+879,2023-01,TX,commercial-non-chp,64315,64815,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.998163,-95.486202
+880,2023-01,TX,commercial-non-chp,64315,64815,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.998163,-95.486202
+881,2023-01,TX,commercial-non-chp,64315,64815,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.998163,-95.486202
+882,2023-01,TX,commercial-non-chp,64315,64816,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,31.080808,-97.457755
+883,2023-01,TX,commercial-non-chp,64315,64816,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,31.080808,-97.457755
+884,2023-01,TX,commercial-non-chp,64315,64816,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,31.080808,-97.457755
+885,2023-01,TX,commercial-non-chp,64315,64829,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.691018,-100.91789
+886,2023-01,TX,commercial-non-chp,64315,64829,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.691018,-100.91789
+887,2023-01,TX,commercial-non-chp,64315,64829,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.691018,-100.91789
+888,2023-01,TX,commercial-non-chp,64315,64883,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.764483,-97.169261
+889,2023-01,TX,commercial-non-chp,64315,64883,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.764483,-97.169261
+890,2023-01,TX,commercial-non-chp,64315,64883,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.764483,-97.169261
+891,2023-01,TX,commercial-non-chp,64315,64884,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.668729,-97.131834
+892,2023-01,TX,commercial-non-chp,64315,64884,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.668729,-97.131834
+893,2023-01,TX,commercial-non-chp,64315,64884,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.668729,-97.131834
+894,2023-01,TX,commercial-non-chp,64315,64885,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.853797,-95.509083
+895,2023-01,TX,commercial-non-chp,64315,64885,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.853797,-95.509083
+896,2023-01,TX,commercial-non-chp,64315,64885,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.853797,-95.509083
+897,2023-01,TX,commercial-non-chp,64315,64886,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.817549,-94.900456
+898,2023-01,TX,commercial-non-chp,64315,64886,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.817549,-94.900456
+899,2023-01,TX,commercial-non-chp,64315,64886,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.817549,-94.900456
+900,2023-01,TX,commercial-non-chp,64315,64887,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.793829,-96.689543
+901,2023-01,TX,commercial-non-chp,64315,64887,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.793829,-96.689543
+902,2023-01,TX,ipp-non-chp,63883,64293,ALVIN,Batteries,MWH,BA,OP,29.433245,-95.249367
+903,2023-01,TX,ipp-non-chp,63883,64294,ODSA,Batteries,MWH,BA,OP,31.871315,-102.398409
+904,2023-01,TX,ipp-non-chp,63883,64295,ANGLE,Batteries,MWH,BA,OP,29.167065,-95.440647
+905,2023-01,TX,ipp-non-chp,63883,64296,BRAZ,Batteries,MWH,BA,OP,29.062635,-95.577587
+906,2023-01,TX,ipp-non-chp,63883,64297,H8S,Batteries,MWH,BA,OP,29.389595,-94.949867
+907,2023-01,TX,ipp-non-chp,63883,64298,MANGO,Batteries,MWH,BA,OP,29.488335,-95.133947
+908,2023-01,TX,ipp-non-chp,63883,64312,BC,Batteries,MWH,BA,OP,30.737745,-99.231778
+909,2023-01,TX,ipp-non-chp,63883,64314,DIKN,Batteries,MWH,BA,OP,29.461255,-95.056987
+910,2023-01,TX,ipp-non-chp,63883,64315,LOOP,Batteries,MWH,BA,OP,28.816475,-97.074867
+911,2023-01,TX,ipp-non-chp,63883,64316,LOPE,Batteries,MWH,BA,OP,26.687614,-99.109418
+912,2023-01,TX,ipp-non-chp,63883,64317,NF,Batteries,MWH,BA,OP,30.748955,-97.875708
+913,2023-01,TX,ipp-non-chp,65401,50137,GEN1,Natural Gas Fired Combustion Turbine,NG,GT,OA,29.2639,-95.8997
+914,2023-01,TX,ipp-non-chp,60617,60983,BWIND,Onshore Wind Turbine,WND,WT,OP,32.371306,-98.377389
+915,2023-01,TX,ipp-non-chp,60636,60989,PV1,Solar Photovoltaic,SUN,PV,OP,30.45512,-103.4747
+916,2023-01,TX,ipp-non-chp,60638,3443,5,Natural Gas Fired Combined Cycle,NG,CA,OP,28.7883,-97.01
+917,2023-01,TX,ipp-non-chp,60638,3443,7,Natural Gas Fired Combined Cycle,NG,CT,OP,28.7883,-97.01
+918,2023-01,TX,ipp-non-chp,61727,62207,RELOJ,Onshore Wind Turbine,WND,WT,OP,27.03028,-99.388388
+919,2023-01,TX,ipp-non-chp,61728,62753,BESS,Batteries,MWH,BA,OP,29.149166,-95.651111
+920,2023-01,TX,ipp-non-chp,60228,60427,CSS1,Solar Photovoltaic,SUN,PV,OP,33.2706,-96.979168
+921,2023-01,TX,ipp-non-chp,61677,64227,12001,Solar Photovoltaic,SUN,PV,OP,26.88913,-98.233324
+922,2023-01,TX,commercial-non-chp,64315,64935,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.72355,-95.46539
+923,2023-01,TX,commercial-non-chp,64315,64935,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.72355,-95.46539
+924,2023-01,TX,commercial-non-chp,64315,64936,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.576636,-97.338514
+925,2023-01,TX,commercial-non-chp,64315,64936,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.576636,-97.338514
+926,2023-01,TX,commercial-non-chp,64315,64936,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.576636,-97.338514
+927,2023-01,TX,commercial-non-chp,64315,64937,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.765261,-97.483775
+928,2023-01,TX,commercial-non-chp,64315,64937,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.765261,-97.483775
+929,2023-01,TX,commercial-non-chp,64315,64937,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.765261,-97.483775
+930,2023-01,TX,commercial-non-chp,64315,64938,GEN1,Petroleum Liquids,DFO,IC,OP,33.179721,-96.883994
+931,2023-01,TX,commercial-non-chp,64315,64939,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.690142,-95.774624
+932,2023-01,TX,commercial-non-chp,64315,64939,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.690142,-95.774624
+933,2023-01,TX,commercial-non-chp,64315,64939,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.690142,-95.774624
+934,2023-01,TX,commercial-non-chp,64315,64940,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,26.267703,-98.204552
+935,2023-01,TX,commercial-non-chp,64315,64940,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,26.267703,-98.204552
+936,2023-01,TX,commercial-non-chp,64315,64940,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,26.267703,-98.204552
+937,2023-01,TX,commercial-non-chp,64315,64942,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.936325,-95.25261
+938,2023-01,TX,ipp-non-chp,65408,66321,KC1,Onshore Wind Turbine,WND,WT,OP,33.268,-99.468
+939,2023-01,TX,ipp-non-chp,65409,66323,KC2,Onshore Wind Turbine,WND,WT,OP,33.231,-99.377
+940,2023-01,TX,ipp-non-chp,65431,58471,CTG1,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.069167,-102.585556
+941,2023-01,TX,ipp-non-chp,65431,58471,CTG2,Natural Gas Fired Combustion Turbine,NG,GT,OP,32.069167,-102.585556
+942,2023-01,TX,ipp-non-chp,61678,62141,RMBLR,Solar Photovoltaic,SUN,PV,OP,31.517,-100.6
+943,2023-01,TX,ipp-non-chp,64533,65162,LCW1,Onshore Wind Turbine,WND,WT,OP,31.729906,-101.29894
+944,2023-01,TX,ipp-non-chp,63183,63388,SOLAR,Solar Photovoltaic,SUN,PV,OP,32.0015,-102.6337
+945,2023-01,TX,ipp-non-chp,62680,62772,BTCON,Solar Photovoltaic,SUN,PV,OP,33.404486,-96.082472
+946,2023-01,TX,ipp-non-chp,62682,62774,BTKEL,Solar Photovoltaic,SUN,PV,OP,32.4744,-95.7156
+947,2023-01,TX,ipp-non-chp,62705,62804,GREA1,Solar Photovoltaic,SUN,PV,OP,31.030996,-102.488209
+948,2023-01,TX,commercial-non-chp,64315,64942,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.936325,-95.25261
+949,2023-01,TX,commercial-non-chp,64315,64942,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.936325,-95.25261
+950,2023-01,TX,commercial-non-chp,64315,64943,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.677829,-97.467729
+951,2023-01,TX,commercial-non-chp,64315,64943,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.677829,-97.467729
+952,2023-01,TX,commercial-non-chp,64315,64943,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.677829,-97.467729
+953,2023-01,TX,commercial-non-chp,64315,64944,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.818196,-95.767961
+954,2023-01,TX,commercial-non-chp,64315,64944,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.818196,-95.767961
+955,2023-01,TX,commercial-non-chp,64315,64944,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.818196,-95.767961
+956,2023-01,TX,commercial-non-chp,64315,64945,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.829831,-95.377269
+957,2023-01,TX,commercial-non-chp,64315,64945,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.829831,-95.377269
+958,2023-01,TX,commercial-non-chp,64315,64945,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.829831,-95.377269
+959,2023-01,TX,commercial-non-chp,64315,64946,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.803665,-95.72045
+960,2023-01,TX,commercial-non-chp,64315,64946,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.803665,-95.72045
+961,2023-01,TX,commercial-non-chp,64315,64946,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.803665,-95.72045
+962,2023-01,TX,commercial-non-chp,64315,64947,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,30.014278,-95.594987
+963,2023-01,TX,commercial-non-chp,64315,64947,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,30.014278,-95.594987
+964,2023-01,TX,commercial-non-chp,64315,64947,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,30.014278,-95.594987
+965,2023-01,TX,commercial-non-chp,64315,64948,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.847939,-97.18405
+966,2023-01,TX,commercial-non-chp,64315,64948,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.847939,-97.18405
+967,2023-01,TX,commercial-non-chp,64315,64948,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.847939,-97.18405
+968,2023-01,TX,commercial-non-chp,64315,64949,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.975997,-95.697345
+969,2023-01,TX,commercial-non-chp,64315,64949,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.975997,-95.697345
+970,2023-01,TX,commercial-non-chp,64315,64949,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.975997,-95.697345
+971,2023-01,TX,commercial-non-chp,64315,64950,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.664286,-95.098302
+972,2023-01,TX,commercial-non-chp,64315,64950,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.664286,-95.098302
+973,2023-01,TX,commercial-non-chp,64315,64950,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.664286,-95.098302
+974,2023-01,TX,commercial-non-chp,64315,64951,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,26.191785,-98.128306
+975,2023-01,TX,commercial-non-chp,64315,64951,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,26.191785,-98.128306
+976,2023-01,TX,commercial-non-chp,64315,64951,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,26.191785,-98.128306
+977,2023-01,TX,ipp-non-chp,61683,62142,AM-TX,Onshore Wind Turbine,WND,WT,OP,32.96736,-100.56428
+978,2023-01,TX,ipp-non-chp,61886,62356,LOC,Onshore Wind Turbine,WND,WT,OP,34.072251,-99.264676
+979,2023-01,TX,ipp-non-chp,58939,59118,CAM1,Onshore Wind Turbine,WND,WT,OP,26.195278,-97.466111
+980,2023-01,TX,ipp-non-chp,62788,62933,OBR1A,Solar Photovoltaic,SUN,PV,OP,31.703258,-102.701206
+981,2023-01,TX,ipp-non-chp,62789,62932,OBR1B,Solar Photovoltaic,SUN,PV,OP,31.692358,-102.69743
+982,2023-01,TX,ipp-non-chp,62794,62945,FJSOL,Solar Photovoltaic,SUN,PV,OP,29.358425,-95.746388
+983,2023-01,TX,commercial-non-chp,64315,64952,GEN1,Petroleum Liquids,DFO,IC,OP,33.156306,-96.682687
+984,2023-01,TX,commercial-non-chp,64315,64953,GE N3,Natural Gas Internal Combustion Engine,NG,IC,OP,30.077307,-95.51277
+985,2023-01,TX,commercial-non-chp,64315,64953,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,30.077307,-95.51277
+986,2023-01,TX,commercial-non-chp,64315,64953,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,30.077307,-95.51277
+987,2023-01,TX,commercial-non-chp,64315,64954,GEN1,Petroleum Liquids,DFO,IC,OP,33.216844,-96.735704
+988,2023-01,TX,commercial-non-chp,64315,64955,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.774643,-97.291803
+989,2023-01,TX,commercial-non-chp,64315,64955,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.774643,-97.291803
+990,2023-01,TX,commercial-non-chp,64315,64955,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.774643,-97.291803
+991,2023-01,TX,commercial-non-chp,64315,64956,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.882111,-97.387586
+992,2023-01,TX,commercial-non-chp,64315,64956,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.882111,-97.387586
+993,2023-01,TX,commercial-non-chp,64315,64956,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.882111,-97.387586
+994,2023-01,TX,commercial-non-chp,64315,64957,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.470152,-95.089643
+995,2023-01,TX,commercial-non-chp,64315,64958,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,30.453115,-97.606035
+996,2023-01,TX,commercial-non-chp,64315,64958,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,30.453115,-97.606035
+997,2023-01,TX,commercial-non-chp,64315,64958,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,30.453115,-97.606035
+998,2023-01,TX,commercial-non-chp,64315,64959,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,30.53366,-97.612014
+999,2023-01,TX,commercial-non-chp,64315,64959,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,30.53366,-97.612014
+1000,2023-01,TX,commercial-non-chp,64315,64959,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,30.53366,-97.612014
+1001,2023-01,TX,commercial-non-chp,64315,64960,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.716069,-95.313027
+1002,2023-01,TX,commercial-non-chp,64315,64960,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.716069,-95.313027
+1003,2023-01,TX,commercial-non-chp,64315,64960,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.716069,-95.313027
+1004,2023-01,TX,commercial-non-chp,64315,64961,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,27.610637,-99.462215
+1005,2023-01,TX,commercial-non-chp,64315,64961,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,27.610637,-99.462215
+1006,2023-01,TX,commercial-non-chp,64315,64961,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,27.610637,-99.462215
+1007,2023-01,TX,commercial-non-chp,64315,64962,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.967341,-97.411976
+1008,2023-01,TX,commercial-non-chp,64315,64962,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.967341,-97.411976
+1009,2023-01,TX,commercial-non-chp,64315,64962,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.967341,-97.411976
+1010,2023-01,TX,commercial-non-chp,64315,64963,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,31.11497,-97.414441
+1011,2023-01,TX,commercial-non-chp,64315,64963,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,31.11497,-97.414441
+1012,2023-01,TX,ipp-non-chp,61291,61674,WT,Onshore Wind Turbine,WND,WT,OP,33.5296,-102.9619
+1013,2023-01,TX,ipp-non-chp,60384,60645,WJ21,Onshore Wind Turbine,WND,WT,OP,27.44,-98.91
+1014,2023-01,TX,ipp-non-chp,60389,60649,1,Batteries,MWH,BA,OP,30.587828,-97.687023
+1015,2023-01,TX,ipp-non-chp,60400,60774,GEN1,Solar Photovoltaic,SUN,PV,OP,31.114983,-97.845111
+1016,2023-01,TX,ipp-non-chp,61323,61700,PFPKB,Solar Photovoltaic,SUN,PV,OP,30.265877,-97.684861
+1017,2023-01,TX,ipp-non-chp,64564,65259,P1,Batteries,MWH,BA,OP,29.056,-95.686
+1018,2023-01,TX,ipp-non-chp,64568,65271,NBSLR,Solar Photovoltaic,SUN,PV,OP,33.261505,-97.238057
+1019,2023-01,TX,ipp-non-chp,64568,65271,NBSTG,Batteries,MWH,BA,OP,33.261505,-97.238057
+1020,2023-01,TX,commercial-non-chp,64315,64963,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,31.11497,-97.414441
+1021,2023-01,TX,ipp-non-chp,64108,64447,GEN1,Solar Photovoltaic,SUN,PV,OP,29.191,-95.663
+1022,2023-01,TX,ipp-non-chp,63549,63892,LILY,Solar Photovoltaic,SUN,PV,OP,32.533273,-96.428985
+1023,2023-01,TX,ipp-non-chp,63549,63892,LILYB,Batteries,MWH,BA,OP,32.533273,-96.428985
+1024,2023-01,TX,ipp-non-chp,61770,62258,MES,Onshore Wind Turbine,WND,WT,OP,26.523692,-98.745522
+1025,2023-01,TX,ipp-non-chp,61771,62259,RAN,Onshore Wind Turbine,WND,WT,OP,30.594908,-101.453021
+1026,2023-01,TX,ipp-non-chp,59050,57981,GEN1,Onshore Wind Turbine,WND,WT,OP,33.205801,-98.365069
+1027,2023-01,TX,ipp-non-chp,59050,62853,MVRCK,Onshore Wind Turbine,WND,WT,OP,31.262546,-99.843961
+1028,2023-01,TX,ipp-non-chp,58998,59193,CHA1,Onshore Wind Turbine,WND,WT,OP,27.5925,-97.500833
+1029,2023-01,TX,ipp-non-chp,63289,64423,TX7,Batteries,MWH,BA,OP,31.19791,-103.36067
+1030,2023-01,TX,ipp-non-chp,63289,64424,TX8,Batteries,MWH,BA,OP,31.35658,-103.33645
+1031,2023-01,TX,ipp-non-chp,63289,64425,TX2,Batteries,MWH,BA,OP,28.58673,-96.68376
+1032,2023-01,TX,ipp-non-chp,63289,65694,TX11,Batteries,MWH,BA,OP,30.881424,-96.62542
+1033,2023-01,TX,ipp-non-chp,63289,65695,TX12,Batteries,MWH,BA,OP,30.41217,-97.57405
+1034,2023-01,TX,ipp-non-chp,63289,65696,TX13,Batteries,MWH,BA,OP,32.85583,-100.991681
+1035,2023-01,TX,ipp-non-chp,63289,65701,TX23,Batteries,MWH,BA,OP,29.15923,-95.6626
+1036,2023-01,TX,ipp-non-chp,64634,57260,1,Onshore Wind Turbine,WND,WT,OP,27.576111,-98.905278
+1037,2023-01,TX,ipp-non-chp,64634,57260,2,Onshore Wind Turbine,WND,WT,OP,27.576111,-98.905278
+1038,2023-01,TX,ipp-non-chp,60409,60690,WBSS,Batteries,MWH,BA,OP,34.299,-99.399
+1039,2023-01,TX,ipp-non-chp,64608,65303,SUNS,Solar Photovoltaic,SUN,PV,OP,31.86976,-97.01498
+1040,2023-01,TX,ipp-non-chp,64611,65306,LIMEW,Onshore Wind Turbine,WND,WT,OP,31.85346,-96.624458
+1041,2023-01,TX,ipp-non-chp,61060,61370,GEN1,Solar Photovoltaic,SUN,PV,OP,32.07868,-97.768464
+1042,2023-01,TX,ipp-non-chp,61960,62448,LAP,Solar Photovoltaic,SUN,PV,OP,32.460054,-102.672809
+1043,2023-01,TX,industrial-chp,61963,54097,GEN1,Wood/Wood Waste Biomass,BLQ,ST,OP,33.2553,-94.0696
+1044,2023-01,TX,industrial-chp,61963,54097,GEN2,Wood/Wood Waste Biomass,BLQ,ST,OP,33.2553,-94.0696
+1045,2023-01,TX,ipp-non-chp,62006,62483,PV1,Solar Photovoltaic,SUN,PV,OP,31.165245,-103.125868
+1046,2023-01,TX,ipp-non-chp,62026,3453,6,Natural Gas Steam Turbine,NG,ST,OP,32.7231,-96.9358
+1047,2023-01,TX,ipp-non-chp,62026,3453,7,Natural Gas Steam Turbine,NG,ST,OP,32.7231,-96.9358
+1048,2023-01,TX,ipp-non-chp,62026,3453,8,Natural Gas Steam Turbine,NG,ST,OP,32.7231,-96.9358
+1049,2023-01,TX,ipp-non-chp,61801,61368,PV1,Solar Photovoltaic,SUN,PV,OP,30.995503,-102.223537
+1050,2023-01,TX,ipp-non-chp,59119,59320,GEN1,Onshore Wind Turbine,WND,WT,OP,26.388611,-98.806111
+1051,2023-01,TX,ipp-non-chp,59120,59321,GEN1,Onshore Wind Turbine,WND,WT,OP,26.380556,-98.818333
+1052,2023-01,TX,ipp-non-chp,61396,61776,MIDWY,Onshore Wind Turbine,WND,WT,OP,27.954976,-97.300202
+1053,2023-01,TX,ipp-non-chp,64644,56754,1,Onshore Wind Turbine,WND,WT,OP,31.951944,-100.791389
+1054,2023-01,TX,ipp-non-chp,64644,56754,2,Onshore Wind Turbine,WND,WT,OP,31.951944,-100.791389
+1055,2023-01,TX,ipp-non-chp,64758,62548,SJ-1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.88193,-95.11148
+1056,2023-01,TX,ipp-non-chp,64758,62548,SJ-2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.88193,-95.11148
+1057,2023-01,TX,ipp-non-chp,64655,65335,WAPPA,Onshore Wind Turbine,WND,WT,OP,31.157269,-101.831603
+1058,2023-01,TX,ipp-non-chp,64668,56432,1,Onshore Wind Turbine,WND,WT,OP,35.291944,-102.303056
+1059,2023-01,TX,ipp-non-chp,61060,61409,GEN1,Solar Photovoltaic,SUN,PV,OP,33.614436,-96.690448
+1060,2023-01,TX,ipp-non-chp,61060,61410,GEN1,Solar Photovoltaic,SUN,PV,OP,33.616526,-96.868721
+1061,2023-01,TX,ipp-non-chp,61060,61411,GEN1,Solar Photovoltaic,SUN,PV,OP,33.624853,-96.867474
+1062,2023-01,TX,ipp-non-chp,61060,61513,GEN1,Solar Photovoltaic,SUN,PV,OP,31.286739,-96.877205
+1063,2023-01,TX,ipp-non-chp,61060,61514,GEN1,Solar Photovoltaic,SUN,PV,OP,33.656072,-97.148569
+1064,2023-01,TX,ipp-non-chp,61060,61524,GEN1,Solar Photovoltaic,SUN,PV,OP,33.498186,-96.378894
+1065,2023-01,TX,ipp-non-chp,61060,61532,GEN1,Solar Photovoltaic,SUN,PV,OP,33.16114,-96.239739
+1066,2023-01,TX,ipp-non-chp,61060,61625,GEN1,Solar Photovoltaic,SUN,PV,OP,33.619,-96.627
+1067,2023-01,TX,ipp-non-chp,61060,61810,GEN1,Solar Photovoltaic,SUN,PV,OP,33.63291,-95.39071
+1068,2023-01,TX,ipp-non-chp,64001,62415,WOTP1,Solar Photovoltaic,SUN,PV,OP,31.4308,-103.7289
+1069,2023-01,TX,ipp-non-chp,64400,64915,FLRV1,Batteries,MWH,BA,OP,31.197283,-103.361769
+1070,2023-01,TX,ipp-non-chp,64401,64916,SWOO1,Batteries,MWH,BA,OP,31.45115,-103.096242
+1071,2023-01,TX,ipp-non-chp,64402,64917,TRBT1,Batteries,MWH,BA,OP,30.75956,-103.06786
+1072,2023-01,TX,ipp-non-chp,64403,63519,CRN1,Solar Photovoltaic,SUN,PV,OP,31.254361,-102.31165
+1073,2023-01,TX,ipp-non-chp,64408,56560,JDW4,Onshore Wind Turbine,WND,WT,OP,36.4144,-101.3864
+1074,2023-01,TX,ipp-non-chp,64408,56561,JDW5,Onshore Wind Turbine,WND,WT,OP,36.4453,-101.8761
+1075,2023-01,TX,ipp-non-chp,64408,56562,JDW6,Onshore Wind Turbine,WND,WT,OP,36.4669,-101.8222
+1076,2023-01,TX,ipp-non-chp,64408,56835,1,Onshore Wind Turbine,WND,WT,OP,35.8119,-101.9789
+1077,2023-01,TX,ipp-non-chp,64408,56836,1,Onshore Wind Turbine,WND,WT,OP,35.8081,-101.9986
+1078,2023-01,TX,ipp-non-chp,64408,56837,1,Onshore Wind Turbine,WND,WT,OP,35.9614,-101.8033
+1079,2023-01,TX,ipp-non-chp,64408,56838,1,Onshore Wind Turbine,WND,WT,OP,36.0075,-101.8614
+1080,2023-01,TX,ipp-non-chp,64408,56839,1,Onshore Wind Turbine,WND,WT,OP,36.0264,-101.9
+1081,2023-01,TX,ipp-non-chp,64418,62505,1,Solar Photovoltaic,SUN,PV,OP,33.500378,-96.146489
+1082,2023-01,TX,ipp-non-chp,62027,55365,GT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.7028,-95.0718
+1083,2023-01,TX,ipp-non-chp,62027,55365,GT2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.7028,-95.0718
+1084,2023-01,TX,ipp-non-chp,62027,55365,GT3,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.7028,-95.0718
+1085,2023-01,TX,ipp-non-chp,62027,55365,GT4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.7028,-95.0718
+1086,2023-01,TX,ipp-non-chp,65221,66046,BRZ01,Solar Photovoltaic,SUN,PV,OP,29.1779,-95.7612
+1087,2023-01,TX,ipp-non-chp,64909,65631,PSGAH,Solar Photovoltaic,SUN,PV,OP,31.896737,-96.467327
+1088,2023-01,TX,ipp-non-chp,64917,65661,NEB1,Solar Photovoltaic,SUN,PV,OP,26.090103,-97.798453
+1089,2023-01,TX,ipp-non-chp,64917,65662,VAN1,Solar Photovoltaic,SUN,PV,OP,26.090103,-97.798453
+1090,2023-01,TX,ipp-non-chp,64808,65571,VH750,Solar Photovoltaic,SUN,PV,OP,32.87662,-96.95372
+1091,2023-01,TX,ipp-non-chp,64812,65535,BAK1,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1092,2023-01,TX,ipp-non-chp,64812,65535,BAK10,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1093,2023-01,TX,ipp-non-chp,64812,65535,BAK11,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1094,2023-01,TX,ipp-non-chp,64812,65535,BAK12,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1095,2023-01,TX,ipp-non-chp,64812,65535,BAK13,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1096,2023-01,TX,ipp-non-chp,64812,65535,BAK3,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1097,2023-01,TX,ipp-non-chp,64812,65535,BAK14,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1098,2023-01,TX,ipp-non-chp,64812,65535,BAK15,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1099,2023-01,TX,ipp-non-chp,64812,65535,BAK2,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1100,2023-01,TX,ipp-non-chp,64812,65535,BAK4,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1101,2023-01,TX,ipp-non-chp,64812,65535,BAK5,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1102,2023-01,TX,ipp-non-chp,64812,65535,BAK6,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1103,2023-01,TX,ipp-non-chp,64812,65535,BAK7,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1104,2023-01,TX,ipp-non-chp,64812,65535,BAK8,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1105,2023-01,TX,ipp-non-chp,64812,65535,BAK9,Petroleum Liquids,DFO,IC,OP,32.295946,-102.54
+1106,2023-01,TX,ipp-non-chp,64812,65536,CC1,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1107,2023-01,TX,ipp-non-chp,64812,65536,CC10,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1108,2023-01,TX,ipp-non-chp,64812,65536,CC11,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1109,2023-01,TX,ipp-non-chp,64812,65536,CC12,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1110,2023-01,TX,ipp-non-chp,64812,65536,CC13,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1111,2023-01,TX,ipp-non-chp,64812,65536,CC14,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1112,2023-01,TX,ipp-non-chp,64812,65536,CC15,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1113,2023-01,TX,ipp-non-chp,59155,59384,1,Onshore Wind Turbine,WND,WT,OP,34.080556,-101.323611
+1114,2023-01,TX,commercial-chp,59157,59381,GT-1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.709444,-95.400278
+1115,2023-01,TX,ipp-non-chp,59139,59943,1,Onshore Wind Turbine,WND,WT,OP,31.74325,-101.493407
+1116,2023-01,TX,ipp-non-chp,61060,65333,785,Solar Photovoltaic,SUN,PV,OP,28.44208,-99.75582
+1117,2023-01,TX,ipp-non-chp,64719,61966,VP2-1,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.698477,-96.946125
+1118,2023-01,TX,ipp-non-chp,64719,61966,VP2-2,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.698477,-96.946125
+1119,2023-01,TX,ipp-non-chp,61060,61867,GEN1,Solar Photovoltaic,SUN,PV,OP,29.631324,-96.076894
+1120,2023-01,TX,ipp-non-chp,61060,61868,GEN1,Solar Photovoltaic,SUN,PV,OP,29.537482,-95.969548
+1121,2023-01,TX,ipp-non-chp,61060,61871,GEN1,Solar Photovoltaic,SUN,PV,OP,33.166173,-96.172617
+1122,2023-01,TX,ipp-non-chp,61060,61873,GEN1,Solar Photovoltaic,SUN,PV,OP,31.933841,-97.653747
+1123,2023-01,TX,ipp-non-chp,61060,61874,GEN1,Solar Photovoltaic,SUN,PV,OP,31.291151,-97.260738
+1124,2023-01,TX,ipp-non-chp,61060,61875,GEN1,Solar Photovoltaic,SUN,PV,OP,29.205355,-96.023384
+1125,2023-01,TX,ipp-non-chp,62836,64892,ERATH,Solar Photovoltaic,SUN,PV,OP,32.26246,-98.207541
+1126,2023-01,TX,ipp-non-chp,62842,63222,TXIM1,Solar Photovoltaic,SUN,PV,OP,33.467803,-95.370856
+1127,2023-01,TX,ipp-non-chp,62842,63764,TXEB1,Solar Photovoltaic,SUN,PV,OP,32.23256,-96.706121
+1128,2023-01,TX,ipp-non-chp,62842,63769,TXBC1,Solar Photovoltaic,SUN,PV,OP,32.067483,-96.585136
+1129,2023-01,TX,ipp-non-chp,62842,64204,ELARA,Solar Photovoltaic,SUN,PV,OP,28.883196,-99.178605
+1130,2023-01,TX,ipp-non-chp,62046,62562,HILO,Onshore Wind Turbine,WND,WT,OP,31.171652,-101.881147
+1131,2023-01,TX,ipp-non-chp,62046,62562,HILO2,Onshore Wind Turbine,WND,WT,OP,31.171652,-101.881147
+1132,2023-01,TX,ipp-non-chp,62047,62561,RODR1,Solar Photovoltaic,SUN,PV,OP,31.219444,-102.19222
+1133,2023-01,TX,ipp-non-chp,62047,62561,RODR2,Solar Photovoltaic,SUN,PV,OP,31.219444,-102.19222
+1134,2023-01,TX,ipp-non-chp,62063,62566,BS3,Onshore Wind Turbine,WND,WT,OP,34.170488,-99.563436
+1135,2023-01,TX,ipp-non-chp,63883,64318,PBL1,Batteries,MWH,BA,OP,28.678935,-100.463708
+1136,2023-01,TX,ipp-non-chp,63883,64318,PBL2,Batteries,MWH,BA,OP,28.678935,-100.463708
+1137,2023-01,TX,ipp-non-chp,63883,64319,RANCH,Batteries,MWH,BA,OP,29.617885,-98.735948
+1138,2023-01,TX,ipp-non-chp,63883,64321,SWNY,Batteries,MWH,BA,OP,29.055615,-95.687237
+1139,2023-01,TX,ipp-non-chp,63883,64322,ZPT1,Batteries,MWH,BA,OP,26.932675,-99.233708
+1140,2023-01,TX,ipp-non-chp,63883,64322,ZPT2,Batteries,MWH,BA,OP,26.932675,-99.233708
+1141,2023-01,TX,ipp-non-chp,65013,65763,WYOUN,Onshore Wind Turbine,WND,WT,OP,33.119213,-98.852577
+1142,2023-01,TX,ipp-non-chp,65076,65809,CATER,Batteries,MWH,BA,OP,28.34705,-99.673703
+1143,2023-01,TX,ipp-non-chp,64812,65536,CC2,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1144,2023-01,TX,ipp-non-chp,64812,65536,CC3,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1145,2023-01,TX,ipp-non-chp,64812,65536,CC4,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1146,2023-01,TX,ipp-non-chp,64812,65536,CC5,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1147,2023-01,TX,ipp-non-chp,64812,65536,CC6,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1148,2023-01,TX,ipp-non-chp,64812,65536,CC7,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1149,2023-01,TX,ipp-non-chp,64812,65536,CC8,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1150,2023-01,TX,ipp-non-chp,64812,65536,CC9,Petroleum Liquids,DFO,IC,OP,26.320997,-98.351744
+1151,2023-01,TX,ipp-non-chp,64812,65537,CLA1,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1152,2023-01,TX,ipp-non-chp,64812,65537,CLA10,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1153,2023-01,TX,ipp-non-chp,64812,65537,CLA11,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1154,2023-01,TX,ipp-non-chp,64812,65537,CLA12,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1155,2023-01,TX,ipp-non-chp,64812,65537,CLA13,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1156,2023-01,TX,ipp-non-chp,64812,65537,CLA14,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1157,2023-01,TX,ipp-non-chp,64812,65537,CLA15,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1158,2023-01,TX,ipp-non-chp,64812,65537,CLA2,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1159,2023-01,TX,ipp-non-chp,64812,65537,CLA3,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1160,2023-01,TX,ipp-non-chp,64812,65537,CLA4,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1161,2023-01,TX,ipp-non-chp,64812,65537,CLA5,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1162,2023-01,TX,ipp-non-chp,64812,65537,CLA6,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1163,2023-01,TX,ipp-non-chp,64812,65537,CLA7,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1164,2023-01,TX,ipp-non-chp,64812,65538,CUT10,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1165,2023-01,TX,ipp-non-chp,64812,65537,CLA8,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1166,2023-01,TX,ipp-non-chp,64812,65537,CLA9,Petroleum Liquids,DFO,IC,OP,29.845265,-95.553945
+1167,2023-01,TX,ipp-non-chp,64812,65538,CUT1,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1168,2023-01,TX,ipp-non-chp,64812,65538,CUT11,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1169,2023-01,TX,ipp-non-chp,64812,65538,CUT12,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1170,2023-01,TX,ipp-non-chp,64812,65538,CUT13,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1171,2023-01,TX,ipp-non-chp,64812,65538,CUT14,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1172,2023-01,TX,ipp-non-chp,64812,65538,CUT15,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1173,2023-01,TX,ipp-non-chp,64812,65538,CUT2,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1174,2023-01,TX,ipp-non-chp,61942,62411,GTWND,Onshore Wind Turbine,WND,WT,OP,33.609313,-99.58229
+1175,2023-01,TX,ipp-non-chp,60443,60743,WT1,Onshore Wind Turbine,WND,WT,OP,31.360331,-99.551356
+1176,2023-01,TX,industrial-non-chp,61470,61848,WT1,Onshore Wind Turbine,WND,WT,OP,33.553184,-101.792412
+1177,2023-01,TX,ipp-non-chp,61485,61865,1,Onshore Wind Turbine,WND,WT,OP,26.649,-99.0387
+1178,2023-01,TX,ipp-non-chp,60453,60087,SPII,Onshore Wind Turbine,WND,WT,OP,34.196962,-101.381494
+1179,2023-01,TX,ipp-non-chp,60475,59005,MAR1,Onshore Wind Turbine,WND,WT,OP,34.6675,-102.577778
+1180,2023-01,TX,ipp-non-chp,60476,60789,UNIT1,Solar Photovoltaic,SUN,PV,OP,31.87,-100.828
+1181,2023-01,TX,ipp-non-chp,60477,55097,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,33.6308,-95.59
+1182,2023-01,TX,ipp-non-chp,60477,55097,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,33.6308,-95.59
+1183,2023-01,TX,ipp-non-chp,60477,55097,CTG3,Natural Gas Fired Combined Cycle,NG,CT,OP,33.6308,-95.59
+1184,2023-01,TX,ipp-non-chp,60477,55097,CTG4,Natural Gas Fired Combined Cycle,NG,CT,OP,33.6308,-95.59
+1185,2023-01,TX,ipp-non-chp,60477,55097,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,33.6308,-95.59
+1186,2023-01,TX,ipp-non-chp,60477,55097,STG2,Natural Gas Fired Combined Cycle,NG,CA,OP,33.6308,-95.59
+1187,2023-01,TX,ipp-non-chp,60477,55215,CTG1,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8403,-102.3264
+1188,2023-01,TX,ipp-non-chp,60477,55215,CTG2,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8403,-102.3264
+1189,2023-01,TX,ipp-non-chp,60477,55215,CTG3,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8403,-102.3264
+1190,2023-01,TX,ipp-non-chp,60477,55215,CTG4,Natural Gas Fired Combined Cycle,NG,CT,OP,31.8403,-102.3264
+1191,2023-01,TX,ipp-non-chp,62969,58838,KW1,Onshore Wind Turbine,WND,WT,OP,33.143056,-98.161111
+1192,2023-01,TX,ipp-non-chp,62993,63209,AVTOR,Onshore Wind Turbine,WND,WT,OP,31.79261,-100.69729
+1193,2023-01,TX,ipp-non-chp,63571,63905,ASKYB,Batteries,MWH,BA,OP,32.998948,-99.5985
+1194,2023-01,TX,ipp-non-chp,63571,63905,ASKYS,Solar Photovoltaic,SUN,PV,OP,32.998948,-99.5985
+1195,2023-01,TX,ipp-non-chp,62080,61697,IVORY,Solar Photovoltaic,SUN,PV,OP,32.713326,-101.885218
+1196,2023-01,TX,ipp-non-chp,62085,62587,MESQ,Onshore Wind Turbine,WND,WT,OP,32.255978,-100.320309
+1197,2023-01,TX,ipp-non-chp,62106,62618,WT,Onshore Wind Turbine,WND,WT,OP,26.492862,-98.448267
+1198,2023-01,TX,ipp-non-chp,64251,64639,ESCA,Onshore Wind Turbine,WND,WT,OP,33.746323,-99.665516
+1199,2023-01,TX,ipp-non-chp,65076,65810,CDRVL,Batteries,MWH,BA,OP,31.514106,-103.452361
+1200,2023-01,TX,ipp-non-chp,65076,65811,CYTSP,Batteries,MWH,BA,OP,31.39471,-103.630336
+1201,2023-01,TX,ipp-non-chp,65076,65813,FAULK,Batteries,MWH,BA,OP,31.262381,-103.794852
+1202,2023-01,TX,ipp-non-chp,65076,65829,HOLCO,Batteries,MWH,BA,OP,28.03534,-99.361732
+1203,2023-01,TX,ipp-non-chp,65076,65831,LNSTR,Batteries,MWH,BA,OP,31.594864,-103.249847
+1204,2023-01,TX,ipp-non-chp,65076,65833,RTLSK,Batteries,MWH,BA,OP,31.568978,-103.226631
+1205,2023-01,TX,ipp-non-chp,65076,65834,SDLBK,Batteries,MWH,BA,OP,31.332883,-103.498425
+1206,2023-01,TX,ipp-non-chp,65076,65835,SCRWB,Batteries,MWH,BA,OP,31.821423,-104.045071
+1207,2023-01,TX,ipp-non-chp,65076,65836,TOYAH,Batteries,MWH,BA,OP,31.113909,-103.66551
+1208,2023-01,TX,ipp-non-chp,65076,65838,HOEFS,Batteries,MWH,BA,OP,31.031247,-103.46256
+1209,2023-01,TX,ipp-non-chp,65117,65946,SOLAR,Solar Photovoltaic,SUN,PV,OP,32.843248,-94.731924
+1210,2023-01,TX,ipp-non-chp,64812,65538,CUT3,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1211,2023-01,TX,ipp-non-chp,64812,65538,CUT4,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1212,2023-01,TX,ipp-non-chp,64812,65538,CUT5,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1213,2023-01,TX,ipp-non-chp,64812,65538,CUT6,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1214,2023-01,TX,ipp-non-chp,64812,65538,CUT7,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1215,2023-01,TX,ipp-non-chp,64812,65538,CUT8,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1216,2023-01,TX,ipp-non-chp,64812,65538,CUT9,Petroleum Liquids,DFO,IC,OP,29.956811,-95.527643
+1217,2023-01,TX,ipp-non-chp,64812,65539,EPC1,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1218,2023-01,TX,ipp-non-chp,64812,65539,EPC10,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1219,2023-01,TX,ipp-non-chp,64812,65539,EPC11,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1220,2023-01,TX,ipp-non-chp,64812,65539,EPC12,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1221,2023-01,TX,ipp-non-chp,64812,65539,EPC13,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1222,2023-01,TX,ipp-non-chp,64812,65539,EPC14,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1223,2023-01,TX,ipp-non-chp,64812,65539,EPC15,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1224,2023-01,TX,ipp-non-chp,64812,65539,EPC2,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1225,2023-01,TX,ipp-non-chp,64812,65539,EPC3,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1226,2023-01,TX,ipp-non-chp,64812,65539,EPC4,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1227,2023-01,TX,ipp-non-chp,64812,65539,EPC5,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1228,2023-01,TX,ipp-non-chp,64812,65539,EPC6,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1229,2023-01,TX,ipp-non-chp,64812,65539,EPC7,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1230,2023-01,TX,ipp-non-chp,64812,65539,EPC8,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1231,2023-01,TX,ipp-non-chp,64812,65539,EPC9,Petroleum Liquids,DFO,IC,OP,26.19208,-97.664239
+1232,2023-01,TX,ipp-non-chp,64812,65540,FRA1,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1233,2023-01,TX,ipp-non-chp,64812,65540,FRA10,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1234,2023-01,TX,ipp-non-chp,64812,65540,FRA11,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1235,2023-01,TX,ipp-non-chp,64812,65540,FRA12,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1236,2023-01,TX,ipp-non-chp,64812,65540,FRA13,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1237,2023-01,TX,ipp-non-chp,64812,65540,FRA14,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1238,2023-01,TX,ipp-non-chp,64812,65540,FRA4,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1239,2023-01,TX,ipp-non-chp,64812,65540,FRA15,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1240,2023-01,TX,ipp-non-chp,64812,65540,FRA2,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1241,2023-01,TX,industrial-chp,58959,59145,65GTG,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.979167,-95.306944
+1242,2023-01,TX,ipp-non-chp,59238,59475,GE1.7,Onshore Wind Turbine,WND,WT,OP,36.243889,-101.001389
+1243,2023-01,TX,ipp-non-chp,60453,58681,RT661,Onshore Wind Turbine,WND,WT,OP,35.205278,-101.434167
+1244,2023-01,TX,ipp-non-chp,59180,59407,NEW1,Solar Photovoltaic,SUN,PV,OP,31.978333,-106.4275
+1245,2023-01,TX,ipp-non-chp,61515,61906,PHOEB,Solar Photovoltaic,SUN,PV,OP,31.843422,-102.868295
+1246,2023-01,TX,ipp-non-chp,61523,61920,GSM01,Solar Photovoltaic,SUN,PV,OP,31.435932,-99.796613
+1247,2023-01,TX,ipp-non-chp,61524,61962,HSF01,Solar Photovoltaic,SUN,PV,OP,32.104125,-100.162375
+1248,2023-01,TX,ipp-non-chp,61527,61921,TAH,Onshore Wind Turbine,WND,WT,OP,33.150904,-101.679188
+1249,2023-01,TX,ipp-non-chp,60477,55215,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,31.8403,-102.3264
+1250,2023-01,TX,ipp-non-chp,60477,55215,STG2,Natural Gas Fired Combined Cycle,NG,CA,OP,31.8403,-102.3264
+1251,2023-01,TX,ipp-non-chp,60477,55480,ST1,Natural Gas Fired Combined Cycle,NG,CA,OP,32.7563,-96.4916
+1252,2023-01,TX,ipp-non-chp,60477,55480,ST2,Natural Gas Fired Combined Cycle,NG,CA,OP,32.7563,-96.4916
+1253,2023-01,TX,ipp-non-chp,60477,55480,U1,Natural Gas Fired Combined Cycle,NG,CT,OP,32.7563,-96.4916
+1254,2023-01,TX,ipp-non-chp,60477,55480,U2,Natural Gas Fired Combined Cycle,NG,CT,OP,32.7563,-96.4916
+1255,2023-01,TX,ipp-non-chp,60477,55480,U3,Natural Gas Fired Combined Cycle,NG,CT,OP,32.7563,-96.4916
+1256,2023-01,TX,ipp-non-chp,60477,55480,U4,Natural Gas Fired Combined Cycle,NG,CT,OP,32.7563,-96.4916
+1257,2023-01,TX,ipp-non-chp,60477,55480,U5,Natural Gas Fired Combined Cycle,NG,CT,OP,32.7563,-96.4916
+1258,2023-01,TX,ipp-non-chp,60477,55480,U6,Natural Gas Fired Combined Cycle,NG,CT,OP,32.7563,-96.4916
+1259,2023-01,TX,ipp-non-chp,64260,64665,GR01,Onshore Wind Turbine,WND,WT,OP,36.3075,-101.53222
+1260,2023-01,TX,ipp-non-chp,64083,64821,FLPS1,Solar Photovoltaic,SUN,PV,OP,29.220361,-98.250865
+1261,2023-01,TX,ipp-non-chp,64083,64823,FLPS2,Solar Photovoltaic,SUN,PV,OP,29.220942,-98.251671
+1262,2023-01,TX,ipp-non-chp,64083,64824,FLPS3,Solar Photovoltaic,SUN,PV,OP,29.129219,-98.106298
+1263,2023-01,TX,ipp-non-chp,64083,64825,FLPS4,Solar Photovoltaic,SUN,PV,OP,29.128666,-98.107043
+1264,2023-01,TX,ipp-non-chp,64083,64826,FLPS5,Solar Photovoltaic,SUN,PV,OP,29.128151,-98.107343
+1265,2023-01,TX,ipp-non-chp,64083,64827,FLPS6,Solar Photovoltaic,SUN,PV,OP,29.13398,-98.193353
+1266,2023-01,TX,ipp-non-chp,64083,64828,FLPS7,Solar Photovoltaic,SUN,PV,OP,29.133613,-98.192753
+1267,2023-01,TX,ipp-non-chp,62113,62620,SD,Onshore Wind Turbine,WND,WT,OP,33.303497,-101.65722
+1268,2023-01,TX,ipp-non-chp,62136,55579,EXIS,Onshore Wind Turbine,WND,WT,OP,35.4677,-101.2533
+1269,2023-01,TX,ipp-non-chp,64495,63030,CBRKS,Onshore Wind Turbine,WND,WT,OP,35.200164,-102.315517
+1270,2023-01,TX,industrial-chp,64497,50304,GEN1,All Other,PUR,ST,OP,29.723185,-95.128856
+1271,2023-01,TX,industrial-chp,64497,50304,GEN2,All Other,PUR,ST,OP,29.723185,-95.128856
+1272,2023-01,TX,industrial-chp,64497,50304,GEN4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.723185,-95.128856
+1273,2023-01,TX,industrial-chp,64497,50304,GEN5,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.723185,-95.128856
+1274,2023-01,TX,ipp-non-chp,65370,66310,CT1PV,Solar Photovoltaic,SUN,PV,OP,29.409669,-95.73405
+1275,2023-01,TX,ipp-non-chp,64812,65540,FRA3,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1276,2023-01,TX,ipp-non-chp,64812,65540,FRA5,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1277,2023-01,TX,ipp-non-chp,64812,65540,FRA6,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1278,2023-01,TX,ipp-non-chp,64812,65540,FRA7,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1279,2023-01,TX,ipp-non-chp,64812,65540,FRA8,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1280,2023-01,TX,ipp-non-chp,64812,65540,FRA9,Petroleum Liquids,DFO,IC,OP,32.381434,-102.78282
+1281,2023-01,TX,ipp-non-chp,64812,65541,IPS1,Petroleum Liquids,DFO,IC,OP,29.380114,-94.953418
+1282,2023-01,TX,ipp-non-chp,64812,65541,IPS2,Petroleum Liquids,DFO,IC,OP,29.380114,-94.953418
+1283,2023-01,TX,ipp-non-chp,64812,65541,IPS3,Petroleum Liquids,DFO,IC,OP,29.380114,-94.953418
+1284,2023-01,TX,ipp-non-chp,64812,65541,IPS4,Petroleum Liquids,DFO,IC,OP,29.380114,-94.953418
+1285,2023-01,TX,ipp-non-chp,64812,65541,IPS5,Petroleum Liquids,DFO,IC,OP,29.380114,-94.953418
+1286,2023-01,TX,ipp-non-chp,64812,65541,IPS6,Petroleum Liquids,DFO,IC,OP,29.380114,-94.953418
+1287,2023-01,TX,ipp-non-chp,64812,65541,IPS7,Petroleum Liquids,DFO,IC,OP,29.380114,-94.953418
+1288,2023-01,TX,ipp-non-chp,64812,65541,IPS8,Petroleum Liquids,DFO,IC,OP,29.380114,-94.953418
+1289,2023-01,TX,ipp-non-chp,64812,65541,MUN1,Petroleum Liquids,DFO,IC,OP,29.380114,-94.953418
+1290,2023-01,TX,ipp-non-chp,64812,65541,MUN2,Petroleum Liquids,DFO,IC,OP,29.380114,-94.953418
+1291,2023-01,TX,ipp-non-chp,64812,65541,MUN3,Petroleum Liquids,DFO,IC,OP,29.380114,-94.953418
+1292,2023-01,TX,ipp-non-chp,64812,65541,MUN4,Petroleum Liquids,DFO,IC,OP,29.380114,-94.953418
+1293,2023-01,TX,ipp-non-chp,64812,65542,GS1,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1294,2023-01,TX,ipp-non-chp,64812,65542,GS10,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1295,2023-01,TX,ipp-non-chp,64812,65542,GS11,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1296,2023-01,TX,ipp-non-chp,64812,65542,GS12,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1297,2023-01,TX,ipp-non-chp,64812,65542,GS13,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1298,2023-01,TX,ipp-non-chp,64812,65542,GS14,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1299,2023-01,TX,ipp-non-chp,64812,65542,GS15,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1300,2023-01,TX,ipp-non-chp,64812,65542,GS2,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1301,2023-01,TX,ipp-non-chp,64812,65542,GS3,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1302,2023-01,TX,ipp-non-chp,64812,65542,GS4,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1303,2023-01,TX,ipp-non-chp,64812,65542,GS5,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1304,2023-01,TX,ipp-non-chp,64812,65542,GS6,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1305,2023-01,TX,ipp-non-chp,64812,65542,GS7,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1306,2023-01,TX,ipp-non-chp,64847,65546,WINER,Onshore Wind Turbine,WND,WT,OP,33.186882,-99.595332
+1307,2023-01,TX,ipp-non-chp,59188,59417,WT1,Onshore Wind Turbine,WND,WT,OP,33.738889,-101.485
+1308,2023-01,TX,ipp-non-chp,63012,63255,2WPBA,Batteries,MWH,BA,OP,32.116388,-102.528333
+1309,2023-01,TX,ipp-non-chp,63012,63255,2WPSO,Solar Photovoltaic,SUN,PV,OP,32.116388,-102.528333
+1310,2023-01,TX,ipp-non-chp,61562,61969,TWE,Onshore Wind Turbine,WND,WT,OP,27.614411,-98.7945
+1311,2023-01,TX,ipp-non-chp,61563,61970,BSII,Onshore Wind Turbine,WND,WT,OP,34.225882,-99.477986
+1312,2023-01,TX,ipp-non-chp,61100,61493,SEALY,Solar Photovoltaic,SUN,PV,OP,29.740788,-96.15994
+1313,2023-01,TX,commercial-chp,62903,10184,EG1,Natural Gas Internal Combustion Engine,NG,IC,SB,30.397351,-97.842586
+1314,2023-01,TX,commercial-chp,62903,10184,EG2,Natural Gas Internal Combustion Engine,NG,IC,SB,30.397351,-97.842586
+1315,2023-01,TX,commercial-chp,62903,10184,TG1,Natural Gas Steam Turbine,NG,ST,SB,30.397351,-97.842586
+1316,2023-01,TX,ipp-non-chp,64449,65026,H2921,Natural Gas Internal Combustion Engine,NG,IC,OP,28.982463,-95.958458
+1317,2023-01,TX,ipp-non-chp,64449,65026,H2922,Natural Gas Internal Combustion Engine,NG,IC,OP,28.982463,-95.958458
+1318,2023-01,TX,ipp-non-chp,64449,65026,H2923,Natural Gas Internal Combustion Engine,NG,IC,OP,28.982463,-95.958458
+1319,2023-01,TX,ipp-non-chp,64449,65261,H0201,Natural Gas Internal Combustion Engine,NG,IC,OP,29.992502,-95.744444
+1320,2023-01,TX,ipp-non-chp,64449,65261,H0202,Natural Gas Internal Combustion Engine,NG,IC,OP,29.992502,-95.744444
+1321,2023-01,TX,ipp-non-chp,64449,65261,H0203,Natural Gas Internal Combustion Engine,NG,IC,OP,29.992502,-95.744444
+1322,2023-01,TX,ipp-non-chp,64449,65262,H0281,Natural Gas Internal Combustion Engine,NG,IC,OP,29.466105,-95.09527
+1323,2023-01,TX,ipp-non-chp,64449,65262,H0282,Natural Gas Internal Combustion Engine,NG,IC,OP,29.466105,-95.09527
+1324,2023-01,TX,ipp-non-chp,64449,65262,H0283,Natural Gas Internal Combustion Engine,NG,IC,OP,29.466105,-95.09527
+1325,2023-01,TX,ipp-non-chp,64449,65263,H0381,Natural Gas Internal Combustion Engine,NG,IC,OP,26.20327,-98.46543
+1326,2023-01,TX,ipp-non-chp,64449,65263,H0382,Natural Gas Internal Combustion Engine,NG,IC,OP,26.20327,-98.46543
+1327,2023-01,TX,ipp-non-chp,64449,65263,H0383,Natural Gas Internal Combustion Engine,NG,IC,OP,26.20327,-98.46543
+1328,2023-01,TX,ipp-non-chp,64449,65264,H0541,Natural Gas Internal Combustion Engine,NG,IC,OP,29.601653,-95.250237
+1329,2023-01,TX,ipp-non-chp,64449,65264,H0542,Natural Gas Internal Combustion Engine,NG,IC,OP,29.601653,-95.250237
+1330,2023-01,TX,ipp-non-chp,64449,65264,H0543,Natural Gas Internal Combustion Engine,NG,IC,OP,29.601653,-95.250237
+1331,2023-01,TX,ipp-non-chp,64449,65265,H0571,Natural Gas Internal Combustion Engine,NG,IC,OP,27.665051,-97.28064
+1332,2023-01,TX,ipp-non-chp,64449,65265,H0572,Natural Gas Internal Combustion Engine,NG,IC,OP,27.665051,-97.28064
+1333,2023-01,TX,ipp-non-chp,64449,65265,H0573,Natural Gas Internal Combustion Engine,NG,IC,OP,27.665051,-97.28064
+1334,2023-01,TX,ipp-non-chp,64812,65542,GS8,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1335,2023-01,TX,ipp-non-chp,64812,65542,GS9,Petroleum Liquids,DFO,IC,OP,31.975269,-102.63501
+1336,2023-01,TX,ipp-non-chp,64812,65543,MK1,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1337,2023-01,TX,ipp-non-chp,64812,65543,MK10,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1338,2023-01,TX,ipp-non-chp,64812,65543,MK14,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1339,2023-01,TX,ipp-non-chp,64812,65543,MK11,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1340,2023-01,TX,ipp-non-chp,64812,65543,MK12,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1341,2023-01,TX,ipp-non-chp,64812,65543,MK13,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1342,2023-01,TX,ipp-non-chp,64812,65543,MK15,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1343,2023-01,TX,ipp-non-chp,64812,65543,MK2,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1344,2023-01,TX,ipp-non-chp,64812,65543,MK3,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1345,2023-01,TX,ipp-non-chp,64812,65543,MK4,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1346,2023-01,TX,ipp-non-chp,64812,65543,MK5,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1347,2023-01,TX,ipp-non-chp,64812,65543,MK6,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1348,2023-01,TX,ipp-non-chp,64812,65543,MK7,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1349,2023-01,TX,ipp-non-chp,64812,65543,MK8,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1350,2023-01,TX,ipp-non-chp,64812,65543,MK9,Petroleum Liquids,DFO,IC,OP,29.508402,-95.479339
+1351,2023-01,TX,ipp-non-chp,64812,65544,NMF1,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1352,2023-01,TX,ipp-non-chp,64812,65544,NMF10,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1353,2023-01,TX,ipp-non-chp,64812,65544,NMF11,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1354,2023-01,TX,ipp-non-chp,64812,65544,NMF12,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1355,2023-01,TX,ipp-non-chp,64812,65544,NMF13,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1356,2023-01,TX,ipp-non-chp,64812,65544,NMF14,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1357,2023-01,TX,ipp-non-chp,64812,65544,NMF15,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1358,2023-01,TX,ipp-non-chp,64812,65544,NMF2,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1359,2023-01,TX,ipp-non-chp,64812,65544,NMF3,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1360,2023-01,TX,ipp-non-chp,64812,65544,NMF4,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1361,2023-01,TX,ipp-non-chp,64812,65544,NMF5,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1362,2023-01,TX,ipp-non-chp,64812,65544,NMF6,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1363,2023-01,TX,ipp-non-chp,64812,65544,NMF7,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1364,2023-01,TX,ipp-non-chp,64812,65544,NMF8,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1365,2023-01,TX,ipp-non-chp,59900,59332,MSCRK,Onshore Wind Turbine,WND,WT,OP,32.7,-101.741111
+1366,2023-01,TX,ipp-non-chp,60496,62773,BTCOO,Solar Photovoltaic,SUN,PV,OP,33.5493,-97.1798
+1367,2023-01,TX,ipp-non-chp,60496,64079,CS,Solar Photovoltaic,SUN,PV,OP,28.871642,-97.696944
+1368,2023-01,TX,ipp-non-chp,60515,60856,ASTRA,Onshore Wind Turbine,WND,WT,OP,34.769544,-102.052422
+1369,2023-01,TX,ipp-non-chp,64167,64538,KOV4A,Solar Photovoltaic,SUN,PV,OP,27.634677,-99.258329
+1370,2023-01,TX,ipp-non-chp,64209,64591,EEA,Onshore Wind Turbine,WND,WT,OP,27.992706,-97.743983
+1371,2023-01,TX,ipp-non-chp,64449,65266,H0701,Natural Gas Internal Combustion Engine,NG,IC,OP,32.433318,-99.758324
+1372,2023-01,TX,ipp-non-chp,64449,65266,H0702,Natural Gas Internal Combustion Engine,NG,IC,OP,32.433318,-99.758324
+1373,2023-01,TX,ipp-non-chp,64449,65266,H0703,Natural Gas Internal Combustion Engine,NG,IC,OP,32.433318,-99.758324
+1374,2023-01,TX,ipp-non-chp,64449,65267,H0991,Natural Gas Internal Combustion Engine,NG,IC,OP,29.995329,-95.576602
+1375,2023-01,TX,ipp-non-chp,64449,65267,H0992,Natural Gas Internal Combustion Engine,NG,IC,OP,29.995329,-95.576602
+1376,2023-01,TX,ipp-non-chp,64449,65267,H0993,Natural Gas Internal Combustion Engine,NG,IC,OP,29.995329,-95.576602
+1377,2023-01,TX,ipp-non-chp,64449,65268,H1091,Natural Gas Internal Combustion Engine,NG,IC,OP,29.786159,-95.539403
+1378,2023-01,TX,ipp-non-chp,64449,65268,H1092,Natural Gas Internal Combustion Engine,NG,IC,OP,29.786159,-95.539403
+1379,2023-01,TX,ipp-non-chp,64449,65268,H1093,Natural Gas Internal Combustion Engine,NG,IC,OP,29.786159,-95.539403
+1380,2023-01,TX,ipp-non-chp,64449,65269,H1101,Natural Gas Internal Combustion Engine,NG,IC,OP,29.53658,-95.53628
+1381,2023-01,TX,ipp-non-chp,64449,65269,H1102,Natural Gas Internal Combustion Engine,NG,IC,OP,29.53658,-95.53628
+1382,2023-01,TX,ipp-non-chp,64449,65269,H1103,Natural Gas Internal Combustion Engine,NG,IC,OP,29.53658,-95.53628
+1383,2023-01,TX,ipp-non-chp,64449,65274,H1821,Natural Gas Internal Combustion Engine,NG,IC,OP,31.07212,-97.370901
+1384,2023-01,TX,ipp-non-chp,64449,65274,H1822,Natural Gas Internal Combustion Engine,NG,IC,OP,31.07212,-97.370901
+1385,2023-01,TX,ipp-non-chp,64449,65274,H1823,Natural Gas Internal Combustion Engine,NG,IC,OP,31.07212,-97.370901
+1386,2023-01,TX,ipp-non-chp,64468,65048,HW001,Onshore Wind Turbine,WND,WT,OP,31.77471,-96.828196
+1387,2023-01,TX,ipp-non-chp,62627,63180,TXWHT,Solar Photovoltaic,SUN,PV,OP,32.05,-97.35
+1388,2023-01,TX,ipp-non-chp,65182,66007,BA,Batteries,MWH,BA,OP,31.197285,-103.361771
+1389,2023-01,TX,ipp-non-chp,65183,66008,BA,Batteries,MWH,BA,OP,31.45115,-103.361771
+1390,2023-01,TX,ipp-non-chp,65184,66009,BA,Batteries,MWH,BA,OP,31.191687,-102.317227
+1391,2023-01,TX,ipp-non-chp,64812,65544,NMF9,Petroleum Liquids,DFO,IC,OP,31.921616,-102.431039
+1392,2023-01,TX,ipp-non-chp,64812,65573,RR1,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1393,2023-01,TX,ipp-non-chp,64812,65573,RR10,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1394,2023-01,TX,ipp-non-chp,64812,65573,RR11,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1395,2023-01,TX,ipp-non-chp,64812,65573,RR12,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1396,2023-01,TX,ipp-non-chp,64812,65573,RR13,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1397,2023-01,TX,ipp-non-chp,64812,65573,RR14,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1398,2023-01,TX,ipp-non-chp,64812,65573,RR15,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1399,2023-01,TX,ipp-non-chp,64812,65573,RR2,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1400,2023-01,TX,ipp-non-chp,64812,65573,RR3,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1401,2023-01,TX,ipp-non-chp,64812,65573,RR7,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1402,2023-01,TX,ipp-non-chp,64812,65573,RR4,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1403,2023-01,TX,ipp-non-chp,64812,65573,RR5,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1404,2023-01,TX,ipp-non-chp,64812,65573,RR6,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1405,2023-01,TX,ipp-non-chp,64812,65573,RR8,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1406,2023-01,TX,ipp-non-chp,64812,65573,RR9,Petroleum Liquids,DFO,IC,OP,26.16815,-98.09831
+1407,2023-01,TX,ipp-non-chp,64812,65574,SR1,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1408,2023-01,TX,ipp-non-chp,64812,65574,SR10,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1409,2023-01,TX,ipp-non-chp,64812,65574,SR11,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1410,2023-01,TX,ipp-non-chp,64812,65574,SR12,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1411,2023-01,TX,ipp-non-chp,64812,65574,SR13,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1412,2023-01,TX,ipp-non-chp,64812,65574,SR14,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1413,2023-01,TX,ipp-non-chp,64812,65574,SR15,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1414,2023-01,TX,ipp-non-chp,64812,65574,SR2,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1415,2023-01,TX,ipp-non-chp,64812,65574,SR3,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1416,2023-01,TX,ipp-non-chp,64812,65574,SR4,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1417,2023-01,TX,ipp-non-chp,64812,65574,SR5,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1418,2023-01,TX,ipp-non-chp,64812,65574,SR6,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1419,2023-01,TX,ipp-non-chp,64812,65574,SR7,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1420,2023-01,TX,ipp-non-chp,64812,65574,SR8,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1421,2023-01,TX,ipp-non-chp,64812,65574,SR9,Petroleum Liquids,DFO,IC,OP,26.23055,-97.82349
+1422,2023-01,TX,industrial-non-chp,59366,55053,14,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1423,2023-01,TX,industrial-non-chp,59366,55053,15,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1424,2023-01,TX,industrial-non-chp,59366,55053,16,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1425,2023-01,TX,industrial-non-chp,59366,55053,17,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1426,2023-01,TX,industrial-non-chp,59366,55053,2723,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1427,2023-01,TX,industrial-non-chp,59366,55053,654,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1428,2023-01,TX,industrial-non-chp,59366,55053,655,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1429,2023-01,TX,industrial-non-chp,59366,55053,656,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1430,2023-01,TX,industrial-non-chp,59366,55053,657,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1431,2023-01,TX,industrial-non-chp,59366,55053,658,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1432,2023-01,TX,industrial-non-chp,59366,55053,666,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1433,2023-01,TX,industrial-non-chp,59366,55053,667,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1434,2023-01,TX,industrial-non-chp,59366,55053,671,Natural Gas Internal Combustion Engine,NG,IC,OP,33.195763,-97.802547
+1435,2023-01,TX,ipp-non-chp,60947,64528,1,Batteries,MWH,BA,OP,29.16801,-95.445062
+1436,2023-01,TX,ipp-non-chp,60520,61205,PV1,Solar Photovoltaic,SUN,PV,OP,29.681032,-99.762212
+1437,2023-01,TX,ipp-non-chp,63048,62249,77777,Solar Photovoltaic,SUN,PV,OP,34.380532,-100.099625
+1438,2023-01,TX,commercial-non-chp,64315,64887,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.793829,-96.689543
+1439,2023-01,TX,commercial-non-chp,64315,64888,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.693424,-95.210408
+1440,2023-01,TX,commercial-non-chp,64315,64888,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.693424,-95.210408
+1441,2023-01,TX,commercial-non-chp,64315,64888,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.693424,-95.210408
+1442,2023-01,TX,commercial-non-chp,64315,64889,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,33.097094,-96.798596
+1443,2023-01,TX,commercial-non-chp,64315,64889,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,33.097094,-96.798596
+1444,2023-01,TX,commercial-non-chp,64315,64889,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,33.097094,-96.798596
+1445,2023-01,TX,commercial-non-chp,64315,64890,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.89517,-97.286531
+1446,2023-01,TX,commercial-non-chp,64315,64890,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.89517,-97.286531
+1447,2023-01,TX,commercial-non-chp,64315,64890,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.89517,-97.286531
+1448,2023-01,TX,commercial-non-chp,64315,64891,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.613582,-95.644645
+1449,2023-01,TX,commercial-non-chp,64315,64891,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.613582,-95.644645
+1450,2023-01,TX,commercial-non-chp,64315,64891,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.613582,-95.644645
+1451,2023-01,TX,commercial-non-chp,64315,64893,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.842209,-96.598028
+1452,2023-01,TX,commercial-non-chp,64315,64893,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.842209,-96.598028
+1453,2023-01,TX,commercial-non-chp,64315,64893,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.842209,-96.598028
+1454,2023-01,TX,commercial-non-chp,64315,64895,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.783981,-95.804075
+1455,2023-01,TX,commercial-non-chp,64315,64895,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.783981,-95.804075
+1456,2023-01,TX,commercial-non-chp,64315,64895,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.783981,-95.804075
+1457,2023-01,TX,commercial-non-chp,64315,64896,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.66674,-97.209254
+1458,2023-01,TX,commercial-non-chp,64315,64896,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.66674,-97.209254
+1459,2023-01,TX,commercial-non-chp,64315,64896,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.66674,-97.209254
+1460,2023-01,TX,commercial-non-chp,64315,64897,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.59732,-96.946914
+1461,2023-01,TX,commercial-non-chp,64315,64897,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.59732,-96.946914
+1462,2023-01,TX,commercial-non-chp,64315,64897,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.59732,-96.946914
+1463,2023-01,TX,commercial-non-chp,64315,64898,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.920574,-95.602626
+1464,2023-01,TX,ipp-non-chp,62075,57520,1,Onshore Wind Turbine,WND,WT,OP,33.383611,-98.711944
+1465,2023-01,TX,ipp-non-chp,62076,56771,1,Onshore Wind Turbine,WND,WT,OP,32.338659,-98.476051
+1466,2023-01,TX,ipp-non-chp,62077,57415,1,Onshore Wind Turbine,WND,WT,OP,30.772575,-102.505808
+1467,2023-01,TX,ipp-non-chp,64288,64710,WM001,Onshore Wind Turbine,WND,WT,OP,30.91,-101.263
+1468,2023-01,TX,ipp-non-chp,62635,62715,WCCWF,Onshore Wind Turbine,WND,WT,OP,33.54915,-97.32958
+1469,2023-01,TX,ipp-non-chp,62659,62809,BMP,Onshore Wind Turbine,WND,WT,OP,32.28938,-99.291596
+1470,2023-01,TX,ipp-non-chp,64812,65575,SW1,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1471,2023-01,TX,ipp-non-chp,64812,65575,SW10,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1472,2023-01,TX,ipp-non-chp,64812,65575,SW11,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1473,2023-01,TX,ipp-non-chp,64812,65575,SW12,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1474,2023-01,TX,ipp-non-chp,64812,65575,SW13,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1475,2023-01,TX,ipp-non-chp,64812,65575,SW14,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1476,2023-01,TX,ipp-non-chp,64812,65575,SW15,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1477,2023-01,TX,ipp-non-chp,64812,65575,SW2,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1478,2023-01,TX,ipp-non-chp,64812,65575,SW3,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1479,2023-01,TX,ipp-non-chp,64812,65575,SW4,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1480,2023-01,TX,ipp-non-chp,64812,65575,SW5,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1481,2023-01,TX,ipp-non-chp,64812,65575,SW6,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1482,2023-01,TX,ipp-non-chp,64812,65575,SW7,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1483,2023-01,TX,ipp-non-chp,64812,65575,SW8,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1484,2023-01,TX,ipp-non-chp,64812,65575,SW9,Petroleum Liquids,DFO,IC,OP,29.59576,-95.36578
+1485,2023-01,TX,ipp-non-chp,64812,65576,STG1,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1486,2023-01,TX,ipp-non-chp,64812,65576,STG10,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1487,2023-01,TX,ipp-non-chp,64812,65576,STG14,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1488,2023-01,TX,ipp-non-chp,64812,65576,STG11,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1489,2023-01,TX,ipp-non-chp,64812,65576,STG12,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1490,2023-01,TX,ipp-non-chp,64812,65576,STG13,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1491,2023-01,TX,ipp-non-chp,64812,65576,STG15,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1492,2023-01,TX,ipp-non-chp,64812,65576,STG2,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1493,2023-01,TX,ipp-non-chp,64812,65576,STG3,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1494,2023-01,TX,ipp-non-chp,64812,65576,STG4,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1495,2023-01,TX,ipp-non-chp,64812,65576,STG5,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1496,2023-01,TX,ipp-non-chp,64812,65576,STG6,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1497,2023-01,TX,ipp-non-chp,64812,65576,STG7,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1498,2023-01,TX,ipp-non-chp,64812,65576,STG8,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1499,2023-01,TX,ipp-non-chp,64812,65576,STG9,Petroleum Liquids,DFO,IC,OP,29.785353,-95.875497
+1500,2023-01,TX,ipp-non-chp,64812,65578,TWD1,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1501,2023-01,TX,ipp-non-chp,61012,56484,1,Onshore Wind Turbine,WND,WT,OP,32.318221,-100.176986
+1502,2023-01,TX,ipp-non-chp,61012,56638,GEN1,Onshore Wind Turbine,WND,WT,OP,32.2878,-100.1
+1503,2023-01,TX,commercial-non-chp,64315,64898,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.920574,-95.602626
+1504,2023-01,TX,commercial-non-chp,64315,64898,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.920574,-95.602626
+1505,2023-01,TX,commercial-non-chp,64315,64899,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.535168,-95.018815
+1506,2023-01,TX,commercial-non-chp,64315,64899,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.535168,-95.018815
+1507,2023-01,TX,commercial-non-chp,64315,64899,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.535168,-95.018815
+1508,2023-01,TX,commercial-non-chp,64315,64901,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,26.260742,-98.315859
+1509,2023-01,TX,commercial-non-chp,64315,64900,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.679366,-95.5614
+1510,2023-01,TX,commercial-non-chp,64315,64900,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.679366,-95.5614
+1511,2023-01,TX,commercial-non-chp,64315,64900,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.679366,-95.5614
+1512,2023-01,TX,commercial-non-chp,64315,64901,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,26.260742,-98.315859
+1513,2023-01,TX,commercial-non-chp,64315,64901,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,26.260742,-98.315859
+1514,2023-01,TX,commercial-non-chp,64315,64902,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,30.190279,-95.589487
+1515,2023-01,TX,commercial-non-chp,64315,64902,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,30.190279,-95.589487
+1516,2023-01,TX,commercial-non-chp,64315,64902,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,30.190279,-95.589487
+1517,2023-01,TX,commercial-non-chp,64315,64922,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.959048,-96.81664
+1518,2023-01,TX,commercial-non-chp,64315,64922,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.959048,-96.81664
+1519,2023-01,TX,commercial-non-chp,64315,64922,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.959048,-96.81664
+1520,2023-01,TX,commercial-non-chp,64315,64923,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.630428,-95.237434
+1521,2023-01,TX,commercial-non-chp,64315,64923,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.630428,-95.237434
+1522,2023-01,TX,commercial-non-chp,64315,64923,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.630428,-95.237434
+1523,2023-01,TX,commercial-non-chp,64315,64924,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.592923,-96.879836
+1524,2023-01,TX,commercial-non-chp,64315,64924,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.592923,-96.879836
+1525,2023-01,TX,commercial-non-chp,64315,64924,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.592923,-96.879836
+1526,2023-01,TX,commercial-non-chp,64315,64925,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.80599,-95.1652
+1527,2023-01,TX,commercial-non-chp,64315,64925,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.80599,-95.1652
+1528,2023-01,TX,commercial-non-chp,64315,64925,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.80599,-95.1652
+1529,2023-01,TX,commercial-non-chp,64315,64926,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.545976,-95.235941
+1530,2023-01,TX,commercial-non-chp,64315,64933,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,27.612565,-99.471825
+1531,2023-01,TX,commercial-non-chp,64315,64933,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,27.612565,-99.471825
+1532,2023-01,TX,ipp-non-chp,61123,60123,BAT1,Batteries,MWH,BA,OP,31.255,-102.272
+1533,2023-01,TX,ipp-non-chp,61123,60123,CGAP,Solar Photovoltaic,SUN,PV,OP,31.255,-102.272
+1534,2023-01,TX,commercial-non-chp,64315,64770,GEN1,Petroleum Liquids,DFO,IC,OP,33.100353,-96.800708
+1535,2023-01,TX,commercial-non-chp,64315,64769,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.776274,-94.974458
+1536,2023-01,TX,commercial-non-chp,64315,64769,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.776274,-94.974458
+1537,2023-01,TX,commercial-non-chp,64315,64769,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.776274,-94.974458
+1538,2023-01,TX,commercial-non-chp,64315,64771,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.922049,-97.081986
+1539,2023-01,TX,commercial-non-chp,64315,64771,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.922049,-97.081986
+1540,2023-01,TX,commercial-non-chp,64315,64771,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.922049,-97.081986
+1541,2023-01,TX,commercial-non-chp,64315,64773,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,31.089722,-97.729279
+1542,2023-01,TX,commercial-non-chp,64315,64772,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.576159,-97.130048
+1543,2023-01,TX,commercial-non-chp,64315,64772,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.576159,-97.130048
+1544,2023-01,TX,commercial-non-chp,64315,64772,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.576159,-97.130048
+1545,2023-01,TX,commercial-non-chp,64315,64773,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,31.089722,-97.729279
+1546,2023-01,TX,commercial-non-chp,64315,64773,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,31.089722,-97.729279
+1547,2023-01,TX,commercial-non-chp,64315,64774,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,33.857046,-98.499006
+1548,2023-01,TX,commercial-non-chp,64315,64774,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,33.857046,-98.499006
+1549,2023-01,TX,commercial-non-chp,64315,64774,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,33.857046,-98.499006
+1550,2023-01,TX,commercial-non-chp,64315,64775,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.395822,-100.901074
+1551,2023-01,TX,commercial-non-chp,64315,64775,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.395822,-100.901074
+1552,2023-01,TX,commercial-non-chp,64315,64775,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.395822,-100.901074
+1553,2023-01,TX,commercial-non-chp,64315,64776,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,26.243944,-98.245055
+1554,2023-01,TX,commercial-non-chp,64315,64776,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,26.243944,-98.245055
+1555,2023-01,TX,commercial-non-chp,64315,64776,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,26.243944,-98.245055
+1556,2023-01,TX,commercial-non-chp,64315,64778,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,28.702031,-100.482722
+1557,2023-01,TX,commercial-non-chp,64315,64777,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,25.976057,-97.519445
+1558,2023-01,TX,commercial-non-chp,64315,64777,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,25.976057,-97.519445
+1559,2023-01,TX,commercial-non-chp,64315,64777,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,25.976057,-97.519445
+1560,2023-01,TX,commercial-non-chp,64315,64778,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,28.702031,-100.482722
+1561,2023-01,TX,commercial-non-chp,64315,64778,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,28.702031,-100.482722
+1562,2023-01,TX,commercial-non-chp,64315,64791,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.421764,-95.230784
+1563,2023-01,TX,ipp-non-chp,63773,64149,WTW,Onshore Wind Turbine,WND,WT,OP,33.85245,-99.06509
+1564,2023-01,TX,ipp-non-chp,64812,65578,TWD10,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1565,2023-01,TX,ipp-non-chp,64812,65578,TWD11,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1566,2023-01,TX,ipp-non-chp,64812,65578,TWD12,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1567,2023-01,TX,ipp-non-chp,64812,65578,TWD13,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1568,2023-01,TX,ipp-non-chp,64812,65578,TWD14,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1569,2023-01,TX,ipp-non-chp,64812,65578,TWD15,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1570,2023-01,TX,ipp-non-chp,64812,65578,TWD2,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1571,2023-01,TX,ipp-non-chp,64812,65578,TWD3,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1572,2023-01,TX,ipp-non-chp,64812,65578,TWD4,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1573,2023-01,TX,ipp-non-chp,64812,65578,TWD5,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1574,2023-01,TX,ipp-non-chp,64812,65578,TWD6,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1575,2023-01,TX,ipp-non-chp,64812,65578,TWD7,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1576,2023-01,TX,ipp-non-chp,64812,65578,TWD8,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1577,2023-01,TX,ipp-non-chp,64812,65578,TWD9,Petroleum Liquids,DFO,IC,OP,32.35123,-102.5577
+1578,2023-01,TX,ipp-non-chp,64812,65579,VQ1,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1579,2023-01,TX,ipp-non-chp,64812,65579,VQ10,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1580,2023-01,TX,ipp-non-chp,64812,65579,VQ11,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1581,2023-01,TX,ipp-non-chp,64812,65579,VQ12,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1582,2023-01,TX,ipp-non-chp,64812,65579,VQ13,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1583,2023-01,TX,ipp-non-chp,64812,65579,VQ14,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1584,2023-01,TX,ipp-non-chp,64812,65579,VQ15,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1585,2023-01,TX,ipp-non-chp,64812,65579,VQ2,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1586,2023-01,TX,ipp-non-chp,64812,65579,VQ3,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1587,2023-01,TX,ipp-non-chp,64812,65579,VQ4,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1588,2023-01,TX,ipp-non-chp,64812,65579,VQ5,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1589,2023-01,TX,ipp-non-chp,64812,65579,VQ6,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1590,2023-01,TX,ipp-non-chp,64812,65579,VQ7,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1591,2023-01,TX,ipp-non-chp,64812,65579,VQ8,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1592,2023-01,TX,ipp-non-chp,64812,65579,VQ9,Petroleum Liquids,DFO,IC,OP,26.168074,-97.654049
+1593,2023-01,TX,ipp-non-chp,64812,65580,VC1,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1594,2023-01,TX,ipp-non-chp,64812,65580,VC10,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1595,2023-01,TX,commercial-non-chp,60995,61355,HY1,Conventional Hydroelectric,WAT,HY,OP,32.639069,-97.242906
+1596,2023-01,TX,ipp-non-chp,61012,56240,1,Onshore Wind Turbine,WND,WT,OP,32.311556,-100.061589
+1597,2023-01,TX,industrial-non-chp,60538,54364,L1G,Petroleum Liquids,DFO,IC,SB,34.003489,-98.553539
+1598,2023-01,TX,industrial-non-chp,60538,54364,L1PG,Petroleum Liquids,DFO,IC,SB,34.003489,-98.553539
+1599,2023-01,TX,industrial-non-chp,60538,54364,L2G,Petroleum Liquids,DFO,IC,SB,34.003489,-98.553539
+1600,2023-01,TX,ipp-non-chp,60542,60901,WSPWF,Onshore Wind Turbine,WND,WT,OP,33.345366,-99.624257
+1601,2023-01,TX,ipp-non-chp,60543,60902,DERM,Onshore Wind Turbine,WND,WT,OP,32.863769,-100.975128
+1602,2023-01,TX,ipp-non-chp,61199,60459,PC1,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.64807,-96.54621
+1603,2023-01,TX,ipp-non-chp,61199,60459,PC2,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.64807,-96.54621
+1604,2023-01,TX,ipp-non-chp,61199,60460,CH1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.883214,-95.111345
+1605,2023-01,TX,ipp-non-chp,61199,60460,CH2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.883214,-95.111345
+1606,2023-01,TX,commercial-non-chp,64315,64933,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,27.612565,-99.471825
+1607,2023-01,TX,commercial-non-chp,64315,64934,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.557643,-95.382896
+1608,2023-01,TX,commercial-non-chp,64315,64935,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.72355,-95.46539
+1609,2023-01,TX,ipp-non-chp,63074,61032,HTX,Onshore Wind Turbine,WND,WT,OP,31.242177,-99.421266
+1610,2023-01,TX,ipp-non-chp,63082,63335,CTG-1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.64536,-95.45169
+1611,2023-01,TX,ipp-non-chp,63082,63335,CTG-2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.64536,-95.45169
+1612,2023-01,TX,ipp-non-chp,63082,63335,CTG-3,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.64536,-95.45169
+1613,2023-01,TX,ipp-non-chp,63082,63335,CTG-4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.64536,-95.45169
+1614,2023-01,TX,ipp-non-chp,63082,63335,CTG-5,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.64536,-95.45169
+1615,2023-01,TX,ipp-non-chp,63082,63335,CTG-6,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.64536,-95.45169
+1616,2023-01,TX,ipp-non-chp,63082,63335,CTG-7,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.64536,-95.45169
+1617,2023-01,TX,ipp-non-chp,61133,59244,FIBE1,Onshore Wind Turbine,WND,WT,OP,33.699167,-101.524722
+1618,2023-01,TX,commercial-non-chp,64315,64792,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.26514,-94.832945
+1619,2023-01,TX,commercial-non-chp,64315,64792,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.26514,-94.832945
+1620,2023-01,TX,commercial-non-chp,64315,64792,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.26514,-94.832945
+1621,2023-01,TX,commercial-non-chp,64315,64793,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.894458,-95.06497
+1622,2023-01,TX,commercial-non-chp,64315,64793,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.894458,-95.06497
+1623,2023-01,TX,commercial-non-chp,64315,64793,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.894458,-95.06497
+1624,2023-01,TX,commercial-non-chp,64315,64795,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.48078,-99.698015
+1625,2023-01,TX,commercial-non-chp,64315,64794,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.372305,-95.000453
+1626,2023-01,TX,commercial-non-chp,64315,64795,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.48078,-99.698015
+1627,2023-01,TX,commercial-non-chp,64315,64795,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.48078,-99.698015
+1628,2023-01,TX,commercial-non-chp,64315,64796,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,31.8957,-102.332512
+1629,2023-01,TX,commercial-non-chp,64315,64796,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,31.8957,-102.332512
+1630,2023-01,TX,commercial-non-chp,64315,64796,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,31.8957,-102.332512
+1631,2023-01,TX,commercial-non-chp,64315,64797,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.558105,-95.761271
+1632,2023-01,TX,commercial-non-chp,64315,64797,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.558105,-95.761271
+1633,2023-01,TX,commercial-non-chp,64315,64797,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.558105,-95.761271
+1634,2023-01,TX,commercial-non-chp,64315,64798,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.101054,-96.403764
+1635,2023-01,TX,commercial-non-chp,64315,64798,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.101054,-96.403764
+1636,2023-01,TX,commercial-non-chp,64315,64798,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.101054,-96.403764
+1637,2023-01,TX,commercial-non-chp,64315,64800,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.995621,-95.176468
+1638,2023-01,TX,commercial-non-chp,64315,64799,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,30.12423,-95.45769
+1639,2023-01,TX,commercial-non-chp,64315,64799,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,30.12423,-95.45769
+1640,2023-01,TX,commercial-non-chp,64315,64799,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,30.12423,-95.45769
+1641,2023-01,TX,commercial-non-chp,64315,64800,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.995621,-95.176468
+1642,2023-01,TX,commercial-non-chp,64315,64800,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.995621,-95.176468
+1643,2023-01,TX,commercial-non-chp,64315,64801,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.64662,-95.161425
+1644,2023-01,TX,commercial-non-chp,64315,64801,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.64662,-95.161425
+1645,2023-01,TX,commercial-non-chp,64315,64801,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.64662,-95.161425
+1646,2023-01,TX,commercial-non-chp,64315,64802,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.789117,-95.722232
+1647,2023-01,TX,ipp-non-chp,64812,65580,VC11,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1648,2023-01,TX,ipp-non-chp,64812,65580,VC12,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1649,2023-01,TX,ipp-non-chp,64812,65580,VC13,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1650,2023-01,TX,ipp-non-chp,64812,65580,VC14,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1651,2023-01,TX,ipp-non-chp,64812,65580,VC15,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1652,2023-01,TX,ipp-non-chp,64812,65580,VC2,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1653,2023-01,TX,ipp-non-chp,64812,65580,VC3,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1654,2023-01,TX,ipp-non-chp,64812,65580,VC4,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1655,2023-01,TX,ipp-non-chp,64812,65580,VC5,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1656,2023-01,TX,ipp-non-chp,64812,65580,VC6,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1657,2023-01,TX,ipp-non-chp,64812,65580,VC7,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1658,2023-01,TX,ipp-non-chp,64812,65580,VC8,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1659,2023-01,TX,ipp-non-chp,64812,65580,VC9,Petroleum Liquids,DFO,IC,OP,26.02131,-97.596284
+1660,2023-01,TX,ipp-non-chp,64812,65581,WSI1,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1661,2023-01,TX,ipp-non-chp,64812,65581,WSI10,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1662,2023-01,TX,ipp-non-chp,64812,65581,WSI11,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1663,2023-01,TX,ipp-non-chp,64812,65581,WSI12,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1664,2023-01,TX,ipp-non-chp,64812,65581,WSI13,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1665,2023-01,TX,ipp-non-chp,64812,65581,WSI14,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1666,2023-01,TX,ipp-non-chp,64812,65581,WSI15,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1667,2023-01,TX,ipp-non-chp,64812,65581,WSI2,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1668,2023-01,TX,ipp-non-chp,64812,65581,WSI3,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1669,2023-01,TX,ipp-non-chp,64812,65581,WSI4,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1670,2023-01,TX,ipp-non-chp,64812,65581,WSI5,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1671,2023-01,TX,ipp-non-chp,64812,65581,WSI6,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1672,2023-01,TX,ipp-non-chp,64812,65581,WSI7,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1673,2023-01,TX,ipp-non-chp,64812,65581,WSI8,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1674,2023-01,TX,ipp-non-chp,64812,65581,WSI9,Petroleum Liquids,DFO,IC,OP,31.8362,-102.4461
+1675,2023-01,TX,ipp-non-chp,61671,56905,1,Onshore Wind Turbine,WND,WT,OP,36.4964,-101.3917
+1676,2023-01,TX,ipp-non-chp,61677,61872,GEN1,Solar Photovoltaic,SUN,PV,OP,30.872228,-99.537261
+1677,2023-01,TX,ipp-chp,58749,58870,MG202,All Other,WH,ST,OP,29.739444,-95.194722
+1678,2023-01,TX,ipp-non-chp,58764,61346,PV1,Solar Photovoltaic,SUN,PV,OP,30.976638,-102.257753
+1679,2023-01,TX,ipp-non-chp,58764,61346,PV2,Solar Photovoltaic,SUN,PV,OP,30.976638,-102.257753
+1680,2023-01,TX,ipp-non-chp,63082,63335,CTG-8,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.64536,-95.45169
+1681,2023-01,TX,ipp-non-chp,63082,63688,CTG-1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.426389,-94.976667
+1682,2023-01,TX,ipp-non-chp,63082,63688,CTG-2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.426389,-94.976667
+1683,2023-01,TX,ipp-non-chp,63082,63688,CTG-3,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.426389,-94.976667
+1684,2023-01,TX,ipp-non-chp,63082,63688,CTG-4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.426389,-94.976667
+1685,2023-01,TX,ipp-non-chp,63082,63688,CTG-5,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.426389,-94.976667
+1686,2023-01,TX,ipp-non-chp,63082,63688,CTG-6,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.426389,-94.976667
+1687,2023-01,TX,ipp-non-chp,63082,63688,CTG-7,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.426389,-94.976667
+1688,2023-01,TX,ipp-non-chp,63082,63688,CTG-8,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.426389,-94.976667
+1689,2023-01,TX,ipp-non-chp,63082,63688,CTG-9,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.426389,-94.976667
+1690,2023-01,TX,ipp-non-chp,63082,63688,CTG10,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.426389,-94.976667
+1691,2023-01,TX,ipp-non-chp,63082,64383,CTG-1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.480277,-95.620277
+1692,2023-01,TX,ipp-non-chp,63082,64383,CTG-2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.480277,-95.620277
+1693,2023-01,TX,ipp-non-chp,63082,64383,CTG-3,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.480277,-95.620277
+1694,2023-01,TX,ipp-non-chp,63082,64383,CTG-4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.480277,-95.620277
+1695,2023-01,TX,ipp-non-chp,63082,64383,CTG-5,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.480277,-95.620277
+1696,2023-01,TX,ipp-non-chp,63082,64383,CTG-6,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.480277,-95.620277
+1697,2023-01,TX,ipp-non-chp,63082,64383,CTG-7,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.480277,-95.620277
+1698,2023-01,TX,ipp-non-chp,63082,64383,CTG-8,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.480277,-95.620277
+1699,2023-01,TX,ipp-non-chp,63082,65372,CTG-1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.227109,-95.430756
+1700,2023-01,TX,ipp-non-chp,63082,65372,CTG-2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.227109,-95.430756
+1701,2023-01,TX,ipp-non-chp,63082,65372,CTG-3,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.227109,-95.430756
+1702,2023-01,TX,ipp-non-chp,63082,65372,CTG-4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.227109,-95.430756
+1703,2023-01,TX,ipp-non-chp,63082,65372,CTG-5,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.227109,-95.430756
+1704,2023-01,TX,ipp-non-chp,63082,65372,CTG-6,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.227109,-95.430756
+1705,2023-01,TX,ipp-non-chp,63092,63320,IPTTN,Solar Photovoltaic,SUN,PV,OP,31.70038,-104.458136
+1706,2023-01,TX,ipp-non-chp,63100,63328,IPJNO,Solar Photovoltaic,SUN,PV,OP,32.772889,-101.39102
+1707,2023-01,TX,ipp-non-chp,63100,63328,JUNO1,Solar Photovoltaic,SUN,PV,OP,32.772889,-101.39102
+1708,2023-01,TX,ipp-non-chp,63101,63329,IPAGN,Solar Photovoltaic,SUN,PV,OP,31.719983,-104.442292
+1709,2023-01,TX,ipp-non-chp,62161,63273,1215,Solar Photovoltaic,SUN,PV,OP,29.242304,-95.658144
+1710,2023-01,TX,commercial-non-chp,64315,64802,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.789117,-95.722232
+1711,2023-01,TX,commercial-non-chp,64315,64802,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.789117,-95.722232
+1712,2023-01,TX,commercial-non-chp,64315,64803,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.721093,-95.646224
+1713,2023-01,TX,commercial-non-chp,64315,64803,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.721093,-95.646224
+1714,2023-01,TX,commercial-non-chp,64315,64803,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.721093,-95.646224
+1715,2023-01,TX,commercial-non-chp,64315,64804,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,27.769271,-98.043187
+1716,2023-01,TX,commercial-non-chp,64315,64804,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,27.769271,-98.043187
+1717,2023-01,TX,commercial-non-chp,64315,64804,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,27.769271,-98.043187
+1718,2023-01,TX,commercial-non-chp,64315,64805,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,30.064779,-95.429453
+1719,2023-01,TX,commercial-non-chp,64315,64805,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,30.064779,-95.429453
+1720,2023-01,TX,commercial-non-chp,64315,64805,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,30.064779,-95.429453
+1721,2023-01,TX,commercial-non-chp,64315,64806,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.573168,-95.283899
+1722,2023-01,TX,commercial-non-chp,64315,64806,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.573168,-95.283899
+1723,2023-01,TX,commercial-non-chp,64315,64806,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.573168,-95.283899
+1724,2023-01,TX,commercial-non-chp,64315,64807,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.673532,-97.036234
+1725,2023-01,TX,commercial-non-chp,64315,64807,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.673532,-97.036234
+1726,2023-01,TX,commercial-non-chp,64315,64807,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.673532,-97.036234
+1727,2023-01,TX,commercial-non-chp,64315,64808,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,30.896466,-102.907161
+1728,2023-01,TX,commercial-non-chp,64315,64809,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.755036,-97.433843
+1729,2023-01,TX,commercial-non-chp,64315,64809,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.755036,-97.433843
+1730,2023-01,TX,commercial-non-chp,64315,64809,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.755036,-97.433843
+1731,2023-01,TX,commercial-non-chp,64315,64810,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,33.673162,-96.612131
+1732,2023-01,TX,commercial-non-chp,64315,64810,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,33.673162,-96.612131
+1733,2023-01,TX,commercial-non-chp,64315,64810,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,33.673162,-96.612131
+1734,2023-01,TX,commercial-non-chp,64315,64812,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,32.811848,-97.424739
+1735,2023-01,TX,commercial-non-chp,64315,64812,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,32.811848,-97.424739
+1736,2023-01,TX,commercial-non-chp,64315,64812,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OP,32.811848,-97.424739
+1737,2023-01,TX,commercial-non-chp,64315,64813,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.877618,-95.651482
+1738,2023-01,TX,commercial-non-chp,64315,64813,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.877618,-95.651482
+1739,2023-01,TX,ipp-non-chp,62721,62836,MNW,Onshore Wind Turbine,WND,WT,OP,32.199366,-100.491908
+1740,2023-01,TX,ipp-non-chp,64835,61241,VC-1,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.7853,-97.0093
+1741,2023-01,TX,ipp-non-chp,64835,61241,VC-2,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.7853,-97.0093
+1742,2023-01,TX,ipp-non-chp,64835,61242,VP-1,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.69637,-96.9453
+1743,2023-01,TX,ipp-non-chp,64835,61242,VP-2,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.69637,-96.9453
+1744,2023-01,TX,ipp-non-chp,59698,59938,UNIT3,Natural Gas Internal Combustion Engine,NG,IC,OP,29.550278,-96.537778
+1745,2023-01,TX,ipp-non-chp,59698,59938,UNIT4,Natural Gas Internal Combustion Engine,NG,IC,OP,29.550278,-96.537778
+1746,2023-01,TX,ipp-non-chp,59698,59938,UNIT5,Natural Gas Internal Combustion Engine,NG,IC,OP,29.550278,-96.537778
+1747,2023-01,TX,ipp-non-chp,59698,59938,UNIT6,Natural Gas Internal Combustion Engine,NG,IC,OP,29.550278,-96.537778
+1748,2023-01,TX,ipp-non-chp,59698,59938,UNIT1,Natural Gas Internal Combustion Engine,NG,IC,OP,29.550278,-96.537778
+1749,2023-01,TX,ipp-non-chp,59698,59938,UNIT2,Natural Gas Internal Combustion Engine,NG,IC,OP,29.550278,-96.537778
+1750,2023-01,TX,ipp-chp,58303,62762,CTG-1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.562372,-95.089302
+1751,2023-01,TX,ipp-chp,58303,62762,CTG-2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.562372,-95.089302
+1752,2023-01,TX,ipp-non-chp,58353,56648,1,Onshore Wind Turbine,WND,WT,OP,35.3919,-101.53
+1753,2023-01,TX,ipp-non-chp,58353,58363,WND1,Onshore Wind Turbine,WND,WT,OP,35.386038,-101.578572
+1754,2023-01,TX,ipp-non-chp,58360,58372,GEN1,Onshore Wind Turbine,WND,WT,OP,34.292913,-99.367734
+1755,2023-01,TX,ipp-chp,58365,58378,GT2,Natural Gas Fired Combustion Turbine,NG,GT,OA,29.475278,-95.634167
+1756,2023-01,TX,ipp-non-chp,59777,60044,BKTH1,Solar Photovoltaic,SUN,PV,OP,30.57552,-102.551292
+1757,2023-01,TX,commercial-non-chp,58388,58404,1,Onshore Wind Turbine,WND,WT,OP,35.322778,-101.5325
+1758,2023-01,TX,ipp-non-chp,59792,60059,1,Onshore Wind Turbine,WND,WT,OP,26.411689,-98.571554
+1759,2023-01,TX,ipp-non-chp,60048,60264,BCGT1,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.49233,-94.98483
+1760,2023-01,TX,ipp-non-chp,60048,60264,BCGT2,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.49233,-94.98483
+1761,2023-01,TX,ipp-non-chp,60048,60264,BCGT3,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.49233,-94.98483
+1762,2023-01,TX,ipp-non-chp,60048,60264,BCGT4,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.49233,-94.98483
+1763,2023-01,TX,ipp-non-chp,60048,60264,BCGT5,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.49233,-94.98483
+1764,2023-01,TX,ipp-non-chp,60048,60264,BCGT6,Natural Gas Fired Combustion Turbine,NG,GT,OP,29.49233,-94.98483
+1765,2023-01,TX,ipp-non-chp,58489,58537,1,Solar Photovoltaic,SUN,PV,OP,29.271667,-98.444722
+1766,2023-01,TX,ipp-non-chp,58489,58716,1,Solar Photovoltaic,SUN,PV,OP,29.469444,-98.331944
+1767,2023-01,TX,ipp-non-chp,59871,59621,JRWND,Onshore Wind Turbine,WND,WT,OP,34.72,-102.253333
+1768,2023-01,TX,industrial-chp,59875,52120,G-37,Natural Gas Fired Combustion Turbine,NG,GT,OP,28.991289,-95.407481
+1769,2023-01,TX,industrial-chp,59875,52120,G-61,Natural Gas Fired Combined Cycle,NG,CT,OP,28.991289,-95.407481
+1770,2023-01,TX,industrial-chp,59875,52120,G-63,Natural Gas Fired Combined Cycle,NG,CT,OP,28.991289,-95.407481
+1771,2023-01,TX,industrial-chp,59875,52120,G-65,Natural Gas Fired Combined Cycle,NG,CA,OP,28.991289,-95.407481
+1772,2023-01,TX,industrial-chp,59875,52120,G-66,Natural Gas Fired Combined Cycle,NG,CT,OP,28.991289,-95.407481
+1773,2023-01,TX,industrial-chp,59875,52120,G-67,Natural Gas Fired Combined Cycle,NG,CT,OP,28.991289,-95.407481
+1774,2023-01,TX,ipp-non-chp,59882,60104,GEWTG,Onshore Wind Turbine,WND,WT,OP,27.32,-99.0
+1775,2023-01,TX,industrial-non-chp,59344,57952,GEN1,Natural Gas Internal Combustion Engine,NG,IC,OS,35.690833,-100.240278
+1776,2023-01,TX,industrial-non-chp,59344,57952,GEN2,Natural Gas Internal Combustion Engine,NG,IC,OS,35.690833,-100.240278
+1777,2023-01,TX,industrial-non-chp,59344,57952,GEN3,Natural Gas Internal Combustion Engine,NG,IC,OS,35.690833,-100.240278
+1778,2023-01,TX,ipp-non-chp,59359,59206,OCIA6,Solar Photovoltaic,SUN,PV,OP,30.993056,-102.270833
+1779,2023-01,TX,ipp-non-chp,59359,60682,PEARL,Solar Photovoltaic,SUN,PV,OP,30.98784,-102.26831
+1780,2023-01,TX,ipp-non-chp,59359,60987,GEN1,Onshore Wind Turbine,WND,WT,OP,31.181377,-101.318787
+1781,2023-01,TX,ipp-non-chp,59359,61212,FTWI,Onshore Wind Turbine,WND,WT,OP,31.684511,-98.603358
+1782,2023-01,TX,ipp-non-chp,59979,60210,CPWF,Onshore Wind Turbine,WND,WT,OP,34.060333,-101.187628
+1783,2023-01,TX,ipp-non-chp,59999,60217,RKSP,Onshore Wind Turbine,WND,WT,OP,29.72753,-100.79431
+1784,2023-01,TX,ipp-non-chp,58134,58162,CW,Onshore Wind Turbine,WND,WT,OP,33.033056,-101.6875
+1785,2023-01,TX,ipp-non-chp,60042,59245,FLUV1,Onshore Wind Turbine,WND,WT,OP,32.931944,-101.143611
+1786,2023-01,TX,industrial-chp,59409,52065,GEN1,All Other,WH,ST,OP,29.71977,-95.270562
+1787,2023-01,TX,industrial-chp,59409,52065,GEN2,All Other,WH,ST,OP,29.71977,-95.270562
+1788,2023-01,TX,ipp-non-chp,59414,59649,UNIT1,Landfill Gas,LFG,IC,OP,29.33,-98.66
+1789,2023-01,TX,ipp-non-chp,59414,59649,UNIT2,Landfill Gas,LFG,IC,OP,29.33,-98.66
+1790,2023-01,TX,ipp-non-chp,59414,59649,UNIT3,Landfill Gas,LFG,IC,OP,29.33,-98.66
+1791,2023-01,TX,ipp-non-chp,59414,59649,UNIT4,Landfill Gas,LFG,IC,OP,29.33,-98.66
+1792,2023-01,TX,ipp-non-chp,59428,59654,1,Onshore Wind Turbine,WND,WT,OP,27.18,-98.916667
+1793,2023-01,TX,ipp-non-chp,61037,61402,FOARD,Onshore Wind Turbine,WND,WT,OP,33.915315,-99.740278
+1794,2023-01,TX,ipp-non-chp,61054,61417,GCWF,Onshore Wind Turbine,WND,WT,OP,32.875073,-101.208955
+1795,2023-01,TX,ipp-non-chp,58270,62642,GE-P2,Onshore Wind Turbine,WND,WT,OP,33.59145,-102.056875
+1796,2023-01,TX,ipp-non-chp,58270,62642,GE-P3,Onshore Wind Turbine,WND,WT,OP,33.59145,-102.056875
+1797,2023-01,TX,ipp-non-chp,58270,62642,GE-P4,Onshore Wind Turbine,WND,WT,OP,33.59145,-102.056875
+1798,2023-01,TX,ipp-non-chp,59501,59732,GPI,Onshore Wind Turbine,WND,WT,OP,33.628222,-99.411169
+1799,2023-01,TX,ipp-non-chp,59502,59733,GPII,Onshore Wind Turbine,WND,WT,OP,33.645964,-99.532944
+1800,2023-01,TX,ipp-non-chp,59503,59734,BFW,Onshore Wind Turbine,WND,WT,OP,34.432267,-101.237233
+1801,2023-01,TX,ipp-non-chp,63428,59972,BRKAT,Onshore Wind Turbine,WND,WT,OP,31.727237,-101.582
+1802,2023-01,TX,ipp-non-chp,63430,63737,CHS01,Batteries,MWH,BA,OP,32.904444,-97.386111
+1803,2023-01,TX,ipp-non-chp,63431,63739,LMAJ,Onshore Wind Turbine,WND,WT,OP,26.364843,-97.545341
+1804,2023-01,TX,industrial-non-chp,63432,64389,NIAGS,Solar Photovoltaic,SUN,PV,OP,29.589139,-97.977198
+1805,2023-01,TX,ipp-non-chp,64802,65521,LBSOL,Solar Photovoltaic,SUN,PV,OP,29.289809,-95.298609
+1806,2023-01,TX,ipp-non-chp,64808,65571,VH600,Solar Photovoltaic,SUN,PV,OP,32.87662,-96.95372
+1807,2023-01,TX,ipp-non-chp,64808,65571,VH700,Solar Photovoltaic,SUN,PV,OP,32.87662,-96.95372
+1808,2023-01,TX,ipp-non-chp,63437,63738,HEL,Onshore Wind Turbine,WND,WT,OP,28.621959,-97.937625
+1809,2023-01,TX,ipp-non-chp,60128,60338,EWF,Onshore Wind Turbine,WND,WT,OP,34.102943,-99.118746
+1810,2023-01,TX,ipp-non-chp,60129,60339,HCWF,Onshore Wind Turbine,WND,WT,OP,33.35,-99.54
+1811,2023-01,TX,ipp-non-chp,60146,61887,DEPIC,Solar Photovoltaic,SUN,PV,OP,31.829986,-106.372861
+1812,2023-01,TX,ipp-non-chp,60155,60366,OSWF,Onshore Wind Turbine,WND,WT,OP,34.060333,-101.187628
+1813,2023-01,TX,ipp-non-chp,61944,58488,1,Solar Photovoltaic,SUN,PV,OP,29.6,-104.3
+1814,2023-01,TX,ipp-non-chp,61944,61895,TOYHQ,Solar Photovoltaic,SUN,PV,OP,33.084219,-96.84113
+1815,2023-01,TX,ipp-non-chp,12501,55091,STK1,Natural Gas Fired Combined Cycle,NG,CS,OP,32.4302,-97.0537
+1816,2023-01,TX,ipp-non-chp,12501,55091,STK2,Natural Gas Fired Combined Cycle,NG,CS,OP,32.4302,-97.0537
+1817,2023-01,TX,ipp-non-chp,12501,55091,STK3,Natural Gas Fired Combined Cycle,NG,CS,OP,32.4302,-97.0537
+1818,2023-01,TX,ipp-non-chp,12501,55091,STK4,Natural Gas Fired Combined Cycle,NG,CS,OP,32.4302,-97.0537
+1819,2023-01,TX,ipp-non-chp,12501,55091,STK5,Natural Gas Fired Combined Cycle,NG,CS,OP,32.4302,-97.0537
+1820,2023-01,TX,ipp-non-chp,12501,55091,STK6,Natural Gas Fired Combined Cycle,NG,CS,OP,32.4302,-97.0537

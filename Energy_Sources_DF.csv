@@ -1,0 +1,23 @@
+energysourceid,energySourceDescription
+ALL,All
+BAT,Battery
+COL,Coal
+HYC,Hydroelectric
+NG,Natural Gas
+NGCC,Natural Gas - CC
+NGGT,Natural Gas - GT
+NGIC,Natural Gas - IC
+NGOTH,Natural Gas - OTH
+NGST,Natural Gas - ST
+NUC,Nuclear
+OBM,Other Biomass
+OOG,Other Gas
+OT,Other
+PET,Petroleum
+PETIC,Petroleum - IC
+PETOTH,Petroleum - OTH
+PETST,Petroleum - ST
+SOL,Solar
+SOLPV,Solar - PV
+WND,Wind
+WOO,Wood
