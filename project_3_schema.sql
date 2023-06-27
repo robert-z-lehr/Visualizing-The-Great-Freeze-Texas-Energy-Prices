@@ -1,5 +1,4 @@
-DROP TABLE IF EXISTS Producer_Types, Energy_Sources, States, Generating_Capacity, Sectors, Entities, Plants, Status, Generators CASCADE;
-DROP TABLE IF EXISTS Generators;
+DROP TABLE IF EXISTS Producer_Types, Energy_Sources, States, Generating_Capacity, Sectors, Entities, Plants, Stat_descr, Generators, Prices CASCADE;
 
 -- Create Producer Types table
 CREATE TABLE Producer_Types (
@@ -42,7 +41,7 @@ CREATE TABLE Sectors (
 -- Create Entities table
 CREATE TABLE Entities (
     entityid INTEGER PRIMARY KEY NOT NULL,
-    entityName VARCHAR(50) NOT NULL
+    entityName VARCHAR(50)
 );
 
 -- Create Plants table
@@ -51,9 +50,9 @@ CREATE TABLE Plants (
     plantName VARCHAR(50) NOT NULL
 );
 
--- Create Status table
-CREATE TABLE Status (
-    status VARCHAR(2) PRIMARY KEY NOT NULL,
+-- Create Status_List table
+CREATE TABLE Stat_Descr (
+    stat_id VARCHAR(2) PRIMARY KEY NOT NULL,
     statusDescription VARCHAR(100) NOT NULL
 );
 
@@ -69,14 +68,28 @@ CREATE TABLE Generators (
     technology VARCHAR NOT NULL,
     energy_source_code VARCHAR NOT NULL,
     prime_mover_code VARCHAR NOT NULL,
-    status VARCHAR(2) NOT NULL,
+    status_descr VARCHAR(2) NOT NULL,
     latitude FLOAT(53) NOT NULL,
     longitude FLOAT(53) NOT NULL,
 	FOREIGN KEY (stateID) REFERENCES States(stateID),
 	FOREIGN KEY (entityid) REFERENCES Entities(entityid),
 	FOREIGN KEY (plantid) REFERENCES Plants(plantid),
 	FOREIGN KEY (sector) REFERENCES Sectors(sector),
-	FOREIGN KEY (status) REFERENCES Status(status)
+	FOREIGN KEY (status_descr) REFERENCES Stat_Descr(stat_id)
+);
+
+-- Create Prices table
+CREATE TABLE Prices (
+	id INTEGER PRIMARY KEY NOT NULL, 
+	period VARCHAR(7) NOT NULL,
+	area_name VARCHAR(10) NOT NULL,
+	product_name VARCHAR(20) NOT NULL,
+	process VARCHAR(3) NOT NULL,
+	process_name VARCHAR(60) NOT NULL,
+	series VARCHAR(10) NOT NULL,
+	series_description VARCHAR(100) NOT NULL,
+	value FLOAT(53) NOT NULL,
+	units VARCHAR(5) NOT NULL
 );
 
 -- Confirm tables are populated correctly
@@ -88,6 +101,7 @@ SELECT * FROM Generators;
 SELECT * FROM Sectors;
 SELECT * FROM Entities;
 SELECT * FROM Plants;
-SELECT * FROM Status;
+SELECT * FROM Stat_Descr;
+SELECT * FROM Prices;
 
 -- CSV files imported into tables using Import/Export menu option
