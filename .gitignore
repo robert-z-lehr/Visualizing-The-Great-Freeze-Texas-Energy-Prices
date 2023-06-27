@@ -1,5 +1,5 @@
 # Additional Files to ignore
-api_keys.py
+config.py
 .DS_Store
 
 # Byte-compiled / optimized / DLL files

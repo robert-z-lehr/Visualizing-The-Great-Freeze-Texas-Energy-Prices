@@ -21,12 +21,15 @@ from flask import Flask, jsonify
 from sqlalchemy import create_engine, func
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
+from config import postgresql_user
+from config import postgresql_pswd
 
 # Create an instance of Flask
 app = Flask(__name__)
 
 # Create engine and reflect the database schema
-engine = create_engine('postgresql://postgres:postgres@localhost:5432/project_3_db')
+engine = create_engine(f'postgresql+psycopg2://{postgresql_user}:{postgresql_pswd}@localhost:5432/project_3_db')
+# engine = create_engine('postgresql:///project_3_db')
 Base = automap_base()
 Base.prepare(engine, reflect=True)
 
