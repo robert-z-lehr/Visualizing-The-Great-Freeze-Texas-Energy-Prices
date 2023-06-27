@@ -26,7 +26,7 @@ from sqlalchemy.orm import Session
 app = Flask(__name__)
 
 # Create engine and reflect the database schema
-engine = create_engine('postgresql://username:password@localhost:5432/database_name')
+engine = create_engine('postgresql://postgres:postgres@localhost:5432/project_3_db')
 Base = automap_base()
 Base.prepare(engine, reflect=True)
 
