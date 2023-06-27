@@ -1,23 +1,20 @@
-energysourceid,energySourceDescription
-ALL,All
-BAT,Battery
-COL,Coal
-HYC,Hydroelectric
+energy_source_code,energy-source-desc
+AB,Agriculture Byproducts
+BFG,Blast-Furnace Gas
+BLQ,Black Liquor
+DFO,Disillate Fuel Oil
+LFG,Landfill Gas
+LIG,Lignite
+MWH,Electricity used for energy storage
 NG,Natural Gas
-NGCC,Natural Gas - CC
-NGGT,Natural Gas - GT
-NGIC,Natural Gas - IC
-NGOTH,Natural Gas - OTH
-NGST,Natural Gas - ST
 NUC,Nuclear
-OBM,Other Biomass
-OOG,Other Gas
-OT,Other
-PET,Petroleum
-PETIC,Petroleum - IC
-PETOTH,Petroleum - OTH
-PETST,Petroleum - ST
-SOL,Solar
-SOLPV,Solar - PV
+OG,Other Gas
+PC,Petroleum Coke
+PUR,Purchased Steam
+RC,Refined Coal
+SUB,Subbituminous Coal
+SUN,Solar
+WAT,Water
+WDS,Wood Waste Solids
+WH,Waste Heat
 WND,Wind
-WOO,Wood
