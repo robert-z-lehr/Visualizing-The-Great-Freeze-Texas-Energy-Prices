@@ -1,0 +1,181 @@
+,period,process,process-name,series,series-description,value,units
+0,2022-12,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),5.34,$/MCF
+1,2022-12,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),16.01,$/MCF
+2,2022-12,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),12.33,$/MCF
+3,2022-12,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),6.82,$/MCF
+4,2022-12,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),6.52,$/MCF
+5,2022-11,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),11.96,$/MCF
+6,2022-11,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),5.04,$/MCF
+7,2022-11,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),17.1,$/MCF
+8,2022-11,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),4.74,$/MCF
+9,2022-11,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),6.05,$/MCF
+10,2022-10,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),5.24,$/MCF
+11,2022-10,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),6.34,$/MCF
+12,2022-10,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),5.82,$/MCF
+13,2022-10,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),26.54,$/MCF
+14,2022-10,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),14.02,$/MCF
+15,2022-09,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),9.27,$/MCF
+16,2022-09,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),31.9,$/MCF
+17,2022-09,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),15.15,$/MCF
+18,2022-09,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),9.26,$/MCF
+19,2022-09,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),7.63,$/MCF
+20,2022-08,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),14.93,$/MCF
+21,2022-08,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),9.0,$/MCF
+22,2022-08,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),8.52,$/MCF
+23,2022-08,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),33.69,$/MCF
+24,2022-08,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),10.07,$/MCF
+25,2022-07,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),13.34,$/MCF
+26,2022-07,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),7.12,$/MCF
+27,2022-07,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),10.59,$/MCF
+28,2022-07,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),7.18,$/MCF
+29,2022-07,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),29.68,$/MCF
+30,2022-06,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),9.36,$/MCF
+31,2022-06,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),27.75,$/MCF
+32,2022-06,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),7.61,$/MCF
+33,2022-06,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),9.7,$/MCF
+34,2022-06,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),13.46,$/MCF
+35,2022-05,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),13.03,$/MCF
+36,2022-05,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),7.91,$/MCF
+37,2022-05,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),7.8,$/MCF
+38,2022-05,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),8.58,$/MCF
+39,2022-05,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),25.12,$/MCF
+40,2022-04,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),17.42,$/MCF
+41,2022-04,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),6.3,$/MCF
+42,2022-04,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),11.41,$/MCF
+43,2022-04,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),6.89,$/MCF
+44,2022-04,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),6.03,$/MCF
+45,2022-03,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),13.07,$/MCF
+46,2022-03,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),5.28,$/MCF
+47,2022-03,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),4.91,$/MCF
+48,2022-03,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),10.11,$/MCF
+49,2022-03,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),4.93,$/MCF
+50,2022-02,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),5.49,$/MCF
+51,2022-02,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),5.48,$/MCF
+52,2022-02,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),11.98,$/MCF
+53,2022-02,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),9.62,$/MCF
+54,2022-02,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),6.62,$/MCF
+55,2022-01,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),4.47,$/MCF
+56,2022-01,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),5.1,$/MCF
+57,2022-01,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),,$/MCF
+58,2022-01,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),9.29,$/MCF
+59,2022-01,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),5.12,$/MCF
+60,2021-12,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),19.1,$/MCF
+61,2021-12,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),10.24,$/MCF
+62,2021-12,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),4.28,$/MCF
+63,2021-12,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),7.11,$/MCF
+64,2021-12,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),5.69,$/MCF
+65,2021-11,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),5.33,$/MCF
+66,2021-11,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),6.33,$/MCF
+67,2021-11,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),6.66,$/MCF
+68,2021-11,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),10.54,$/MCF
+69,2021-11,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),16.16,$/MCF
+70,2021-10,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),6.76,$/MCF
+71,2021-10,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),6.24,$/MCF
+72,2021-10,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),10.96,$/MCF
+73,2021-10,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),23.29,$/MCF
+74,2021-10,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),5.46,$/MCF
+75,2021-09,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),5.47,$/MCF
+76,2021-09,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),24.87,$/MCF
+77,2021-09,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),5.06,$/MCF
+78,2021-09,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),4.91,$/MCF
+79,2021-09,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),10.19,$/MCF
+80,2021-08,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),4.4,$/MCF
+81,2021-08,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),9.8,$/MCF
+82,2021-08,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),4.49,$/MCF
+83,2021-08,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),4.21,$/MCF
+84,2021-08,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),24.58,$/MCF
+85,2021-07,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),9.22,$/MCF
+86,2021-07,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),22.56,$/MCF
+87,2021-07,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),3.97,$/MCF
+88,2021-07,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),4.13,$/MCF
+89,2021-07,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),4.29,$/MCF
+90,2021-06,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),3.36,$/MCF
+91,2021-06,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),20.36,$/MCF
+92,2021-06,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),3.52,$/MCF
+93,2021-06,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),8.78,$/MCF
+94,2021-06,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),3.42,$/MCF
+95,2021-05,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),3.38,$/MCF
+96,2021-05,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),3.23,$/MCF
+97,2021-05,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),3.56,$/MCF
+98,2021-05,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),17.01,$/MCF
+99,2021-05,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),8.7,$/MCF
+100,2021-04,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),7.87,$/MCF
+101,2021-04,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),3.69,$/MCF
+102,2021-04,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),2.93,$/MCF
+103,2021-04,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),14.45,$/MCF
+104,2021-04,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),3.0,$/MCF
+105,2021-03,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),3.12,$/MCF
+106,2021-03,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),7.17,$/MCF
+107,2021-03,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),9.64,$/MCF
+108,2021-03,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),2.92,$/MCF
+109,2021-03,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),4.56,$/MCF
+110,2021-02,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),6.73,$/MCF
+111,2021-02,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),16.14,$/MCF
+112,2021-02,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),56.59,$/MCF
+113,2021-02,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),40.67,$/MCF
+114,2021-02,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),8.89,$/MCF
+115,2021-01,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),2.79,$/MCF
+116,2021-01,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),7.11,$/MCF
+117,2021-01,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),10.99,$/MCF
+118,2021-01,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),3.02,$/MCF
+119,2021-01,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),2.82,$/MCF
+120,2020-12,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),6.89,$/MCF
+121,2020-12,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),10.33,$/MCF
+122,2020-12,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),2.82,$/MCF
+123,2020-12,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),3.03,$/MCF
+124,2020-12,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),3.15,$/MCF
+125,2020-11,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),3.12,$/MCF
+126,2020-11,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),3.18,$/MCF
+127,2020-11,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),14.02,$/MCF
+128,2020-11,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),7.71,$/MCF
+129,2020-11,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),2.79,$/MCF
+130,2020-10,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),7.18,$/MCF
+131,2020-10,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),2.58,$/MCF
+132,2020-10,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),2.49,$/MCF
+133,2020-10,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),15.79,$/MCF
+134,2020-10,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),2.41,$/MCF
+135,2020-09,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),8.11,$/MCF
+136,2020-09,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),2.19,$/MCF
+137,2020-09,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),2.64,$/MCF
+138,2020-09,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),2.99,$/MCF
+139,2020-09,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),21.6,$/MCF
+140,2020-08,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),2.18,$/MCF
+141,2020-08,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),21.43,$/MCF
+142,2020-08,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),2.42,$/MCF
+143,2020-08,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),2.79,$/MCF
+144,2020-08,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),7.94,$/MCF
+145,2020-07,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),19.76,$/MCF
+146,2020-07,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),2.01,$/MCF
+147,2020-07,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),2.79,$/MCF
+148,2020-07,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),1.74,$/MCF
+149,2020-07,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),7.24,$/MCF
+150,2020-06,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),1.83,$/MCF
+151,2020-06,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),1.89,$/MCF
+152,2020-06,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),18.75,$/MCF
+153,2020-06,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),2.75,$/MCF
+154,2020-06,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),8.61,$/MCF
+155,2020-05,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),1.98,$/MCF
+156,2020-05,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),15.84,$/MCF
+157,2020-05,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),1.99,$/MCF
+158,2020-05,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),2.5,$/MCF
+159,2020-05,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),7.09,$/MCF
+160,2020-04,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),6.03,$/MCF
+161,2020-04,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),1.83,$/MCF
+162,2020-04,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),1.86,$/MCF
+163,2020-04,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),13.13,$/MCF
+164,2020-04,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),2.69,$/MCF
+165,2020-03,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),1.76,$/MCF
+166,2020-03,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),9.27,$/MCF
+167,2020-03,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),5.65,$/MCF
+168,2020-03,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),2.04,$/MCF
+169,2020-03,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),2.43,$/MCF
+170,2020-02,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),5.22,$/MCF
+171,2020-02,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),2.31,$/MCF
+172,2020-02,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),8.07,$/MCF
+173,2020-02,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),1.86,$/MCF
+174,2020-02,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),2.1,$/MCF
+175,2020-01,PCS,Price Delivered to Commercial Sectors,N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet),5.57,$/MCF
+176,2020-01,PIN,Industrial Price,N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),2.32,$/MCF
+177,2020-01,PRS,Price Delivered to Residential Consumers,N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet),8.26,$/MCF
+178,2020-01,PEU,Electric Power Price,N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet),1.93,$/MCF
+179,2020-01,PG1,City Gate Price,N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet),2.55,$/MCF
