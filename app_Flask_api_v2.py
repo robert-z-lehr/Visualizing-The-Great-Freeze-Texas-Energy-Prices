@@ -1,21 +1,3 @@
-##################################################################################################
-##################################################################################################
-##################################################################################################
-# Make sure to replace 'username', 'password', and 'database_name' in the create_engine line with your PostgreSQL credentials.
-
-# With this updated code, you can access the following routes:
-
-# Home route: http://localhost:5000/
-# Generators route: http://localhost:5000/api/v1.0/generators
-# States route: http://localhost:5000/api/v1.0/states
-# These routes will return the generator data and states data from the PostgreSQL database respectively, in JSON format.
-
-# Remember to install the required dependencies (flask, sqlalchemy, and psycopg2 for PostgreSQL) using pip before running the application.
-##################################################################################################
-##################################################################################################
-##################################################################################################
-# ChatGPT prompted Flask API
-
 # Import required modules and classes
 from flask import Flask, jsonify
 from sqlalchemy import create_engine, func
@@ -33,9 +15,9 @@ Base.prepare(autoload_with=engine)
 Generators = Base.classes.generators
 States = Base.classes.states
 Status = Base.classes.stat_descr
-Producers = Base.classes.producer_types
+# Producers = Base.classes.producer_types
 Energy_Sources = Base.classes.energy_sources
-Gen_Capacity = Base.classes.generating_capacity
+# Gen_Capacity = Base.classes.generating_capacity
 Sectors = Base.classes.sectors
 Entities = Base.classes.entities
 Plants = Base.classes.plants
@@ -56,7 +38,15 @@ def home():
         f"/api/v1.0/generators<br/>"
         f"/api/v1.0/states<br/>"
         f"/api/v1.0/energy_sources<br/>"
+        f"/api/v1.0/stat_descr<br/>"
+        f"/api/v1.0/sectors<br/>"
+        f"/api/v1.0/entities<br/>"
+        f"/api/v1.0/plants<br/>"
+        f"/api/v1.0/prices<br/>"
     )
+    
+####################################################################################
+####################################################################################
 
 # Define the generators route
 @app.route('/api/v1.0/generators')
@@ -87,6 +77,9 @@ def get_generators():
     # Return the JSON list of generator data
     return jsonify(generator_data)
 
+####################################################################################
+####################################################################################
+
 # Define the states route
 @app.route('/api/v1.0/states')
 def get_states():
@@ -105,6 +98,10 @@ def get_states():
     # Return the JSON list of states data
     return jsonify(states_data)
 
+####################################################################################
+####################################################################################
+
+# Define the energy sourcs route
 @app.route('/api/v1.0/energy_sources')
 def get_energy():
     """Return the states data"""
@@ -124,3 +121,128 @@ def get_energy():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+####################################################################################
+####################################################################################
+
+# Define the energy sourcs route
+@app.route('/api/v1.0/energy_sources')
+def get_energy():
+    """Return the states data"""
+    results = session.query(Energy_Sources).all()
+
+    # Create a list of dictionaries containing states data
+    energy_data = []
+    for result in results:
+        energy_dict = {
+            'energyID': result.energy_source_id,
+            'energy_source_description': result.energy_source_description
+        }
+        energy_data.append(energy_dict)
+
+    # Return the JSON list of states data
+    return jsonify(energy_data)
+
+if __name__ == '__main__':
+    app.run(debug=True)
+    
+####################################################################################
+####################################################################################
+
+# Define the energy sourcs route
+@app.route('/api/v1.0/energy_sources')
+def get_energy():
+    """Return the states data"""
+    results = session.query(Energy_Sources).all()
+
+    # Create a list of dictionaries containing states data
+    energy_data = []
+    for result in results:
+        energy_dict = {
+            'energyID': result.energy_source_id,
+            'energy_source_description': result.energy_source_description
+        }
+        energy_data.append(energy_dict)
+
+    # Return the JSON list of states data
+    return jsonify(energy_data)
+
+if __name__ == '__main__':
+    app.run(debug=True)
+    
+####################################################################################
+####################################################################################
+
+# Define the energy sourcs route
+@app.route('/api/v1.0/energy_sources')
+def get_energy():
+    """Return the states data"""
+    results = session.query(Energy_Sources).all()
+
+    # Create a list of dictionaries containing states data
+    energy_data = []
+    for result in results:
+        energy_dict = {
+            'energyID': result.energy_source_id,
+            'energy_source_description': result.energy_source_description
+        }
+        energy_data.append(energy_dict)
+
+    # Return the JSON list of states data
+    return jsonify(energy_data)
+
+if __name__ == '__main__':
+    app.run(debug=True)
+    
+####################################################################################
+####################################################################################
+
+# Define the energy sourcs route
+@app.route('/api/v1.0/energy_sources')
+def get_energy():
+    """Return the states data"""
+    results = session.query(Energy_Sources).all()
+
+    # Create a list of dictionaries containing states data
+    energy_data = []
+    for result in results:
+        energy_dict = {
+            'energyID': result.energy_source_id,
+            'energy_source_description': result.energy_source_description
+        }
+        energy_data.append(energy_dict)
+
+    # Return the JSON list of states data
+    return jsonify(energy_data)
+    
+####################################################################################
+####################################################################################
+
+# Define the energy sourcs route
+@app.route('/api/v1.0/energy_sources')
+def get_energy():
+    """Return the states data"""
+    results = session.query(Energy_Sources).all()
+
+    # Create a list of dictionaries containing states data
+    energy_data = []
+    for result in results:
+        energy_dict = {
+            'energyID': result.energy_source_id,
+            'energy_source_description': result.energy_source_description
+        }
+        energy_data.append(energy_dict)
+
+    # Return the JSON list of states data
+    return jsonify(energy_data)
+
+####################################################################################
+####################################################################################
+
+if __name__ == '__main__':
+    app.run(debug=True)
+    
+####################################################################################
+################################ THE END! ##########################################
+####################################################################################
+    
