@@ -1,0 +1,19 @@
+series,series-description
+N3045TX3,Texas Natural Gas Price Sold to Electric Power Consumers (Dollars per Thousand Cubic Feet)
+N3010TX3,Texas Price of Natural Gas Delivered to Residential Consumers (Dollars per Thousand Cubic Feet)
+NA1504_STX_4,Texas Natural Gas % of Total Residential - Sales (%)
+N3035TX4,Percent of Industrial Natural Gas Deliveries in Texas Represented by the Price (%)
+N3020TX4,Percent of Commercial Natural Gas Deliveries in Texas Represented by the Price (%)
+N3020TX3,Texas Price of Natural Gas Sold to Commercial Consumers (Dollars per Thousand Cubic Feet)
+N3050TX3,Natural Gas Citygate Price in Texas (Dollars per Thousand Cubic Feet)
+N3035TX3,Texas Natural Gas Industrial Price (Dollars per Thousand Cubic Feet)
+TXCCBUS,Total Primary Energy Consumed by the Commercial Sector in Trillion Btu
+TXEIEUS,Total Energy Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide
+TXICBUS,Total Primary Energy Consumed by the Industrial Sector in Trillion Btu
+TXRCBUS,Total Primary Energy Consumed by the Residential Sector in Trillion Btu
+CLEPCNS_TX,"Electric power sector  consumption of coal, Texas (ERCOT)"
+PAEPGEN_TX,"Electric power sector net generation from petroleum, Texas (ERCOT)"
+CLEPGEN_TX,"Electric power sector net generation from coal, Texas (ERCOT)"
+NGEPGEN_TX,"Electric power sector net generation from natural gas, Texas (ERCOT)"
+NGEPCNS_TX,"Electric power sector  consumption of natural gas, Texas (ERCOT)"
+PAEPCNS_TX,"Electric power sector  consumption of petroleum, Texas (ERCOT)"

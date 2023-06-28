@@ -1,0 +1,223 @@
+,period,seriesId,value,unit
+0,2023-01,CLEPCNS_TX,2542.258,thousand short tons
+1,2023-01,PAEPGEN_TX,0.008989852,billion kilowatthours
+2,2023-01,CLEPGEN_TX,3.350762366,billion kilowatthours
+3,2023-01,NGEPGEN_TX,12.517534399,billion kilowatthours
+4,2023-01,NGEPCNS_TX,103.396003,billion cubic feet
+5,2023-01,PAEPCNS_TX,22.669,thousand barrels
+6,2022-12,CLEPCNS_TX,3995.628,thousand short tons
+7,2022-12,PAEPGEN_TX,0.09805635,billion kilowatthours
+8,2022-12,PAEPCNS_TX,227.992,thousand barrels
+9,2022-12,NGEPGEN_TX,14.586473427,billion kilowatthours
+10,2022-12,NGEPCNS_TX,117.037589,billion cubic feet
+11,2022-12,CLEPGEN_TX,5.455245849,billion kilowatthours
+12,2022-11,NGEPCNS_TX,99.396507,billion cubic feet
+13,2022-11,NGEPGEN_TX,12.046655903,billion kilowatthours
+14,2022-11,PAEPCNS_TX,28.747,thousand barrels
+15,2022-11,PAEPGEN_TX,0.014218571,billion kilowatthours
+16,2022-11,CLEPCNS_TX,3886.164,thousand short tons
+17,2022-11,CLEPGEN_TX,5.504823316,billion kilowatthours
+18,2022-10,CLEPCNS_TX,3940.921,thousand short tons
+19,2022-10,PAEPGEN_TX,0.01569722,billion kilowatthours
+20,2022-10,PAEPCNS_TX,37.06,thousand barrels
+21,2022-10,NGEPGEN_TX,14.27722329,billion kilowatthours
+22,2022-10,NGEPCNS_TX,116.243914,billion cubic feet
+23,2022-10,CLEPGEN_TX,5.603011948,billion kilowatthours
+24,2022-09,CLEPCNS_TX,4426.88,thousand short tons
+25,2022-09,PAEPGEN_TX,0.011193487,billion kilowatthours
+26,2022-09,PAEPCNS_TX,24.408,thousand barrels
+27,2022-09,NGEPGEN_TX,19.232498057,billion kilowatthours
+28,2022-09,NGEPCNS_TX,152.357819,billion cubic feet
+29,2022-09,CLEPGEN_TX,6.303659776,billion kilowatthours
+30,2022-08,NGEPCNS_TX,183.737182,billion cubic feet
+31,2022-08,NGEPGEN_TX,22.87411766,billion kilowatthours
+32,2022-08,PAEPCNS_TX,23.844,thousand barrels
+33,2022-08,PAEPGEN_TX,0.01069355,billion kilowatthours
+34,2022-08,CLEPCNS_TX,4707.024,thousand short tons
+35,2022-08,CLEPGEN_TX,6.801359149,billion kilowatthours
+36,2022-07,PAEPGEN_TX,0.011445227,billion kilowatthours
+37,2022-07,CLEPCNS_TX,4802.044,thousand short tons
+38,2022-07,PAEPCNS_TX,24.557,thousand barrels
+39,2022-07,NGEPGEN_TX,22.609434374,billion kilowatthours
+40,2022-07,NGEPCNS_TX,183.095895,billion cubic feet
+41,2022-07,CLEPGEN_TX,7.068470955,billion kilowatthours
+42,2022-06,CLEPCNS_TX,4540.143,thousand short tons
+43,2022-06,PAEPGEN_TX,0.009210472,billion kilowatthours
+44,2022-06,PAEPCNS_TX,21.145,thousand barrels
+45,2022-06,NGEPGEN_TX,18.802036127,billion kilowatthours
+46,2022-06,NGEPCNS_TX,153.258101,billion cubic feet
+47,2022-06,CLEPGEN_TX,6.645845238,billion kilowatthours
+48,2022-05,PAEPGEN_TX,0.006266145,billion kilowatthours
+49,2022-05,CLEPCNS_TX,3639.405,thousand short tons
+50,2022-05,PAEPCNS_TX,14.374,thousand barrels
+51,2022-05,CLEPGEN_TX,5.092948441,billion kilowatthours
+52,2022-05,NGEPCNS_TX,125.157331,billion cubic feet
+53,2022-05,NGEPGEN_TX,15.023112657,billion kilowatthours
+54,2022-04,CLEPCNS_TX,3528.968,thousand short tons
+55,2022-04,PAEPGEN_TX,0.004820163,billion kilowatthours
+56,2022-04,PAEPCNS_TX,12.044,thousand barrels
+57,2022-04,NGEPGEN_TX,9.00984863,billion kilowatthours
+58,2022-04,NGEPCNS_TX,78.418461,billion cubic feet
+59,2022-04,CLEPGEN_TX,5.071148175,billion kilowatthours
+60,2022-03,CLEPCNS_TX,3451.35,thousand short tons
+61,2022-03,PAEPGEN_TX,0.006549567,billion kilowatthours
+62,2022-03,NGEPCNS_TX,75.209946,billion cubic feet
+63,2022-03,NGEPGEN_TX,8.531399728,billion kilowatthours
+64,2022-03,PAEPCNS_TX,13.313,thousand barrels
+65,2022-03,CLEPGEN_TX,5.146731461,billion kilowatthours
+66,2022-02,NGEPCNS_TX,97.483617,billion cubic feet
+67,2022-02,CLEPGEN_TX,5.978240458,billion kilowatthours
+68,2022-02,CLEPCNS_TX,4157.795,thousand short tons
+69,2022-02,PAEPGEN_TX,0.018469559,billion kilowatthours
+70,2022-02,PAEPCNS_TX,41.243,thousand barrels
+71,2022-02,NGEPGEN_TX,11.752305181,billion kilowatthours
+72,2022-01,CLEPCNS_TX,4468.262,thousand short tons
+73,2022-01,PAEPGEN_TX,0.024099495,billion kilowatthours
+74,2022-01,CLEPGEN_TX,6.545819382,billion kilowatthours
+75,2022-01,NGEPGEN_TX,13.132743889,billion kilowatthours
+76,2022-01,NGEPCNS_TX,107.535637,billion cubic feet
+77,2022-01,PAEPCNS_TX,51.731,thousand barrels
+78,2021-12,PAEPGEN_TX,0.005182439,billion kilowatthours
+79,2021-12,CLEPCNS_TX,3935.291,thousand short tons
+80,2021-12,PAEPCNS_TX,10.99,thousand barrels
+81,2021-12,NGEPGEN_TX,10.40138046,billion kilowatthours
+82,2021-12,NGEPCNS_TX,84.96975,billion cubic feet
+83,2021-12,CLEPGEN_TX,5.393876372,billion kilowatthours
+84,2021-11,CLEPCNS_TX,3616.039,thousand short tons
+85,2021-11,PAEPGEN_TX,0.019232065,billion kilowatthours
+86,2021-11,PAEPCNS_TX,36.962,thousand barrels
+87,2021-11,NGEPGEN_TX,9.873711519,billion kilowatthours
+88,2021-11,NGEPCNS_TX,82.872649,billion cubic feet
+89,2021-11,CLEPGEN_TX,5.121430202,billion kilowatthours
+90,2021-10,PAEPGEN_TX,0.007207524,billion kilowatthours
+91,2021-10,CLEPCNS_TX,4137.719,thousand short tons
+92,2021-10,PAEPCNS_TX,15.941,thousand barrels
+93,2021-10,CLEPGEN_TX,5.949044058,billion kilowatthours
+94,2021-10,NGEPCNS_TX,115.99062,billion cubic feet
+95,2021-10,NGEPGEN_TX,13.964897335,billion kilowatthours
+96,2021-09,CLEPCNS_TX,4610.037,thousand short tons
+97,2021-09,PAEPGEN_TX,0.008984297,billion kilowatthours
+98,2021-09,PAEPCNS_TX,18.492,thousand barrels
+99,2021-09,NGEPGEN_TX,17.17023791,billion kilowatthours
+100,2021-09,NGEPCNS_TX,139.699295,billion cubic feet
+101,2021-09,CLEPGEN_TX,6.639198678,billion kilowatthours
+102,2021-08,CLEPCNS_TX,5100.051,thousand short tons
+103,2021-08,PAEPGEN_TX,0.003479871,billion kilowatthours
+104,2021-08,NGEPCNS_TX,167.39061,billion cubic feet
+105,2021-08,NGEPGEN_TX,20.476046293,billion kilowatthours
+106,2021-08,PAEPCNS_TX,7.382,thousand barrels
+107,2021-08,CLEPGEN_TX,7.450635036,billion kilowatthours
+108,2021-07,CLEPCNS_TX,5447.657,thousand short tons
+109,2021-07,PAEPGEN_TX,0.003017247,billion kilowatthours
+110,2021-07,PAEPCNS_TX,6.311,thousand barrels
+111,2021-07,NGEPGEN_TX,20.167196766,billion kilowatthours
+112,2021-07,NGEPCNS_TX,164.703596,billion cubic feet
+113,2021-07,CLEPGEN_TX,7.934833092,billion kilowatthours
+114,2021-06,NGEPCNS_TX,144.567998,billion cubic feet
+115,2021-06,NGEPGEN_TX,17.550486639,billion kilowatthours
+116,2021-06,PAEPCNS_TX,10.062,thousand barrels
+117,2021-06,PAEPGEN_TX,0.004436359,billion kilowatthours
+118,2021-06,CLEPCNS_TX,5193.234,thousand short tons
+119,2021-06,CLEPGEN_TX,7.561799179,billion kilowatthours
+120,2021-05,CLEPCNS_TX,3933.742,thousand short tons
+121,2021-05,PAEPGEN_TX,0.009920762,billion kilowatthours
+122,2021-05,PAEPCNS_TX,20.71,thousand barrels
+123,2021-05,NGEPGEN_TX,11.729180872,billion kilowatthours
+124,2021-05,NGEPCNS_TX,97.617377,billion cubic feet
+125,2021-05,CLEPGEN_TX,5.673818356,billion kilowatthours
+126,2021-04,NGEPCNS_TX,88.889847,billion cubic feet
+127,2021-04,NGEPGEN_TX,10.08482105,billion kilowatthours
+128,2021-04,PAEPCNS_TX,19.738,thousand barrels
+129,2021-04,PAEPGEN_TX,0.009267832,billion kilowatthours
+130,2021-04,CLEPCNS_TX,3250.709,thousand short tons
+131,2021-04,CLEPGEN_TX,4.695556128,billion kilowatthours
+132,2021-03,PAEPGEN_TX,0.004094253,billion kilowatthours
+133,2021-03,CLEPCNS_TX,2724.027,thousand short tons
+134,2021-03,PAEPCNS_TX,9.259,thousand barrels
+135,2021-03,NGEPGEN_TX,8.278469028,billion kilowatthours
+136,2021-03,NGEPCNS_TX,70.086391,billion cubic feet
+137,2021-03,CLEPGEN_TX,3.887308024,billion kilowatthours
+138,2021-02,PAEPGEN_TX,0.085782272,billion kilowatthours
+139,2021-02,CLEPCNS_TX,3686.026,thousand short tons
+140,2021-02,PAEPCNS_TX,173.62,thousand barrels
+141,2021-02,CLEPGEN_TX,5.297241577,billion kilowatthours
+142,2021-02,NGEPCNS_TX,105.482173,billion cubic feet
+143,2021-02,NGEPGEN_TX,12.769068983,billion kilowatthours
+144,2021-01,CLEPCNS_TX,4564.679,thousand short tons
+145,2021-01,PAEPGEN_TX,0.00625028,billion kilowatthours
+146,2021-01,NGEPCNS_TX,93.856258,billion cubic feet
+147,2021-01,NGEPGEN_TX,11.641585186,billion kilowatthours
+148,2021-01,PAEPCNS_TX,13.247,thousand barrels
+149,2021-01,CLEPGEN_TX,6.570614706,billion kilowatthours
+150,2020-12,CLEPCNS_TX,4350.292,thousand short tons
+151,2020-12,PAEPGEN_TX,0.002534182,billion kilowatthours
+152,2020-12,PAEPCNS_TX,4.732,thousand barrels
+153,2020-12,NGEPGEN_TX,10.998097003,billion kilowatthours
+154,2020-12,NGEPCNS_TX,90.223239,billion cubic feet
+155,2020-12,CLEPGEN_TX,6.206820372,billion kilowatthours
+156,2020-11,NGEPCNS_TX,85.27576,billion cubic feet
+157,2020-11,NGEPGEN_TX,10.026508571,billion kilowatthours
+158,2020-11,PAEPCNS_TX,4.204,thousand barrels
+159,2020-11,PAEPGEN_TX,0.002222498,billion kilowatthours
+160,2020-11,CLEPCNS_TX,3765.988,thousand short tons
+161,2020-11,CLEPGEN_TX,5.254534232,billion kilowatthours
+162,2020-10,CLEPCNS_TX,4067.427,thousand short tons
+163,2020-10,PAEPGEN_TX,0.001507361,billion kilowatthours
+164,2020-10,PAEPCNS_TX,2.916,thousand barrels
+165,2020-10,NGEPGEN_TX,14.277624546,billion kilowatthours
+166,2020-10,NGEPCNS_TX,118.323991,billion cubic feet
+167,2020-10,CLEPGEN_TX,5.761139888,billion kilowatthours
+168,2020-09,CLEPCNS_TX,4493.832,thousand short tons
+169,2020-09,PAEPGEN_TX,0.003760952,billion kilowatthours
+170,2020-09,PAEPCNS_TX,7.177,thousand barrels
+171,2020-09,NGEPGEN_TX,16.608207784,billion kilowatthours
+172,2020-09,NGEPCNS_TX,132.427859,billion cubic feet
+173,2020-09,CLEPGEN_TX,6.352638498,billion kilowatthours
+174,2020-08,NGEPCNS_TX,177.080279,billion cubic feet
+175,2020-08,NGEPGEN_TX,21.505703285,billion kilowatthours
+176,2020-08,PAEPCNS_TX,3.128,thousand barrels
+177,2020-08,PAEPGEN_TX,0.00158775,billion kilowatthours
+178,2020-08,CLEPCNS_TX,4799.393,thousand short tons
+179,2020-08,CLEPGEN_TX,6.9954056,billion kilowatthours
+180,2020-07,PAEPGEN_TX,0.002146792,billion kilowatthours
+181,2020-07,CLEPCNS_TX,4445.129,thousand short tons
+182,2020-07,PAEPCNS_TX,4.152,thousand barrels
+183,2020-07,NGEPGEN_TX,21.439225696,billion kilowatthours
+184,2020-07,NGEPCNS_TX,174.440063,billion cubic feet
+185,2020-07,CLEPGEN_TX,6.348566553,billion kilowatthours
+186,2020-06,CLEPCNS_TX,3954.98,thousand short tons
+187,2020-06,PAEPGEN_TX,0.002656115,billion kilowatthours
+188,2020-06,PAEPCNS_TX,5.209,thousand barrels
+189,2020-06,NGEPGEN_TX,16.651489585,billion kilowatthours
+190,2020-06,NGEPCNS_TX,135.032304,billion cubic feet
+191,2020-06,CLEPGEN_TX,5.501823001,billion kilowatthours
+192,2020-05,PAEPGEN_TX,0.003183304,billion kilowatthours
+193,2020-05,CLEPCNS_TX,3592.526,thousand short tons
+194,2020-05,PAEPCNS_TX,6.277,thousand barrels
+195,2020-05,CLEPGEN_TX,4.898149216,billion kilowatthours
+196,2020-05,NGEPCNS_TX,114.630016,billion cubic feet
+197,2020-05,NGEPGEN_TX,14.05938931,billion kilowatthours
+198,2020-04,CLEPCNS_TX,3404.71,thousand short tons
+199,2020-04,PAEPGEN_TX,0.004323043,billion kilowatthours
+200,2020-04,PAEPCNS_TX,8.943,thousand barrels
+201,2020-04,NGEPGEN_TX,10.997354784,billion kilowatthours
+202,2020-04,NGEPCNS_TX,90.934755,billion cubic feet
+203,2020-04,CLEPGEN_TX,4.863269918,billion kilowatthours
+204,2020-03,CLEPCNS_TX,2958.549,thousand short tons
+205,2020-03,PAEPGEN_TX,0.002392061,billion kilowatthours
+206,2020-03,NGEPCNS_TX,100.81033,billion cubic feet
+207,2020-03,NGEPGEN_TX,12.279991759,billion kilowatthours
+208,2020-03,PAEPCNS_TX,4.722,thousand barrels
+209,2020-03,CLEPGEN_TX,4.2851941,billion kilowatthours
+210,2020-02,NGEPCNS_TX,99.341021,billion cubic feet
+211,2020-02,CLEPGEN_TX,3.947824918,billion kilowatthours
+212,2020-02,CLEPCNS_TX,2911.195,thousand short tons
+213,2020-02,PAEPGEN_TX,0.005600183,billion kilowatthours
+214,2020-02,PAEPCNS_TX,10.947,thousand barrels
+215,2020-02,NGEPGEN_TX,12.468100158,billion kilowatthours
+216,2020-01,CLEPCNS_TX,3225.376,thousand short tons
+217,2020-01,CLEPGEN_TX,4.36457469,billion kilowatthours
+218,2020-01,PAEPGEN_TX,0.002526854,billion kilowatthours
+219,2020-01,NGEPGEN_TX,12.775475621,billion kilowatthours
+220,2020-01,PAEPCNS_TX,4.997,thousand barrels
+221,2020-01,NGEPCNS_TX,101.322595,billion cubic feet

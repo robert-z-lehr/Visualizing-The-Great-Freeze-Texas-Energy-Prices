@@ -1,0 +1,5 @@
+status,statusDescription
+OP,Operating
+SB,Standby/Backup: available for service but not normally used
+OS,Out of service and NOT expected to return to service in next calendar year
+OA,Out of service but expected to return to service in next calendar year
