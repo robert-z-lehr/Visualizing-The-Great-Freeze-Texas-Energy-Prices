@@ -49,6 +49,7 @@ def home():
         f"/api/v1.0/processes<br/>"
         f"/api/v1.0/consumption_and_co2<br/>"
         f"/api/v1.0/generation_and_consumption<br/>"
+        f"/api/v1.0/generators/YYYY-MM/YYYY-MM<br/>"
     )
     
 ####################################################################################
@@ -325,6 +326,39 @@ def get_generation():
 
     # Return the JSON list of states data
     return jsonify(gen_data)
+
+####################################################################################
+####################################################################################
+
+# Define the generators route
+@app.route('/api/v1.0/generators/<start>/<end>')
+def get_generators_dates(start, end):
+    """Return the generator data"""
+    results = session.query(Generators).filter(Generators.period >= start).\
+        filter(Generators.period <= end).all()
+
+    # Create a list of dictionaries containing generator data
+    generator_data = []
+    for result in results:
+        generator_dict = {
+            'id': result.id,
+            'period': result.period,
+            'stateID': result.stateid,
+            'sector': result.sector,
+            'entityid': result.entityid,
+            'plantid': result.plantid,
+            'generatorid': result.generatorid,
+            'technology': result.technology,
+            'energy_source_code': result.energy_source_code,
+            'prime_mover_code': result.prime_mover_code,
+            'status': result.status_descr,
+            'latitude': result.latitude,
+            'longitude': result.longitude
+        }
+        generator_data.append(generator_dict)
+
+    # Return the JSON list of generator data
+    return jsonify(generator_data)
 
 ####################################################################################
 ####################################################################################
