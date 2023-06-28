@@ -1,5 +1,5 @@
 DROP TABLE IF EXISTS Energy_Sources, States, Sectors, Entities, Plants, 
-Stat_descr, Generators, Prices, Processes, Series, Consumption_and_CO2, Generation_and_consumption CASCADE;
+Stat_descr, Generators, Prices, Processes, Ser_descr, Consumption_and_CO2, Generation_and_consumption CASCADE;
 
 -- Create Energy Sources table
 CREATE TABLE Energy_Sources (
@@ -64,9 +64,9 @@ CREATE TABLE Generators (
 );
 
 -- Create Series table
-CREATE TABLE Series (
-    series VARCHAR(15) PRIMARY KEY NOT NULL,
-    series_description VARCHAR(100) NOT NULL
+CREATE TABLE Ser_descr (
+    ser_id VARCHAR(15) PRIMARY KEY NOT NULL,
+    ser_description VARCHAR(100) NOT NULL
 );
 
 -- Create Processes table
@@ -85,7 +85,7 @@ CREATE TABLE Prices (
 	series VARCHAR(10) NOT NULL,
 	value FLOAT(53) NOT NULL,
 	units VARCHAR(5) NOT NULL,
-	FOREIGN KEY (series) REFERENCES Series(series),
+	FOREIGN KEY (series) REFERENCES Ser_descr(ser_id),
 	FOREIGN KEY (process_name) REFERENCES Processes(process_id),
 	FOREIGN KEY (area_name) REFERENCES States(stateID)
 );
@@ -97,7 +97,7 @@ CREATE TABLE Consumption_and_CO2 (
 	msn VARCHAR(7) NOT NULL,
 	value FLOAT(53) NOT NULL,
 	unit VARCHAR(40) NOT NULL,
-	FOREIGN KEY (msn) REFERENCES Series(series)
+	FOREIGN KEY (msn) REFERENCES Ser_descr(ser_id)
 );
 
 -- Create Generation and Consumption table
@@ -107,7 +107,7 @@ CREATE TABLE Generation_and_consumption (
 	seriesid VARCHAR(10) NOT NULL,
 	value FLOAT(53) NOT NULL,
 	unit VARCHAR(25) NOT NULL,
-	FOREIGN KEY (seriesid) REFERENCES Series(series)
+	FOREIGN KEY (seriesid) REFERENCES Ser_descr(ser_id)
 );
 
 -- Confirm tables are populated correctly
@@ -120,7 +120,7 @@ SELECT * FROM Plants;
 SELECT * FROM Stat_Descr;
 SELECT * FROM Prices;
 SELECT * FROM Processes;
-SELECT * FROM Series;
+SELECT * FROM Ser_descr;
 SELECT * FROM Consumption_and_CO2;
 SELECT * FROM Generation_and_consumption;
 
