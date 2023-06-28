@@ -1,0 +1,8 @@
+sector,sectorName
+ipp-non-chp,IPP Non-CHP
+industrial-chp,Industrial CHP
+electric-utility,Electric Utility
+ipp-chp,IPP CHP
+industrial-non-chp,Industrial Non-CHP
+commercial-chp,Commercial CHP
+commercial-non-chp,Commercial Non-CHP

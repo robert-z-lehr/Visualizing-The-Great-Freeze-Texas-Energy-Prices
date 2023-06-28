@@ -1,0 +1,20 @@
+energy_source_code,energy-source-desc
+AB,Agriculture Byproducts
+BFG,Blast-Furnace Gas
+BLQ,Black Liquor
+DFO,Disillate Fuel Oil
+LFG,Landfill Gas
+LIG,Lignite
+MWH,Electricity used for energy storage
+NG,Natural Gas
+NUC,Nuclear
+OG,Other Gas
+PC,Petroleum Coke
+PUR,Purchased Steam
+RC,Refined Coal
+SUB,Subbituminous Coal
+SUN,Solar
+WAT,Water
+WDS,Wood Waste Solids
+WH,Waste Heat
+WND,Wind
