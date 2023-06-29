@@ -4,7 +4,7 @@ Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Project 3
 ## The Great Freeze - Texas Energy Prices Across Sectors:
 - There are defining moments in time, and the State of Texas had an extreme weather outlier During February, 2021. This inspired JARDO Analytics, Inc. to determine how such extreme weather conditions impact energy consumption and prices in Texas.
 - We used the [Energy Information Administration](<https://www.eia.gov/opendata/>){:target="_blank" rel="noopener"} API to request Texas energy data between January 2020 and January 2023. The EIA “collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment.” <https://www.eia.gov/opendata/>
-![image](https://github.com/DataScience-Skills/Project-3-Visualizing-Data/assets/61632673/84ace6e4-a2f9-481d-9252-8b7db2c653dc)
+
 - Our process:
   1. Make Initial calls to the EIA API
   2.Analyze, transform, and export JSON results
