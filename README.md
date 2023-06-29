@@ -7,7 +7,7 @@ Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Project 3
 
 - Our process:
   1. Make Initial calls to the EIA API
-  2.Analyze, transform, and export JSON results
+  2. Analyze, transform, and export JSON results
   3. Create charts using cleaned data
   4. Create a PSQL database to store the data
   5. Develop a Flask API to connect to the database and power the interactive webpage
