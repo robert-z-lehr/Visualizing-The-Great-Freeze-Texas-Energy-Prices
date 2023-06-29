@@ -18,8 +18,8 @@ Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Project 3
   - The Petroleum sector showed spikes in petroleum consumption during the last two freezes in Texas, skipping over Winter 2021, in which there was no extreme freeze.
 
 <div style="display:flex;">
-  <img src="https://github.com/DataScience-Skills/Project-3-Visualizing-Data/raw/main/Images/ng_prices.png" style="flex: 50%; padding: 5px;">
-  <img src="https://github.com/DataScience-Skills/Project-3-Visualizing-Data/raw/main/Images/petroleum_consumption.png" style="flex: 50%; padding: 5px;">
+  <img src="https://github.com/DataScience-Skills/Project-3-Visualizing-Data/raw/main/Images/ng_prices.png" style="flex: 30%; padding: 5px;">
+  <img src="https://github.com/DataScience-Skills/Project-3-Visualizing-Data/raw/main/Images/petroleum_consumption.png" style="flex: 30%; padding: 5px;">
 </div>
 
 ![Natural Gas Prices](https://github.com/DataScience-Skills/Project-3-Visualizing-Data/raw/main/Images/ng_prices.png)
