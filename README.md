@@ -21,7 +21,4 @@ Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Project 3
 
 ![Petroleum Consumption](https://github.com/DataScience-Skills/Project-3-Visualizing-Data/raw/main/Images/petroleum_consumption.png)
 
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
