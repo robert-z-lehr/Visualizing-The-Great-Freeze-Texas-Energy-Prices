@@ -1,5 +1,4 @@
-# Project-3-Visualizing-Data
-Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Project 3
+# Extreme-Weather-Impact-Energy-Generation
 
 ## The Great Freeze - Texas Energy Prices Across Sectors:
 - There are defining moments in time, and the State of Texas had an extreme weather outlier during February, 2021. This inspired JARDO Analytics, Inc. to determine how such extreme weather conditions impact energy consumption and prices in Texas.
