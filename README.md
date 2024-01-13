@@ -13,7 +13,7 @@
   6. Design interactive webpage
  
 - Two of the notable conclusions we made are:
-  - The City Gate Price was greater during the freeze than the Residential Consumers Price, which is an anomaly since the City Fate Price is a component for calculating the Residential Consumers Price. The extreme weather conditions caused the transportation of fuel to be significantly more expensive , even if the fuel was not transferred to the residents.
+  - The City Gate Price was greater during the freeze than the Residential Consumers Price, which is an anomaly since the City Gate Price is a component for calculating the Residential Consumers Price. The extreme weather conditions caused the transportation of fuel to be significantly more expensive, even if the fuel was not transferred to the residents.
   - The Petroleum sector showed spikes in petroleum consumption during the last two freezes in Texas, skipping over Winter 2021, in which there was no extreme freeze.
 
 ![Natural Gas Prices](https://github.com/DataScience-Skills/Project-3-Visualizing-Data/raw/main/images/ng_prices.png)
